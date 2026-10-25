@@ -108,4 +108,4 @@ Power BI, if used to create the original dashboard. Update this line if a differ
 ## Author
 
 **Ogbodo Nehemiah Izuchukwu**  
-Data Analysis | Data Visualisation | Statistics | Power BI | Excel
+Data Analysis | Data Visualisation | Statistician | Power BI | Excel
