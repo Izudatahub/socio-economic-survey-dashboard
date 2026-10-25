@@ -19,7 +19,7 @@ The data used in this project is simulated for learning and portfolio demonstrat
 - [Page 2: Income and Infrastructure](#page-2-income-and-infrastructure)
 
 - [Page 3: Employment, Health, and Community Challenges](#page-3-employment-health-and-community-challenges)
-  -
+
 - [Dataset](#dataset)
 
 - [Key Questions](#key-questions)
