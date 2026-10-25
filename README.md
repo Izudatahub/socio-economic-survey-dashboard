@@ -112,5 +112,5 @@ Microsoft Power BI
 
 ## Author
 
-# Ogbodo Nehemiah Izuchukwu
+## Ogbodo Nehemiah Izuchukwu
 Data Analysis | Data Visualisation | Statistics | Power BI | Excel
