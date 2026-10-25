@@ -4,7 +4,8 @@
 
 This portfolio project presents an overview of community demographics, education, employment, income, access to basic infrastructure, health status, and perceived community challenges.
 
-> **Data disclaimer:** The data used in this project is simulated for learning and portfolio demonstration. It is not based on actual responses collected from a community.
+> **Data disclaimer:**
+The data used in this project is simulated for learning and portfolio demonstration. It is not based on actual responses collected from a community.
 
 ## Table of Contents
 
