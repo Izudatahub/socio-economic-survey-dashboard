@@ -83,7 +83,8 @@ The columns cover respondent ID, age group, education level, literacy, occupatio
 - Dataset preparation and documentation
 - Communicating limitations of simulated data
 
-**Software:** Power BI, if used to create the original dashboard. Update this line if a different tool was used.
+**Software:** 
+Microsoft Power BI
 
 ## Repository Contents
 
