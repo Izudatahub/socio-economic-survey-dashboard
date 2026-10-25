@@ -1,0 +1,1251 @@
+﻿Respondent_ID,Age_Group,Education_Level,Can_Read_Write,Main_Occupation,Employment_Status,Monthly_Income,Main_Income_Source,Electricity_Access,Water_Source,Safe_Water_Access,Toilet_Facility,Health_Status,Biggest_Community_Challenge
+R0001,18-24,Secondary,Yes,Trading,Employed,"₦60,000-₦99,999",Salary/Wages,Yes,Well,Yes,Open defecation,Fair,Unemployment
+R0002,45-54,Primary,No,Unemployed,Self-employed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Pit latrine,Fair,Poor roads
+R0003,18-24,Secondary,Yes,Farming,Self-employed,Prefer not to say,Salary/Wages,Yes,Borehole,Yes,Pit latrine,Good,Poor healthcare
+R0004,25-34,Secondary,Yes,Other,Student,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Open defecation,Poor,Insecurity
+R0005,55-64,Tertiary,Yes,Civil Servant,Employed,"₦100,000+",Salary/Wages,Yes,Borehole,No,Open defecation,Good,Insecurity
+R0006,35-44,Primary,No,Student,Unemployed,"Below ₦30,000",Remittance,No,Well,Yes,Pit latrine,Fair,Poor healthcare
+R0007,55-64,Secondary,Yes,Fishing,Retired,"₦100,000+",Farming,Yes,Borehole,Yes,Pit latrine,Good,Other
+R0008,65+,Secondary,No,Farming,Employed,"₦30,000-₦59,999",Farming,No,Well,No,Pit latrine,Good,Insecurity
+R0009,18-24,Secondary,Yes,Trading,Unemployed,"₦60,000-₦99,999",Fishing,Yes,River/Stream,Yes,Flush toilet,Fair,Poor schools
+R0010,25-34,Secondary,No,Fishing,Self-employed,"₦100,000+",Farming,Yes,Pipe-borne,No,Open defecation,Good,Water shortage
+R0011,65+,Secondary,Yes,Fishing,Student,"Below ₦30,000",Farming,Yes,Borehole,Yes,Pit latrine,Good,Poor roads
+R0012,18-24,Secondary,No,Unemployed,Employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Fair,Unemployment
+R0013,25-34,Tertiary,No,Artisan,Student,Prefer not to say,Salary/Wages,Yes,Pipe-borne,No,Pit latrine,Fair,Unemployment
+R0014,45-54,Tertiary,Yes,Fishing,Unemployed,"₦60,000-₦99,999",Fishing,Yes,Well,No,Pit latrine,Poor,Insecurity
+R0015,25-34,Primary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,No,Other,Yes,Pit latrine,Good,Poor healthcare
+R0016,45-54,Tertiary,Yes,Artisan,Self-employed,"₦30,000-₦59,999",Trading,No,Borehole,No,Flush toilet,Fair,Poor electricity
+R0017,45-54,Primary,Yes,Unemployed,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Sachet/Bottled,No,Pit latrine,Poor,Unemployment
+R0018,25-34,Secondary,Yes,Trading,Self-employed,"₦100,000+",Farming,Yes,Borehole,Yes,Flush toilet,Fair,Poor schools
+R0019,35-44,Primary,No,Fishing,Self-employed,"₦30,000-₦59,999",Farming,No,Borehole,No,Flush toilet,Good,Poor electricity
+R0020,35-44,Tertiary,No,Farming,Self-employed,"₦100,000+",Trading,No,Borehole,Yes,Pit latrine,Fair,Unemployment
+R0021,25-34,Primary,Yes,Trading,Self-employed,"₦100,000+",Trading,Yes,Borehole,Yes,Pit latrine,Good,Poor roads
+R0022,35-44,None,Yes,Fishing,Self-employed,"₦100,000+",Fishing,Yes,Borehole,Yes,Other,Good,Poor schools
+R0023,25-34,None,No,Unemployed,Self-employed,"₦60,000-₦99,999",Trading,Yes,Pipe-borne,Yes,Pit latrine,Good,Unemployment
+R0024,25-34,Tertiary,Yes,Unemployed,Employed,"₦100,000+",Farming,No,River/Stream,No,Flush toilet,Poor,Poor schools
+R0025,65+,Tertiary,Yes,Civil Servant,Employed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor roads
+R0026,35-44,Secondary,Yes,Student,Self-employed,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Pit latrine,Good,Poor roads
+R0027,35-44,Secondary,Yes,Unemployed,Retired,"Below ₦30,000",Farming,Yes,River/Stream,Yes,Flush toilet,Good,Other
+R0028,65+,Secondary,Yes,Other,Employed,"₦100,000+",Salary/Wages,Yes,Well,Yes,Pit latrine,Good,Insecurity
+R0029,25-34,Primary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Remittance,Yes,Borehole,Yes,Open defecation,Poor,Poor schools
+R0030,65+,Primary,Yes,Unemployed,Student,"Below ₦30,000",Trading,Yes,Sachet/Bottled,No,Other,Good,Poor roads
+R0031,35-44,Primary,Yes,Farming,Employed,"₦30,000-₦59,999",Trading,Yes,Borehole,No,Flush toilet,Good,Other
+R0032,18-24,Secondary,Yes,Fishing,Unemployed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Fair,Poor healthcare
+R0033,45-54,Primary,Yes,Civil Servant,Employed,"₦100,000+",Trading,No,Borehole,Yes,Other,Good,Unemployment
+R0034,18-24,Secondary,Yes,Civil Servant,Self-employed,"Below ₦30,000",Salary/Wages,Yes,Well,Yes,Flush toilet,Good,Insecurity
+R0035,25-34,Primary,Yes,Trading,Employed,"Below ₦30,000",Trading,No,Borehole,Yes,Flush toilet,Fair,Unemployment
+R0036,25-34,Primary,Yes,Other,Student,"₦60,000-₦99,999",Farming,Yes,Sachet/Bottled,Yes,Other,Good,Insecurity
+R0037,45-54,Tertiary,Yes,Trading,Self-employed,"Below ₦30,000",Trading,Yes,Borehole,Yes,Pit latrine,Fair,Poor electricity
+R0038,65+,Tertiary,Yes,Farming,Employed,"Below ₦30,000",Farming,Yes,Borehole,No,Other,Good,Poor healthcare
+R0039,25-34,None,No,Farming,Unemployed,"Below ₦30,000",Salary/Wages,Yes,Borehole,Yes,Flush toilet,Poor,Other
+R0040,25-34,Secondary,Yes,Trading,Unemployed,"₦60,000-₦99,999",Trading,Yes,Well,Yes,Pit latrine,Good,Poor healthcare
+R0041,35-44,None,Yes,Farming,Employed,"₦60,000-₦99,999",Farming,Yes,Well,Yes,Open defecation,Fair,Water shortage
+R0042,18-24,Secondary,Yes,Civil Servant,Employed,"Below ₦30,000",Farming,No,Borehole,Yes,Pit latrine,Fair,Poor roads
+R0043,55-64,Secondary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Remittance,Yes,Borehole,Yes,Pit latrine,Good,Poor electricity
+R0044,45-54,Tertiary,Yes,Other,Student,"Below ₦30,000",Salary/Wages,No,Borehole,Yes,Pit latrine,Fair,Insecurity
+R0045,35-44,Secondary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Pit latrine,Good,Insecurity
+R0046,25-34,Secondary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Trading,Yes,Sachet/Bottled,No,Pit latrine,Good,Unemployment
+R0047,35-44,Primary,Yes,Other,Retired,Prefer not to say,Other,Yes,Sachet/Bottled,No,Flush toilet,Good,Poor healthcare
+R0048,25-34,Primary,Yes,Fishing,Unemployed,Prefer not to say,Other,No,Borehole,No,Pit latrine,Fair,Water shortage
+R0049,25-34,Secondary,Yes,Fishing,Employed,"₦60,000-₦99,999",Other,No,Borehole,No,Open defecation,Fair,Poor electricity
+R0050,55-64,Secondary,No,Trading,Student,"₦100,000+",Salary/Wages,No,Pipe-borne,Yes,Pit latrine,Good,Insecurity
+R0051,25-34,Secondary,Yes,Farming,Self-employed,"₦100,000+",Farming,Yes,Pipe-borne,Yes,Flush toilet,Good,Other
+R0052,25-34,Secondary,No,Student,Employed,"Below ₦30,000",Salary/Wages,Yes,Borehole,Yes,Open defecation,Fair,Poor roads
+R0053,18-24,None,Yes,Farming,Employed,"₦100,000+",Farming,No,Sachet/Bottled,Yes,Pit latrine,Good,Poor roads
+R0054,45-54,Tertiary,Yes,Artisan,Self-employed,"₦30,000-₦59,999",Trading,Yes,Pipe-borne,Yes,Pit latrine,Fair,Unemployment
+R0055,25-34,Primary,Yes,Civil Servant,Self-employed,"Below ₦30,000",Trading,Yes,Sachet/Bottled,Yes,Other,Fair,Insecurity
+R0056,55-64,Secondary,Yes,Farming,Retired,"₦60,000-₦99,999",Trading,Yes,Well,Yes,Pit latrine,Good,Poor schools
+R0057,35-44,Primary,Yes,Fishing,Unemployed,"₦100,000+",Trading,No,Pipe-borne,Yes,Flush toilet,Good,Poor electricity
+R0058,18-24,Secondary,Yes,Artisan,Self-employed,"₦60,000-₦99,999",Farming,Yes,Borehole,No,Pit latrine,Poor,Poor healthcare
+R0059,55-64,Secondary,Yes,Student,Unemployed,"₦30,000-₦59,999",Other,Yes,Well,Yes,Pit latrine,Poor,Water shortage
+R0060,35-44,None,No,Civil Servant,Employed,"₦100,000+",Farming,No,Sachet/Bottled,Yes,Flush toilet,Good,Poor electricity
+R0061,35-44,Tertiary,Yes,Trading,Employed,"₦30,000-₦59,999",Trading,No,Borehole,No,Open defecation,Good,Insecurity
+R0062,25-34,Secondary,Yes,Civil Servant,Employed,"₦100,000+",Remittance,Yes,Borehole,Yes,Pit latrine,Poor,Insecurity
+R0063,25-34,Secondary,Yes,Civil Servant,Retired,"₦30,000-₦59,999",Farming,Yes,Well,No,Pit latrine,Fair,Other
+R0064,25-34,Primary,Yes,Farming,Unemployed,"Below ₦30,000",Remittance,No,Borehole,Yes,Pit latrine,Good,Poor roads
+R0065,25-34,Primary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Remittance,Yes,Borehole,Yes,Flush toilet,Good,Poor healthcare
+R0066,35-44,Tertiary,No,Unemployed,Employed,Prefer not to say,Farming,No,Borehole,Yes,Flush toilet,Good,Poor electricity
+R0067,45-54,Tertiary,Yes,Fishing,Retired,"Below ₦30,000",Fishing,Yes,Borehole,Yes,Flush toilet,Good,Unemployment
+R0068,65+,Primary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Fishing,Yes,Well,No,Other,Good,Unemployment
+R0069,25-34,Tertiary,Yes,Farming,Employed,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Flush toilet,Good,Poor roads
+R0070,25-34,Tertiary,Yes,Trading,Unemployed,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Flush toilet,Good,Water shortage
+R0071,35-44,Tertiary,Yes,Trading,Employed,"₦60,000-₦99,999",Farming,Yes,Sachet/Bottled,No,Flush toilet,Good,Poor electricity
+R0072,45-54,Primary,Yes,Farming,Employed,"₦30,000-₦59,999",Other,No,Pipe-borne,No,Open defecation,Poor,Poor roads
+R0073,25-34,Secondary,Yes,Civil Servant,Unemployed,Prefer not to say,Remittance,Yes,River/Stream,Yes,Pit latrine,Fair,Water shortage
+R0074,35-44,Primary,No,Farming,Employed,"Below ₦30,000",Trading,Yes,Borehole,Yes,Flush toilet,Good,Poor schools
+R0075,35-44,None,Yes,Artisan,Employed,"Below ₦30,000",Trading,Yes,Pipe-borne,Yes,Flush toilet,Good,Water shortage
+R0076,35-44,Tertiary,Yes,Farming,Employed,Prefer not to say,Trading,No,Borehole,No,Pit latrine,Fair,Water shortage
+R0077,35-44,Secondary,Yes,Civil Servant,Employed,"₦60,000-₦99,999",Remittance,Yes,Other,Yes,Flush toilet,Fair,Poor roads
+R0078,25-34,Primary,Yes,Trading,Student,"₦30,000-₦59,999",Trading,No,Sachet/Bottled,No,Other,Good,Poor healthcare
+R0079,18-24,Secondary,Yes,Civil Servant,Retired,"Below ₦30,000",Fishing,No,Pipe-borne,Yes,Flush toilet,Fair,Poor roads
+R0080,35-44,Secondary,Yes,Farming,Student,"₦60,000-₦99,999",Remittance,No,Borehole,Yes,Flush toilet,Fair,Insecurity
+R0081,45-54,Primary,Yes,Fishing,Self-employed,"₦100,000+",Remittance,No,Well,No,Flush toilet,Fair,Insecurity
+R0082,35-44,Secondary,No,Unemployed,Employed,"Below ₦30,000",Farming,Yes,Pipe-borne,No,Pit latrine,Good,Poor healthcare
+R0083,55-64,Secondary,Yes,Unemployed,Unemployed,"Below ₦30,000",Fishing,Yes,Well,Yes,Pit latrine,Poor,Poor healthcare
+R0084,45-54,None,No,Farming,Self-employed,"₦100,000+",Salary/Wages,Yes,Sachet/Bottled,Yes,Pit latrine,Fair,Poor roads
+R0085,25-34,Primary,Yes,Student,Employed,"₦60,000-₦99,999",Salary/Wages,Yes,Borehole,No,Flush toilet,Poor,Poor roads
+R0086,55-64,Tertiary,No,Trading,Employed,"₦30,000-₦59,999",Trading,No,River/Stream,No,Pit latrine,Poor,Poor healthcare
+R0087,18-24,Tertiary,No,Student,Retired,"Below ₦30,000",Farming,No,River/Stream,Yes,Flush toilet,Good,Water shortage
+R0088,45-54,Secondary,Yes,Other,Self-employed,Prefer not to say,Trading,No,Well,No,Open defecation,Good,Water shortage
+R0089,45-54,Primary,No,Farming,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Borehole,No,Flush toilet,Good,Water shortage
+R0090,25-34,Secondary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Salary/Wages,No,Sachet/Bottled,No,Flush toilet,Good,Poor schools
+R0091,55-64,Tertiary,No,Unemployed,Self-employed,"Below ₦30,000",Fishing,Yes,Borehole,No,Flush toilet,Good,Unemployment
+R0092,55-64,Secondary,Yes,Unemployed,Unemployed,"Below ₦30,000",Fishing,No,Well,Yes,Flush toilet,Fair,Water shortage
+R0093,35-44,Secondary,No,Unemployed,Self-employed,Prefer not to say,Farming,No,Well,Yes,Flush toilet,Good,Water shortage
+R0094,55-64,Secondary,Yes,Trading,Retired,"₦100,000+",Trading,Yes,Sachet/Bottled,Yes,Pit latrine,Fair,Unemployment
+R0095,25-34,Primary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Fishing,Yes,River/Stream,No,Other,Good,Poor roads
+R0096,35-44,Secondary,Yes,Farming,Self-employed,Prefer not to say,Farming,Yes,Borehole,Yes,Pit latrine,Fair,Insecurity
+R0097,45-54,Secondary,No,Trading,Self-employed,"Below ₦30,000",Salary/Wages,No,Sachet/Bottled,Yes,Pit latrine,Fair,Insecurity
+R0098,18-24,Tertiary,No,Artisan,Student,"₦30,000-₦59,999",Remittance,No,Borehole,No,Pit latrine,Fair,Poor roads
+R0099,45-54,Tertiary,No,Trading,Self-employed,"₦60,000-₦99,999",Farming,No,Pipe-borne,Yes,Pit latrine,Fair,Insecurity
+R0100,25-34,Secondary,Yes,Student,Unemployed,"₦60,000-₦99,999",Remittance,Yes,Borehole,Yes,Flush toilet,Fair,Insecurity
+R0101,25-34,Secondary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Other,Yes,Sachet/Bottled,No,Pit latrine,Fair,Poor healthcare
+R0102,25-34,Secondary,No,Unemployed,Unemployed,"₦30,000-₦59,999",Fishing,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor roads
+R0103,25-34,Tertiary,Yes,Civil Servant,Unemployed,"₦30,000-₦59,999",Remittance,Yes,Sachet/Bottled,Yes,Other,Good,Unemployment
+R0104,35-44,Primary,Yes,Farming,Student,"Below ₦30,000",Other,Yes,Pipe-borne,Yes,Flush toilet,Good,Poor electricity
+R0105,18-24,Secondary,No,Unemployed,Self-employed,"₦30,000-₦59,999",Farming,Yes,Borehole,No,Pit latrine,Good,Poor schools
+R0106,25-34,Primary,Yes,Civil Servant,Unemployed,"₦60,000-₦99,999",Fishing,Yes,Sachet/Bottled,No,Pit latrine,Good,Poor schools
+R0107,18-24,None,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Fishing,Yes,Borehole,Yes,Other,Good,Poor roads
+R0108,25-34,Tertiary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Borehole,Yes,Flush toilet,Good,Poor roads
+R0109,35-44,Primary,Yes,Artisan,Self-employed,"₦30,000-₦59,999",Trading,Yes,Well,Yes,Pit latrine,Fair,Unemployment
+R0110,35-44,Secondary,Yes,Trading,Unemployed,Prefer not to say,Remittance,Yes,Pipe-borne,Yes,Flush toilet,Good,Water shortage
+R0111,45-54,Primary,Yes,Student,Student,"₦100,000+",Salary/Wages,Yes,Borehole,No,Flush toilet,Fair,Poor electricity
+R0112,18-24,Secondary,No,Farming,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,Well,Yes,Flush toilet,Poor,Unemployment
+R0113,25-34,Secondary,Yes,Farming,Employed,"Below ₦30,000",Remittance,Yes,Borehole,Yes,Pit latrine,Good,Insecurity
+R0114,18-24,Secondary,No,Unemployed,Employed,"₦100,000+",Fishing,Yes,Borehole,Yes,Pit latrine,Good,Insecurity
+R0115,18-24,Secondary,Yes,Trading,Employed,"₦60,000-₦99,999",Farming,Yes,Borehole,Yes,Pit latrine,Good,Insecurity
+R0116,55-64,Tertiary,No,Farming,Student,"₦30,000-₦59,999",Fishing,No,Sachet/Bottled,Yes,Flush toilet,Good,Poor schools
+R0117,18-24,Primary,Yes,Civil Servant,Employed,"Below ₦30,000",Farming,No,Pipe-borne,No,Pit latrine,Good,Unemployment
+R0118,25-34,Secondary,Yes,Civil Servant,Self-employed,"Below ₦30,000",Salary/Wages,Yes,Pipe-borne,Yes,Open defecation,Good,Unemployment
+R0119,45-54,Secondary,No,Other,Employed,"Below ₦30,000",Salary/Wages,Yes,Sachet/Bottled,No,Flush toilet,Fair,Insecurity
+R0120,25-34,Tertiary,Yes,Trading,Employed,"₦100,000+",Farming,Yes,Borehole,Yes,Pit latrine,Poor,Insecurity
+R0121,25-34,Primary,No,Unemployed,Self-employed,"₦60,000-₦99,999",Farming,No,Pipe-borne,Yes,Pit latrine,Fair,Poor roads
+R0122,35-44,Tertiary,Yes,Artisan,Self-employed,"Below ₦30,000",Salary/Wages,No,Sachet/Bottled,Yes,Open defecation,Good,Poor roads
+R0123,35-44,Secondary,No,Trading,Student,"Below ₦30,000",Farming,Yes,Sachet/Bottled,No,Flush toilet,Fair,Poor electricity
+R0124,55-64,Secondary,Yes,Farming,Self-employed,"Below ₦30,000",Farming,Yes,Well,Yes,Open defecation,Good,Poor electricity
+R0125,35-44,Primary,Yes,Farming,Self-employed,"₦100,000+",Remittance,No,Pipe-borne,Yes,Pit latrine,Good,Water shortage
+R0126,35-44,Primary,Yes,Student,Self-employed,"₦100,000+",Trading,Yes,Pipe-borne,No,Pit latrine,Fair,Water shortage
+R0127,25-34,Primary,Yes,Unemployed,Self-employed,"₦30,000-₦59,999",Fishing,Yes,Borehole,Yes,Other,Fair,Water shortage
+R0128,25-34,None,Yes,Farming,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Well,No,Open defecation,Good,Poor healthcare
+R0129,45-54,Primary,No,Farming,Employed,"₦100,000+",Farming,No,Borehole,Yes,Flush toilet,Poor,Poor roads
+R0130,35-44,Primary,Yes,Farming,Student,"₦30,000-₦59,999",Trading,Yes,Other,Yes,Flush toilet,Poor,Unemployment
+R0131,45-54,Primary,No,Farming,Self-employed,"₦100,000+",Farming,Yes,Borehole,Yes,Open defecation,Fair,Poor healthcare
+R0132,55-64,Secondary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Fishing,No,Well,Yes,Flush toilet,Good,Insecurity
+R0133,55-64,Primary,No,Farming,Employed,"₦30,000-₦59,999",Salary/Wages,No,Borehole,Yes,Pit latrine,Fair,Poor schools
+R0134,45-54,Secondary,Yes,Farming,Self-employed,"Below ₦30,000",Other,Yes,Borehole,No,Flush toilet,Good,Insecurity
+R0135,25-34,None,Yes,Student,Employed,Prefer not to say,Farming,Yes,Pipe-borne,Yes,Open defecation,Poor,Insecurity
+R0136,35-44,Primary,Yes,Trading,Student,Prefer not to say,Farming,Yes,Borehole,No,Flush toilet,Good,Water shortage
+R0137,35-44,Secondary,No,Trading,Self-employed,"Below ₦30,000",Fishing,No,Borehole,No,Flush toilet,Good,Water shortage
+R0138,45-54,Primary,No,Fishing,Self-employed,"₦30,000-₦59,999",Remittance,No,Borehole,Yes,Flush toilet,Fair,Water shortage
+R0139,45-54,None,Yes,Trading,Employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,No,Pit latrine,Fair,Other
+R0140,65+,Tertiary,Yes,Other,Student,"Below ₦30,000",Remittance,No,Pipe-borne,No,Pit latrine,Poor,Insecurity
+R0141,18-24,Secondary,Yes,Farming,Unemployed,"₦60,000-₦99,999",Farming,No,Borehole,No,Flush toilet,Good,Poor electricity
+R0142,35-44,Secondary,Yes,Civil Servant,Employed,"₦60,000-₦99,999",Farming,Yes,Well,Yes,Flush toilet,Fair,Poor roads
+R0143,45-54,Primary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Flush toilet,Fair,Poor healthcare
+R0144,55-64,Primary,Yes,Farming,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Good,Poor roads
+R0145,25-34,Primary,Yes,Fishing,Self-employed,"₦100,000+",Trading,No,Sachet/Bottled,Yes,Other,Fair,Unemployment
+R0146,45-54,Secondary,Yes,Civil Servant,Unemployed,Prefer not to say,Salary/Wages,Yes,Borehole,No,Flush toilet,Good,Poor roads
+R0147,25-34,Primary,Yes,Trading,Employed,Prefer not to say,Fishing,Yes,River/Stream,Yes,Pit latrine,Good,Water shortage
+R0148,18-24,None,Yes,Farming,Student,"₦100,000+",Salary/Wages,No,Well,No,Flush toilet,Fair,Other
+R0149,25-34,Secondary,Yes,Civil Servant,Self-employed,Prefer not to say,Salary/Wages,Yes,Pipe-borne,Yes,Pit latrine,Poor,Poor schools
+R0150,65+,Tertiary,Yes,Trading,Student,"₦60,000-₦99,999",Farming,No,Sachet/Bottled,Yes,Pit latrine,Poor,Poor electricity
+R0151,25-34,Tertiary,No,Civil Servant,Self-employed,Prefer not to say,Farming,Yes,Sachet/Bottled,Yes,Open defecation,Fair,Poor electricity
+R0152,45-54,Secondary,Yes,Other,Unemployed,"₦100,000+",Fishing,Yes,Borehole,No,Pit latrine,Poor,Unemployment
+R0153,65+,Primary,No,Farming,Student,"₦60,000-₦99,999",Fishing,No,Borehole,No,Pit latrine,Good,Water shortage
+R0154,35-44,Secondary,No,Trading,Self-employed,"₦30,000-₦59,999",Farming,Yes,River/Stream,Yes,Pit latrine,Good,Poor schools
+R0155,55-64,Primary,Yes,Other,Retired,"₦100,000+",Fishing,No,Well,No,Pit latrine,Fair,Water shortage
+R0156,55-64,Primary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Fishing,Yes,Borehole,Yes,Flush toilet,Good,Poor schools
+R0157,55-64,Secondary,Yes,Unemployed,Self-employed,"Below ₦30,000",Fishing,Yes,River/Stream,Yes,Flush toilet,Poor,Water shortage
+R0158,18-24,Tertiary,Yes,Unemployed,Retired,"₦30,000-₦59,999",Salary/Wages,No,River/Stream,No,Pit latrine,Fair,Insecurity
+R0159,65+,Tertiary,Yes,Other,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Borehole,Yes,Pit latrine,Poor,Poor roads
+R0160,25-34,Secondary,No,Trading,Employed,"₦100,000+",Farming,Yes,Well,No,Pit latrine,Good,Poor healthcare
+R0161,45-54,Primary,Yes,Farming,Retired,"₦100,000+",Farming,Yes,Borehole,Yes,Pit latrine,Good,Poor roads
+R0162,18-24,Tertiary,Yes,Student,Employed,Prefer not to say,Remittance,No,Borehole,Yes,Open defecation,Good,Water shortage
+R0163,35-44,Tertiary,Yes,Artisan,Self-employed,"₦100,000+",Farming,No,Borehole,No,Flush toilet,Good,Unemployment
+R0164,35-44,Secondary,Yes,Artisan,Employed,"Below ₦30,000",Farming,Yes,Pipe-borne,Yes,Other,Fair,Water shortage
+R0165,55-64,Secondary,No,Fishing,Employed,"₦30,000-₦59,999",Trading,Yes,River/Stream,Yes,Pit latrine,Good,Poor electricity
+R0166,45-54,Secondary,Yes,Other,Student,"₦30,000-₦59,999",Fishing,Yes,Borehole,Yes,Pit latrine,Good,Other
+R0167,35-44,Secondary,Yes,Artisan,Self-employed,"₦60,000-₦99,999",Trading,No,Pipe-borne,Yes,Flush toilet,Fair,Poor electricity
+R0168,45-54,Secondary,Yes,Farming,Employed,"Below ₦30,000",Salary/Wages,Yes,Borehole,No,Other,Poor,Water shortage
+R0169,25-34,Primary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Fishing,Yes,Borehole,Yes,Pit latrine,Good,Poor electricity
+R0170,65+,Secondary,Yes,Fishing,Self-employed,"Below ₦30,000",Trading,Yes,Well,Yes,Open defecation,Fair,Insecurity
+R0171,55-64,Tertiary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Farming,No,Borehole,No,Flush toilet,Fair,Poor electricity
+R0172,55-64,Tertiary,Yes,Civil Servant,Self-employed,"₦60,000-₦99,999",Other,No,Well,Yes,Flush toilet,Good,Poor schools
+R0173,65+,Primary,No,Trading,Self-employed,"Below ₦30,000",Fishing,No,Pipe-borne,Yes,Pit latrine,Good,Poor roads
+R0174,35-44,Secondary,Yes,Trading,Employed,"Below ₦30,000",Trading,No,Pipe-borne,Yes,Pit latrine,Fair,Poor healthcare
+R0175,45-54,Tertiary,Yes,Unemployed,Self-employed,"₦100,000+",Salary/Wages,Yes,Well,No,Pit latrine,Fair,Water shortage
+R0176,25-34,Secondary,Yes,Farming,Employed,"₦60,000-₦99,999",Trading,Yes,Pipe-borne,Yes,Flush toilet,Good,Insecurity
+R0177,55-64,None,No,Farming,Unemployed,"₦30,000-₦59,999",Fishing,No,Sachet/Bottled,Yes,Pit latrine,Poor,Poor healthcare
+R0178,65+,Secondary,Yes,Civil Servant,Self-employed,"Below ₦30,000",Trading,No,Well,Yes,Pit latrine,Fair,Insecurity
+R0179,45-54,Secondary,No,Farming,Employed,"Below ₦30,000",Farming,Yes,River/Stream,Yes,Flush toilet,Fair,Poor roads
+R0180,35-44,Primary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Well,Yes,Pit latrine,Good,Poor healthcare
+R0181,45-54,Primary,Yes,Student,Unemployed,"₦30,000-₦59,999",Farming,Yes,Well,No,Other,Fair,Poor schools
+R0182,25-34,Secondary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,No,Other,Fair,Insecurity
+R0183,55-64,Primary,Yes,Farming,Unemployed,"Below ₦30,000",Fishing,Yes,Borehole,No,Flush toilet,Fair,Poor healthcare
+R0184,45-54,Primary,Yes,Artisan,Student,"₦30,000-₦59,999",Farming,No,Pipe-borne,Yes,Pit latrine,Good,Water shortage
+R0185,35-44,Tertiary,Yes,Other,Student,"₦60,000-₦99,999",Trading,No,Well,Yes,Other,Fair,Poor roads
+R0186,45-54,Secondary,Yes,Trading,Unemployed,Prefer not to say,Farming,Yes,Well,Yes,Flush toilet,Good,Poor schools
+R0187,45-54,Secondary,Yes,Trading,Retired,"Below ₦30,000",Salary/Wages,No,Borehole,Yes,Pit latrine,Fair,Poor electricity
+R0188,18-24,Secondary,Yes,Farming,Unemployed,Prefer not to say,Salary/Wages,No,Well,Yes,Pit latrine,Poor,Poor healthcare
+R0189,45-54,Tertiary,Yes,Farming,Employed,"₦60,000-₦99,999",Salary/Wages,Yes,River/Stream,Yes,Flush toilet,Good,Poor healthcare
+R0190,55-64,Primary,Yes,Civil Servant,Unemployed,"₦60,000-₦99,999",Farming,No,River/Stream,Yes,Flush toilet,Good,Water shortage
+R0191,65+,Tertiary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,River/Stream,No,Flush toilet,Good,Poor roads
+R0192,55-64,None,Yes,Farming,Student,"₦60,000-₦99,999",Farming,No,Sachet/Bottled,No,Pit latrine,Good,Poor roads
+R0193,18-24,Secondary,Yes,Civil Servant,Self-employed,"₦100,000+",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Fair,Insecurity
+R0194,25-34,Primary,Yes,Civil Servant,Student,"Below ₦30,000",Farming,Yes,Borehole,No,Pit latrine,Poor,Unemployment
+R0195,25-34,Secondary,Yes,Fishing,Retired,"Below ₦30,000",Salary/Wages,No,Borehole,No,Open defecation,Good,Poor roads
+R0196,55-64,Tertiary,Yes,Civil Servant,Unemployed,"₦60,000-₦99,999",Remittance,No,River/Stream,No,Pit latrine,Fair,Insecurity
+R0197,45-54,None,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Trading,No,Well,Yes,Open defecation,Fair,Water shortage
+R0198,18-24,Primary,Yes,Trading,Self-employed,"₦100,000+",Remittance,Yes,Pipe-borne,No,Pit latrine,Good,Water shortage
+R0199,55-64,Tertiary,Yes,Farming,Student,"Below ₦30,000",Fishing,Yes,Well,No,Flush toilet,Good,Insecurity
+R0200,35-44,Tertiary,No,Farming,Employed,Prefer not to say,Farming,No,Borehole,No,Flush toilet,Good,Poor schools
+R0201,25-34,Secondary,Yes,Trading,Self-employed,Prefer not to say,Salary/Wages,Yes,Pipe-borne,No,Flush toilet,Good,Water shortage
+R0202,25-34,Primary,Yes,Other,Employed,"₦100,000+",Salary/Wages,Yes,River/Stream,Yes,Flush toilet,Good,Unemployment
+R0203,35-44,Secondary,No,Unemployed,Employed,"₦30,000-₦59,999",Trading,Yes,Sachet/Bottled,Yes,Pit latrine,Good,Unemployment
+R0204,45-54,Secondary,Yes,Civil Servant,Employed,"Below ₦30,000",Farming,Yes,Pipe-borne,Yes,Open defecation,Poor,Poor electricity
+R0205,18-24,Secondary,Yes,Farming,Employed,"Below ₦30,000",Remittance,No,Sachet/Bottled,Yes,Other,Fair,Poor healthcare
+R0206,35-44,Secondary,No,Farming,Self-employed,Prefer not to say,Farming,No,Sachet/Bottled,Yes,Other,Good,Poor electricity
+R0207,25-34,None,No,Trading,Student,"₦100,000+",Farming,Yes,Pipe-borne,Yes,Other,Good,Insecurity
+R0208,25-34,Tertiary,No,Farming,Unemployed,"Below ₦30,000",Farming,Yes,Borehole,Yes,Flush toilet,Good,Poor schools
+R0209,55-64,Secondary,Yes,Fishing,Employed,"₦60,000-₦99,999",Remittance,Yes,Borehole,Yes,Pit latrine,Good,Water shortage
+R0210,18-24,Secondary,No,Artisan,Self-employed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Fair,Water shortage
+R0211,25-34,Secondary,Yes,Unemployed,Employed,Prefer not to say,Trading,Yes,Pipe-borne,Yes,Flush toilet,Good,Poor electricity
+R0212,35-44,Secondary,Yes,Fishing,Employed,"₦100,000+",Farming,Yes,Well,No,Flush toilet,Good,Insecurity
+R0213,18-24,Secondary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Remittance,No,Pipe-borne,Yes,Pit latrine,Good,Poor roads
+R0214,25-34,Secondary,No,Artisan,Self-employed,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Flush toilet,Good,Unemployment
+R0215,18-24,Primary,Yes,Unemployed,Employed,Prefer not to say,Trading,Yes,River/Stream,No,Flush toilet,Fair,Poor healthcare
+R0216,35-44,Tertiary,No,Civil Servant,Unemployed,"₦30,000-₦59,999",Other,Yes,Sachet/Bottled,Yes,Pit latrine,Good,Poor roads
+R0217,25-34,Tertiary,Yes,Trading,Unemployed,"₦100,000+",Trading,Yes,Borehole,Yes,Pit latrine,Good,Poor roads
+R0218,55-64,None,Yes,Student,Employed,"₦30,000-₦59,999",Remittance,No,Borehole,Yes,Flush toilet,Fair,Other
+R0219,55-64,Tertiary,Yes,Farming,Self-employed,Prefer not to say,Farming,Yes,Borehole,Yes,Pit latrine,Fair,Insecurity
+R0220,25-34,Tertiary,Yes,Civil Servant,Employed,"Below ₦30,000",Fishing,No,Borehole,No,Flush toilet,Good,Insecurity
+R0221,18-24,Tertiary,Yes,Other,Self-employed,"₦30,000-₦59,999",Salary/Wages,No,Borehole,Yes,Flush toilet,Good,Poor healthcare
+R0222,35-44,None,No,Trading,Student,Prefer not to say,Farming,Yes,Sachet/Bottled,No,Flush toilet,Fair,Water shortage
+R0223,25-34,Secondary,Yes,Civil Servant,Self-employed,"₦60,000-₦99,999",Trading,No,Sachet/Bottled,Yes,Flush toilet,Good,Poor healthcare
+R0224,55-64,Secondary,No,Unemployed,Employed,"₦60,000-₦99,999",Farming,No,Pipe-borne,Yes,Flush toilet,Poor,Insecurity
+R0225,25-34,Secondary,Yes,Fishing,Unemployed,"₦60,000-₦99,999",Fishing,Yes,Borehole,Yes,Pit latrine,Good,Poor healthcare
+R0226,45-54,Tertiary,Yes,Other,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,River/Stream,Yes,Pit latrine,Fair,Poor healthcare
+R0227,35-44,Primary,Yes,Farming,Employed,Prefer not to say,Fishing,No,Well,No,Open defecation,Poor,Insecurity
+R0228,25-34,Primary,Yes,Civil Servant,Employed,Prefer not to say,Farming,No,River/Stream,No,Pit latrine,Fair,Poor schools
+R0229,25-34,None,No,Farming,Employed,"₦30,000-₦59,999",Other,Yes,Well,No,Pit latrine,Good,Insecurity
+R0230,18-24,Primary,No,Trading,Self-employed,"₦100,000+",Farming,Yes,Sachet/Bottled,No,Flush toilet,Poor,Unemployment
+R0231,55-64,Secondary,Yes,Artisan,Employed,Prefer not to say,Trading,Yes,Borehole,Yes,Open defecation,Fair,Poor roads
+R0232,35-44,Secondary,Yes,Fishing,Self-employed,"Below ₦30,000",Farming,No,Other,No,Flush toilet,Good,Insecurity
+R0233,25-34,Primary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Fishing,No,Pipe-borne,No,Open defecation,Fair,Poor roads
+R0234,45-54,Secondary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Farming,No,Well,Yes,Open defecation,Good,Poor roads
+R0235,35-44,Secondary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Other,No,River/Stream,Yes,Pit latrine,Fair,Other
+R0236,55-64,Secondary,Yes,Artisan,Self-employed,"₦60,000-₦99,999",Trading,Yes,Borehole,Yes,Flush toilet,Good,Poor schools
+R0237,35-44,Secondary,Yes,Student,Student,"₦100,000+",Salary/Wages,Yes,Sachet/Bottled,Yes,Open defecation,Poor,Poor roads
+R0238,25-34,Tertiary,No,Trading,Employed,"₦30,000-₦59,999",Trading,Yes,Borehole,No,Flush toilet,Fair,Insecurity
+R0239,35-44,Secondary,Yes,Trading,Student,"₦100,000+",Trading,Yes,Borehole,Yes,Pit latrine,Poor,Unemployment
+R0240,35-44,Primary,Yes,Farming,Employed,"₦30,000-₦59,999",Trading,No,River/Stream,Yes,Open defecation,Fair,Insecurity
+R0241,25-34,Primary,Yes,Farming,Employed,"₦60,000-₦99,999",Trading,No,Borehole,Yes,Pit latrine,Good,Poor electricity
+R0242,45-54,Secondary,Yes,Unemployed,Retired,"Below ₦30,000",Remittance,Yes,Well,No,Flush toilet,Fair,Water shortage
+R0243,18-24,Secondary,No,Unemployed,Retired,"Below ₦30,000",Salary/Wages,Yes,Well,Yes,Pit latrine,Fair,Insecurity
+R0244,55-64,Secondary,Yes,Artisan,Employed,"₦100,000+",Fishing,Yes,Borehole,Yes,Pit latrine,Good,Water shortage
+R0245,65+,Tertiary,Yes,Farming,Self-employed,"₦100,000+",Trading,No,Borehole,Yes,Pit latrine,Good,Unemployment
+R0246,35-44,Tertiary,Yes,Unemployed,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Borehole,No,Open defecation,Good,Unemployment
+R0247,55-64,Secondary,Yes,Farming,Unemployed,"Below ₦30,000",Remittance,Yes,River/Stream,Yes,Pit latrine,Good,Poor roads
+R0248,45-54,Tertiary,Yes,Trading,Self-employed,"Below ₦30,000",Remittance,No,Other,Yes,Flush toilet,Fair,Unemployment
+R0249,65+,Secondary,Yes,Other,Unemployed,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Flush toilet,Good,Unemployment
+R0250,18-24,Primary,Yes,Unemployed,Unemployed,"₦60,000-₦99,999",Farming,Yes,Well,Yes,Pit latrine,Good,Water shortage
+R0251,25-34,Primary,Yes,Farming,Self-employed,"Below ₦30,000",Farming,Yes,Pipe-borne,No,Flush toilet,Poor,Insecurity
+R0252,45-54,Tertiary,Yes,Unemployed,Employed,"Below ₦30,000",Farming,Yes,Borehole,No,Flush toilet,Good,Other
+R0253,35-44,Secondary,Yes,Other,Self-employed,"₦30,000-₦59,999",Trading,No,Well,No,Open defecation,Good,Insecurity
+R0254,25-34,Secondary,Yes,Civil Servant,Unemployed,"₦30,000-₦59,999",Salary/Wages,No,River/Stream,Yes,Flush toilet,Good,Other
+R0255,25-34,Secondary,Yes,Trading,Retired,"₦60,000-₦99,999",Farming,No,Borehole,Yes,Pit latrine,Fair,Poor electricity
+R0256,35-44,Secondary,Yes,Unemployed,Unemployed,"₦30,000-₦59,999",Fishing,No,River/Stream,Yes,Flush toilet,Good,Unemployment
+R0257,18-24,Secondary,Yes,Farming,Unemployed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Other,Good,Water shortage
+R0258,55-64,Primary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,Yes,Borehole,No,Pit latrine,Good,Other
+R0259,25-34,Secondary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Farming,No,Borehole,Yes,Pit latrine,Fair,Insecurity
+R0260,45-54,Primary,Yes,Civil Servant,Student,"Below ₦30,000",Trading,Yes,Pipe-borne,Yes,Pit latrine,Good,Unemployment
+R0261,35-44,Tertiary,Yes,Trading,Employed,"Below ₦30,000",Fishing,Yes,Borehole,Yes,Open defecation,Good,Insecurity
+R0262,35-44,Tertiary,Yes,Farming,Employed,"₦100,000+",Salary/Wages,No,Borehole,Yes,Flush toilet,Poor,Poor roads
+R0263,18-24,Primary,Yes,Trading,Student,"₦30,000-₦59,999",Farming,No,River/Stream,No,Other,Good,Insecurity
+R0264,55-64,Primary,Yes,Artisan,Self-employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor electricity
+R0265,65+,Primary,Yes,Other,Self-employed,"₦30,000-₦59,999",Farming,Yes,Sachet/Bottled,No,Pit latrine,Good,Unemployment
+R0266,25-34,Primary,No,Trading,Self-employed,"₦30,000-₦59,999",Fishing,Yes,Well,Yes,Flush toilet,Good,Poor schools
+R0267,55-64,Tertiary,Yes,Trading,Unemployed,"₦30,000-₦59,999",Trading,Yes,River/Stream,Yes,Pit latrine,Good,Poor roads
+R0268,65+,Primary,Yes,Trading,Student,"Below ₦30,000",Trading,Yes,Sachet/Bottled,Yes,Flush toilet,Fair,Poor schools
+R0269,25-34,Primary,Yes,Trading,Retired,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Good,Unemployment
+R0270,25-34,Tertiary,Yes,Unemployed,Employed,Prefer not to say,Salary/Wages,No,Pipe-borne,Yes,Pit latrine,Good,Water shortage
+R0271,25-34,Secondary,No,Unemployed,Employed,"Below ₦30,000",Trading,Yes,Borehole,Yes,Open defecation,Fair,Poor electricity
+R0272,18-24,Secondary,Yes,Trading,Employed,"Below ₦30,000",Farming,No,Borehole,Yes,Flush toilet,Good,Poor schools
+R0273,18-24,Primary,No,Artisan,Self-employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Pit latrine,Fair,Insecurity
+R0274,55-64,Tertiary,Yes,Trading,Employed,"₦60,000-₦99,999",Farming,No,Well,Yes,Pit latrine,Poor,Water shortage
+R0275,45-54,Primary,Yes,Trading,Employed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,No,Other,Good,Poor healthcare
+R0276,35-44,Secondary,Yes,Farming,Student,"₦100,000+",Fishing,Yes,Borehole,No,Flush toilet,Fair,Poor roads
+R0277,25-34,Secondary,Yes,Artisan,Self-employed,"₦30,000-₦59,999",Trading,No,Borehole,Yes,Pit latrine,Good,Poor schools
+R0278,35-44,Secondary,No,Fishing,Student,"Below ₦30,000",Salary/Wages,Yes,Sachet/Bottled,Yes,Open defecation,Poor,Poor electricity
+R0279,55-64,Primary,Yes,Farming,Unemployed,"Below ₦30,000",Fishing,Yes,Sachet/Bottled,Yes,Other,Fair,Unemployment
+R0280,45-54,Secondary,Yes,Student,Self-employed,"₦30,000-₦59,999",Farming,Yes,River/Stream,Yes,Pit latrine,Good,Poor electricity
+R0281,35-44,Tertiary,Yes,Other,Employed,Prefer not to say,Remittance,Yes,Borehole,No,Other,Fair,Water shortage
+R0282,18-24,Secondary,Yes,Fishing,Employed,"₦100,000+",Other,No,Well,No,Pit latrine,Poor,Poor healthcare
+R0283,55-64,Secondary,Yes,Farming,Employed,"Below ₦30,000",Trading,No,Well,Yes,Open defecation,Fair,Unemployment
+R0284,35-44,Secondary,No,Unemployed,Employed,"₦60,000-₦99,999",Other,No,Pipe-borne,Yes,Pit latrine,Good,Unemployment
+R0285,18-24,Primary,Yes,Student,Employed,"₦30,000-₦59,999",Farming,No,Borehole,No,Flush toilet,Fair,Insecurity
+R0286,18-24,None,Yes,Trading,Self-employed,"₦30,000-₦59,999",Farming,Yes,Other,No,Flush toilet,Good,Water shortage
+R0287,55-64,Secondary,Yes,Trading,Self-employed,"₦60,000-₦99,999",Farming,Yes,Sachet/Bottled,Yes,Flush toilet,Good,Poor roads
+R0288,55-64,Tertiary,Yes,Trading,Employed,"₦30,000-₦59,999",Remittance,No,Sachet/Bottled,Yes,Flush toilet,Good,Poor electricity
+R0289,35-44,Secondary,Yes,Student,Employed,"Below ₦30,000",Trading,No,Well,Yes,Flush toilet,Fair,Other
+R0290,35-44,Tertiary,Yes,Trading,Unemployed,"Below ₦30,000",Farming,Yes,Well,Yes,Other,Good,Poor roads
+R0291,18-24,Primary,Yes,Civil Servant,Employed,"Below ₦30,000",Farming,No,River/Stream,Yes,Flush toilet,Good,Poor electricity
+R0292,45-54,Secondary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Pit latrine,Good,Water shortage
+R0293,25-34,Secondary,Yes,Student,Retired,"₦30,000-₦59,999",Farming,Yes,Borehole,No,Pit latrine,Poor,Insecurity
+R0294,55-64,Secondary,Yes,Student,Student,"Below ₦30,000",Trading,Yes,River/Stream,Yes,Flush toilet,Good,Poor roads
+R0295,25-34,Secondary,No,Farming,Retired,Prefer not to say,Salary/Wages,Yes,Borehole,No,Flush toilet,Good,Poor electricity
+R0296,45-54,Primary,Yes,Fishing,Student,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,Yes,Flush toilet,Good,Insecurity
+R0297,25-34,Tertiary,No,Other,Employed,"Below ₦30,000",Salary/Wages,Yes,Well,Yes,Flush toilet,Good,Unemployment
+R0298,35-44,Primary,Yes,Farming,Unemployed,"Below ₦30,000",Remittance,Yes,Borehole,Yes,Pit latrine,Good,Water shortage
+R0299,55-64,Secondary,Yes,Artisan,Self-employed,"₦100,000+",Remittance,Yes,Other,Yes,Flush toilet,Good,Poor healthcare
+R0300,55-64,Primary,Yes,Civil Servant,Student,"₦30,000-₦59,999",Trading,Yes,Pipe-borne,Yes,Other,Good,Unemployment
+R0301,55-64,Secondary,Yes,Trading,Retired,"₦30,000-₦59,999",Remittance,No,Pipe-borne,Yes,Pit latrine,Fair,Poor electricity
+R0302,35-44,Secondary,Yes,Trading,Self-employed,Prefer not to say,Fishing,Yes,Pipe-borne,No,Open defecation,Good,Poor electricity
+R0303,45-54,Tertiary,Yes,Civil Servant,Student,"₦60,000-₦99,999",Farming,Yes,River/Stream,No,Pit latrine,Good,Poor schools
+R0304,25-34,Secondary,Yes,Civil Servant,Retired,"Below ₦30,000",Trading,Yes,River/Stream,Yes,Pit latrine,Good,Water shortage
+R0305,65+,Secondary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Salary/Wages,No,Borehole,Yes,Open defecation,Poor,Poor electricity
+R0306,65+,Secondary,No,Farming,Employed,"Below ₦30,000",Remittance,Yes,Pipe-borne,No,Pit latrine,Fair,Unemployment
+R0307,35-44,None,No,Artisan,Employed,"₦100,000+",Salary/Wages,No,Pipe-borne,Yes,Pit latrine,Good,Water shortage
+R0308,25-34,None,No,Other,Employed,"Below ₦30,000",Farming,Yes,Borehole,Yes,Flush toilet,Good,Unemployment
+R0309,35-44,Secondary,Yes,Fishing,Employed,"₦30,000-₦59,999",Trading,Yes,Well,No,Flush toilet,Good,Unemployment
+R0310,35-44,Primary,Yes,Civil Servant,Self-employed,Prefer not to say,Fishing,Yes,Sachet/Bottled,No,Open defecation,Fair,Unemployment
+R0311,55-64,Secondary,No,Student,Unemployed,"₦100,000+",Trading,No,Well,Yes,Flush toilet,Good,Poor electricity
+R0312,35-44,Secondary,No,Farming,Self-employed,Prefer not to say,Remittance,Yes,Well,Yes,Open defecation,Good,Unemployment
+R0313,18-24,Tertiary,Yes,Trading,Employed,"₦60,000-₦99,999",Salary/Wages,No,Borehole,Yes,Pit latrine,Good,Poor roads
+R0314,45-54,Tertiary,No,Civil Servant,Employed,"₦30,000-₦59,999",Other,Yes,Borehole,No,Pit latrine,Fair,Poor roads
+R0315,55-64,Secondary,Yes,Civil Servant,Self-employed,Prefer not to say,Farming,No,Pipe-borne,Yes,Other,Fair,Poor healthcare
+R0316,55-64,Secondary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Farming,Yes,Sachet/Bottled,Yes,Flush toilet,Good,Water shortage
+R0317,45-54,Secondary,No,Trading,Self-employed,"₦30,000-₦59,999",Remittance,Yes,Borehole,Yes,Flush toilet,Good,Poor healthcare
+R0318,25-34,Secondary,Yes,Artisan,Self-employed,"₦100,000+",Salary/Wages,Yes,Borehole,Yes,Open defecation,Good,Poor electricity
+R0319,25-34,None,Yes,Trading,Self-employed,"₦30,000-₦59,999",Other,Yes,Borehole,No,Pit latrine,Good,Poor healthcare
+R0320,65+,None,No,Civil Servant,Self-employed,"Below ₦30,000",Farming,No,Borehole,Yes,Flush toilet,Good,Poor healthcare
+R0321,18-24,Secondary,Yes,Other,Employed,"₦60,000-₦99,999",Fishing,No,Borehole,Yes,Pit latrine,Fair,Water shortage
+R0322,18-24,Primary,No,Trading,Employed,"₦60,000-₦99,999",Remittance,Yes,Sachet/Bottled,No,Open defecation,Good,Insecurity
+R0323,25-34,Secondary,Yes,Trading,Self-employed,"₦100,000+",Trading,Yes,River/Stream,Yes,Open defecation,Good,Water shortage
+R0324,55-64,Primary,No,Artisan,Student,"Below ₦30,000",Farming,Yes,Other,No,Flush toilet,Good,Insecurity
+R0325,25-34,Tertiary,Yes,Student,Employed,"₦30,000-₦59,999",Farming,Yes,Sachet/Bottled,Yes,Flush toilet,Fair,Poor electricity
+R0326,25-34,Secondary,Yes,Artisan,Unemployed,Prefer not to say,Trading,No,Borehole,Yes,Open defecation,Good,Poor healthcare
+R0327,18-24,Primary,Yes,Trading,Employed,"₦60,000-₦99,999",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Good,Insecurity
+R0328,45-54,Primary,Yes,Unemployed,Retired,"₦60,000-₦99,999",Trading,Yes,Borehole,Yes,Pit latrine,Good,Poor electricity
+R0329,25-34,Tertiary,No,Fishing,Employed,"Below ₦30,000",Remittance,Yes,Pipe-borne,No,Other,Good,Poor roads
+R0330,18-24,Primary,Yes,Artisan,Self-employed,"Below ₦30,000",Salary/Wages,Yes,Borehole,No,Flush toilet,Poor,Poor schools
+R0331,18-24,Secondary,No,Student,Employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,No,Flush toilet,Good,Insecurity
+R0332,35-44,Tertiary,Yes,Artisan,Employed,"₦60,000-₦99,999",Salary/Wages,No,River/Stream,Yes,Flush toilet,Good,Water shortage
+R0333,18-24,Tertiary,Yes,Fishing,Unemployed,"Below ₦30,000",Farming,Yes,Borehole,Yes,Open defecation,Poor,Insecurity
+R0334,25-34,Secondary,No,Civil Servant,Unemployed,"₦30,000-₦59,999",Salary/Wages,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor roads
+R0335,35-44,Secondary,No,Civil Servant,Employed,"₦100,000+",Farming,Yes,Borehole,Yes,Flush toilet,Good,Poor schools
+R0336,18-24,Tertiary,No,Trading,Employed,"₦60,000-₦99,999",Farming,Yes,Borehole,No,Pit latrine,Good,Poor electricity
+R0337,65+,Primary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Fishing,Yes,Pipe-borne,Yes,Pit latrine,Fair,Poor electricity
+R0338,25-34,Secondary,Yes,Farming,Self-employed,Prefer not to say,Farming,No,Borehole,Yes,Pit latrine,Good,Water shortage
+R0339,25-34,Primary,Yes,Farming,Self-employed,Prefer not to say,Farming,Yes,Borehole,Yes,Pit latrine,Fair,Water shortage
+R0340,18-24,Secondary,No,Student,Self-employed,"Below ₦30,000",Farming,No,Well,No,Pit latrine,Fair,Unemployment
+R0341,45-54,Tertiary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,Yes,Other,Yes,Pit latrine,Good,Poor roads
+R0342,25-34,Secondary,No,Civil Servant,Student,"Below ₦30,000",Farming,No,Borehole,Yes,Open defecation,Good,Poor electricity
+R0343,45-54,Primary,Yes,Other,Retired,"₦100,000+",Trading,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor electricity
+R0344,35-44,Tertiary,Yes,Fishing,Self-employed,"₦100,000+",Farming,Yes,Other,Yes,Flush toilet,Good,Poor schools
+R0345,55-64,None,No,Trading,Self-employed,"₦30,000-₦59,999",Trading,Yes,Well,No,Pit latrine,Fair,Poor electricity
+R0346,45-54,Tertiary,Yes,Artisan,Employed,"Below ₦30,000",Farming,No,Pipe-borne,Yes,Pit latrine,Poor,Water shortage
+R0347,45-54,Tertiary,Yes,Trading,Employed,Prefer not to say,Farming,Yes,Sachet/Bottled,No,Open defecation,Fair,Water shortage
+R0348,35-44,Secondary,No,Trading,Self-employed,"₦60,000-₦99,999",Farming,No,Borehole,Yes,Pit latrine,Good,Poor roads
+R0349,45-54,Tertiary,Yes,Trading,Self-employed,"₦60,000-₦99,999",Salary/Wages,Yes,Pipe-borne,Yes,Pit latrine,Fair,Water shortage
+R0350,25-34,Tertiary,Yes,Artisan,Student,"Below ₦30,000",Trading,No,Pipe-borne,No,Pit latrine,Poor,Poor healthcare
+R0351,45-54,Secondary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Pit latrine,Good,Water shortage
+R0352,25-34,Secondary,No,Farming,Unemployed,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Flush toilet,Good,Poor electricity
+R0353,45-54,Tertiary,Yes,Unemployed,Self-employed,"₦100,000+",Trading,Yes,Borehole,No,Flush toilet,Good,Unemployment
+R0354,18-24,Tertiary,Yes,Farming,Employed,"₦60,000-₦99,999",Salary/Wages,Yes,Sachet/Bottled,No,Flush toilet,Good,Poor healthcare
+R0355,65+,Secondary,No,Trading,Self-employed,"₦30,000-₦59,999",Farming,No,Pipe-borne,Yes,Other,Good,Poor schools
+R0356,45-54,Tertiary,Yes,Artisan,Unemployed,"Below ₦30,000",Farming,No,Borehole,Yes,Flush toilet,Good,Water shortage
+R0357,25-34,Primary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Fishing,Yes,Pipe-borne,Yes,Pit latrine,Fair,Unemployment
+R0358,65+,Secondary,Yes,Student,Student,"₦100,000+",Farming,No,Other,Yes,Pit latrine,Fair,Poor healthcare
+R0359,25-34,None,Yes,Civil Servant,Employed,Prefer not to say,Farming,Yes,Borehole,Yes,Pit latrine,Fair,Poor roads
+R0360,18-24,Primary,No,Farming,Self-employed,Prefer not to say,Remittance,No,Pipe-borne,Yes,Flush toilet,Good,Other
+R0361,18-24,Secondary,Yes,Other,Employed,"₦60,000-₦99,999",Farming,No,Well,Yes,Pit latrine,Good,Insecurity
+R0362,18-24,Primary,No,Farming,Retired,"₦60,000-₦99,999",Fishing,No,Pipe-borne,Yes,Open defecation,Good,Water shortage
+R0363,65+,Secondary,Yes,Farming,Employed,"₦100,000+",Trading,Yes,Well,Yes,Pit latrine,Good,Poor electricity
+R0364,35-44,Tertiary,Yes,Artisan,Self-employed,Prefer not to say,Salary/Wages,Yes,Borehole,Yes,Flush toilet,Good,Poor schools
+R0365,45-54,Primary,Yes,Student,Student,Prefer not to say,Fishing,Yes,Pipe-borne,No,Open defecation,Poor,Poor electricity
+R0366,35-44,Secondary,Yes,Other,Employed,"₦30,000-₦59,999",Farming,Yes,Sachet/Bottled,Yes,Pit latrine,Good,Poor roads
+R0367,45-54,Primary,No,Farming,Student,"Below ₦30,000",Trading,Yes,Well,No,Flush toilet,Good,Insecurity
+R0368,35-44,Secondary,Yes,Student,Employed,"₦30,000-₦59,999",Fishing,No,Other,Yes,Flush toilet,Fair,Water shortage
+R0369,55-64,Tertiary,No,Civil Servant,Retired,Prefer not to say,Farming,No,Well,Yes,Pit latrine,Poor,Poor electricity
+R0370,35-44,Primary,Yes,Trading,Self-employed,"₦100,000+",Farming,Yes,Other,Yes,Pit latrine,Good,Poor roads
+R0371,35-44,None,Yes,Unemployed,Self-employed,"₦60,000-₦99,999",Remittance,No,Borehole,Yes,Open defecation,Fair,Poor healthcare
+R0372,25-34,Secondary,Yes,Trading,Unemployed,"₦30,000-₦59,999",Fishing,Yes,Sachet/Bottled,No,Open defecation,Poor,Water shortage
+R0373,18-24,Primary,Yes,Student,Retired,Prefer not to say,Fishing,Yes,Borehole,No,Pit latrine,Fair,Unemployment
+R0374,45-54,Primary,No,Fishing,Employed,"₦100,000+",Farming,Yes,Borehole,Yes,Flush toilet,Good,Insecurity
+R0375,35-44,Primary,No,Farming,Employed,"Below ₦30,000",Trading,No,Pipe-borne,No,Pit latrine,Fair,Poor electricity
+R0376,25-34,Secondary,No,Trading,Employed,"₦30,000-₦59,999",Fishing,Yes,Well,Yes,Pit latrine,Good,Unemployment
+R0377,25-34,Secondary,No,Trading,Employed,"₦100,000+",Salary/Wages,No,Sachet/Bottled,Yes,Pit latrine,Good,Poor electricity
+R0378,35-44,Secondary,No,Other,Employed,"₦100,000+",Farming,Yes,Pipe-borne,No,Pit latrine,Poor,Poor schools
+R0379,55-64,Secondary,Yes,Trading,Self-employed,"Below ₦30,000",Fishing,Yes,Pipe-borne,Yes,Pit latrine,Good,Insecurity
+R0380,25-34,Primary,Yes,Civil Servant,Unemployed,"Below ₦30,000",Farming,Yes,Sachet/Bottled,No,Flush toilet,Fair,Poor electricity
+R0381,65+,Primary,Yes,Artisan,Student,"₦30,000-₦59,999",Farming,Yes,Well,No,Pit latrine,Fair,Poor roads
+R0382,25-34,Tertiary,Yes,Other,Employed,"₦30,000-₦59,999",Remittance,Yes,Borehole,Yes,Open defecation,Fair,Poor roads
+R0383,55-64,Primary,Yes,Trading,Employed,"Below ₦30,000",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Good,Poor roads
+R0384,45-54,None,Yes,Unemployed,Employed,"₦30,000-₦59,999",Farming,No,Borehole,Yes,Flush toilet,Good,Other
+R0385,35-44,Primary,Yes,Unemployed,Self-employed,"₦60,000-₦99,999",Trading,Yes,Borehole,No,Open defecation,Good,Poor roads
+R0386,35-44,Tertiary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,Yes,Flush toilet,Poor,Other
+R0387,65+,Primary,Yes,Unemployed,Unemployed,"Below ₦30,000",Salary/Wages,No,Well,Yes,Open defecation,Fair,Poor schools
+R0388,35-44,Tertiary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Borehole,No,Flush toilet,Good,Unemployment
+R0389,55-64,Primary,Yes,Trading,Employed,"₦60,000-₦99,999",Other,Yes,Pipe-borne,Yes,Flush toilet,Poor,Insecurity
+R0390,35-44,Primary,Yes,Unemployed,Self-employed,"₦60,000-₦99,999",Trading,No,Other,No,Pit latrine,Good,Unemployment
+R0391,55-64,Primary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Fishing,Yes,Sachet/Bottled,Yes,Pit latrine,Fair,Insecurity
+R0392,35-44,Secondary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,No,Flush toilet,Good,Poor electricity
+R0393,45-54,Primary,Yes,Farming,Self-employed,"Below ₦30,000",Salary/Wages,Yes,River/Stream,Yes,Other,Good,Poor roads
+R0394,35-44,Primary,Yes,Artisan,Self-employed,"₦60,000-₦99,999",Trading,No,River/Stream,Yes,Open defecation,Good,Poor roads
+R0395,18-24,Tertiary,Yes,Other,Employed,"Below ₦30,000",Fishing,Yes,Borehole,Yes,Flush toilet,Good,Unemployment
+R0396,45-54,Tertiary,No,Civil Servant,Employed,"₦100,000+",Fishing,Yes,Sachet/Bottled,Yes,Flush toilet,Fair,Insecurity
+R0397,25-34,Tertiary,Yes,Unemployed,Employed,"₦100,000+",Farming,Yes,River/Stream,Yes,Flush toilet,Good,Poor roads
+R0398,45-54,Primary,Yes,Fishing,Self-employed,"Below ₦30,000",Salary/Wages,No,Borehole,Yes,Pit latrine,Fair,Insecurity
+R0399,18-24,Tertiary,Yes,Fishing,Self-employed,"₦30,000-₦59,999",Salary/Wages,No,Well,Yes,Pit latrine,Good,Water shortage
+R0400,25-34,Secondary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Farming,No,Sachet/Bottled,Yes,Open defecation,Fair,Poor healthcare
+R0401,25-34,Secondary,Yes,Fishing,Self-employed,"₦30,000-₦59,999",Farming,No,Well,Yes,Flush toilet,Fair,Insecurity
+R0402,55-64,Secondary,Yes,Artisan,Employed,Prefer not to say,Salary/Wages,No,Other,Yes,Flush toilet,Poor,Unemployment
+R0403,45-54,Primary,Yes,Unemployed,Employed,"Below ₦30,000",Salary/Wages,Yes,Pipe-borne,Yes,Flush toilet,Good,Poor electricity
+R0404,45-54,Secondary,No,Farming,Student,"Below ₦30,000",Farming,No,Sachet/Bottled,Yes,Open defecation,Good,Water shortage
+R0405,35-44,Secondary,Yes,Farming,Employed,"₦100,000+",Trading,No,Sachet/Bottled,No,Flush toilet,Good,Unemployment
+R0406,45-54,Primary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Trading,No,Borehole,Yes,Other,Good,Water shortage
+R0407,25-34,Secondary,Yes,Civil Servant,Self-employed,"₦60,000-₦99,999",Salary/Wages,No,Well,Yes,Pit latrine,Good,Poor electricity
+R0408,35-44,Secondary,Yes,Trading,Employed,"₦100,000+",Trading,No,Borehole,Yes,Pit latrine,Good,Water shortage
+R0409,55-64,Secondary,Yes,Trading,Self-employed,"₦100,000+",Farming,Yes,Pipe-borne,Yes,Flush toilet,Fair,Poor healthcare
+R0410,45-54,Secondary,Yes,Trading,Employed,Prefer not to say,Farming,Yes,Borehole,Yes,Flush toilet,Good,Poor electricity
+R0411,18-24,Primary,Yes,Student,Unemployed,"₦100,000+",Trading,Yes,Pipe-borne,Yes,Pit latrine,Fair,Poor roads
+R0412,35-44,Primary,Yes,Artisan,Unemployed,"₦100,000+",Trading,Yes,Other,No,Flush toilet,Good,Unemployment
+R0413,45-54,Secondary,No,Trading,Self-employed,Prefer not to say,Trading,No,Pipe-borne,Yes,Pit latrine,Poor,Poor roads
+R0414,45-54,Primary,Yes,Farming,Unemployed,"₦30,000-₦59,999",Fishing,Yes,Pipe-borne,No,Flush toilet,Good,Unemployment
+R0415,55-64,Primary,No,Fishing,Self-employed,Prefer not to say,Farming,No,Borehole,No,Pit latrine,Fair,Insecurity
+R0416,25-34,Tertiary,Yes,Unemployed,Self-employed,"₦60,000-₦99,999",Farming,Yes,Sachet/Bottled,Yes,Pit latrine,Fair,Poor roads
+R0417,25-34,None,No,Civil Servant,Self-employed,"₦60,000-₦99,999",Salary/Wages,Yes,Pipe-borne,Yes,Flush toilet,Good,Insecurity
+R0418,35-44,None,Yes,Trading,Student,"₦60,000-₦99,999",Fishing,No,Well,Yes,Pit latrine,Fair,Poor roads
+R0419,45-54,Secondary,No,Farming,Employed,"₦100,000+",Trading,Yes,Pipe-borne,Yes,Open defecation,Poor,Poor roads
+R0420,55-64,Secondary,Yes,Farming,Employed,"₦100,000+",Remittance,Yes,River/Stream,Yes,Open defecation,Fair,Insecurity
+R0421,65+,Tertiary,No,Unemployed,Employed,"₦100,000+",Farming,No,Pipe-borne,Yes,Flush toilet,Poor,Unemployment
+R0422,45-54,Tertiary,Yes,Farming,Self-employed,"Below ₦30,000",Farming,No,Other,Yes,Open defecation,Good,Poor electricity
+R0423,55-64,Secondary,No,Trading,Employed,"₦30,000-₦59,999",Trading,Yes,Pipe-borne,Yes,Pit latrine,Poor,Unemployment
+R0424,18-24,Secondary,Yes,Civil Servant,Employed,"₦100,000+",Farming,Yes,Borehole,Yes,Flush toilet,Poor,Poor roads
+R0425,35-44,Secondary,Yes,Student,Unemployed,"₦100,000+",Farming,No,Borehole,No,Pit latrine,Good,Insecurity
+R0426,45-54,Secondary,Yes,Farming,Unemployed,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Other,Fair,Other
+R0427,18-24,Primary,Yes,Artisan,Employed,"₦60,000-₦99,999",Farming,No,Borehole,Yes,Flush toilet,Good,Poor roads
+R0428,18-24,Primary,Yes,Unemployed,Employed,"₦100,000+",Salary/Wages,Yes,Borehole,No,Open defecation,Good,Poor healthcare
+R0429,55-64,Primary,Yes,Trading,Self-employed,"Below ₦30,000",Farming,Yes,Borehole,Yes,Pit latrine,Fair,Insecurity
+R0430,35-44,Primary,Yes,Fishing,Self-employed,Prefer not to say,Farming,Yes,Well,Yes,Pit latrine,Poor,Water shortage
+R0431,18-24,Secondary,Yes,Civil Servant,Self-employed,"Below ₦30,000",Remittance,No,Borehole,No,Pit latrine,Fair,Poor roads
+R0432,35-44,Tertiary,Yes,Fishing,Unemployed,Prefer not to say,Trading,Yes,Borehole,Yes,Open defecation,Fair,Poor roads
+R0433,45-54,Secondary,Yes,Farming,Employed,"₦30,000-₦59,999",Farming,Yes,Other,Yes,Open defecation,Poor,Water shortage
+R0434,35-44,Secondary,Yes,Trading,Retired,"₦100,000+",Farming,Yes,River/Stream,No,Flush toilet,Fair,Insecurity
+R0435,18-24,Secondary,Yes,Other,Self-employed,"₦100,000+",Farming,Yes,Sachet/Bottled,Yes,Other,Good,Poor roads
+R0436,35-44,Primary,Yes,Trading,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,Pipe-borne,Yes,Flush toilet,Good,Poor electricity
+R0437,18-24,Tertiary,Yes,Farming,Self-employed,"₦100,000+",Other,Yes,Well,Yes,Flush toilet,Fair,Insecurity
+R0438,45-54,Tertiary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Farming,Yes,River/Stream,Yes,Pit latrine,Poor,Poor electricity
+R0439,45-54,Secondary,Yes,Farming,Employed,"₦60,000-₦99,999",Trading,Yes,Pipe-borne,Yes,Other,Poor,Poor roads
+R0440,18-24,Secondary,Yes,Artisan,Self-employed,"₦100,000+",Remittance,No,Sachet/Bottled,Yes,Flush toilet,Fair,Insecurity
+R0441,35-44,Primary,Yes,Farming,Unemployed,"₦30,000-₦59,999",Trading,Yes,Borehole,No,Other,Fair,Water shortage
+R0442,18-24,Primary,Yes,Artisan,Self-employed,"₦100,000+",Farming,No,Borehole,Yes,Pit latrine,Fair,Poor healthcare
+R0443,25-34,Primary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Open defecation,Good,Unemployment
+R0444,45-54,Secondary,No,Trading,Unemployed,"₦100,000+",Trading,No,Borehole,Yes,Pit latrine,Fair,Poor electricity
+R0445,25-34,Tertiary,No,Farming,Unemployed,"₦60,000-₦99,999",Fishing,No,Borehole,Yes,Flush toilet,Poor,Poor roads
+R0446,25-34,Secondary,Yes,Farming,Student,"₦100,000+",Farming,Yes,Pipe-borne,No,Flush toilet,Good,Poor roads
+R0447,45-54,Secondary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Fair,Insecurity
+R0448,55-64,Tertiary,Yes,Trading,Employed,"₦60,000-₦99,999",Farming,Yes,Well,Yes,Flush toilet,Good,Poor roads
+R0449,45-54,Primary,Yes,Unemployed,Employed,"₦60,000-₦99,999",Remittance,No,Well,Yes,Open defecation,Good,Poor healthcare
+R0450,25-34,Tertiary,No,Trading,Self-employed,"₦100,000+",Salary/Wages,No,Borehole,No,Flush toilet,Good,Unemployment
+R0451,45-54,Tertiary,Yes,Artisan,Employed,"₦60,000-₦99,999",Trading,Yes,River/Stream,Yes,Flush toilet,Fair,Poor electricity
+R0452,55-64,Secondary,Yes,Unemployed,Employed,"₦100,000+",Salary/Wages,No,Pipe-borne,Yes,Flush toilet,Good,Poor schools
+R0453,25-34,Secondary,Yes,Farming,Self-employed,Prefer not to say,Fishing,No,Borehole,Yes,Flush toilet,Fair,Poor healthcare
+R0454,55-64,Secondary,Yes,Trading,Self-employed,"₦100,000+",Farming,No,River/Stream,Yes,Pit latrine,Good,Poor schools
+R0455,45-54,Secondary,Yes,Fishing,Employed,"₦100,000+",Farming,No,Borehole,No,Flush toilet,Fair,Poor schools
+R0456,25-34,Tertiary,Yes,Trading,Unemployed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Flush toilet,Fair,Poor healthcare
+R0457,55-64,Primary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Good,Water shortage
+R0458,55-64,None,Yes,Artisan,Employed,"₦100,000+",Remittance,Yes,Pipe-borne,No,Pit latrine,Good,Insecurity
+R0459,45-54,Primary,Yes,Farming,Unemployed,"₦60,000-₦99,999",Fishing,Yes,Borehole,No,Pit latrine,Good,Poor healthcare
+R0460,25-34,Secondary,No,Student,Employed,"₦30,000-₦59,999",Trading,No,Sachet/Bottled,Yes,Other,Fair,Poor roads
+R0461,35-44,Primary,Yes,Other,Self-employed,"₦30,000-₦59,999",Fishing,No,Pipe-borne,No,Flush toilet,Fair,Insecurity
+R0462,55-64,None,Yes,Unemployed,Student,"Below ₦30,000",Farming,Yes,Pipe-borne,No,Open defecation,Poor,Poor roads
+R0463,25-34,Secondary,Yes,Farming,Self-employed,"₦100,000+",Other,No,Pipe-borne,Yes,Flush toilet,Good,Poor healthcare
+R0464,35-44,Secondary,Yes,Other,Self-employed,"Below ₦30,000",Trading,No,Well,Yes,Open defecation,Good,Water shortage
+R0465,25-34,Tertiary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,No,Pipe-borne,Yes,Open defecation,Good,Unemployment
+R0466,55-64,Secondary,Yes,Farming,Student,"₦60,000-₦99,999",Trading,Yes,Pipe-borne,Yes,Flush toilet,Fair,Insecurity
+R0467,35-44,Secondary,Yes,Trading,Unemployed,"₦30,000-₦59,999",Other,Yes,River/Stream,No,Other,Poor,Poor schools
+R0468,25-34,None,No,Other,Retired,"₦100,000+",Farming,Yes,Borehole,No,Flush toilet,Good,Water shortage
+R0469,25-34,Tertiary,No,Trading,Self-employed,"₦100,000+",Salary/Wages,No,Well,No,Flush toilet,Good,Water shortage
+R0470,35-44,Secondary,No,Trading,Employed,"Below ₦30,000",Farming,No,Well,No,Open defecation,Good,Insecurity
+R0471,25-34,Secondary,Yes,Farming,Retired,Prefer not to say,Fishing,No,Sachet/Bottled,Yes,Pit latrine,Good,Poor healthcare
+R0472,25-34,Tertiary,Yes,Fishing,Unemployed,"₦60,000-₦99,999",Other,Yes,Borehole,Yes,Flush toilet,Good,Poor electricity
+R0473,35-44,Secondary,Yes,Farming,Self-employed,"Below ₦30,000",Salary/Wages,Yes,Pipe-borne,Yes,Flush toilet,Good,Water shortage
+R0474,65+,Primary,Yes,Fishing,Self-employed,"₦100,000+",Farming,Yes,Pipe-borne,Yes,Other,Fair,Poor schools
+R0475,18-24,Primary,No,Other,Unemployed,"₦60,000-₦99,999",Salary/Wages,No,Pipe-borne,Yes,Open defecation,Good,Poor schools
+R0476,65+,Primary,Yes,Unemployed,Employed,"₦100,000+",Farming,No,Pipe-borne,No,Open defecation,Poor,Poor roads
+R0477,25-34,Primary,Yes,Student,Self-employed,"₦60,000-₦99,999",Salary/Wages,No,Borehole,Yes,Pit latrine,Good,Poor schools
+R0478,45-54,Tertiary,Yes,Trading,Self-employed,"₦60,000-₦99,999",Trading,No,Sachet/Bottled,Yes,Pit latrine,Good,Poor schools
+R0479,45-54,Secondary,No,Civil Servant,Retired,"Below ₦30,000",Salary/Wages,Yes,Borehole,Yes,Flush toilet,Good,Poor roads
+R0480,25-34,Primary,Yes,Student,Self-employed,"Below ₦30,000",Other,No,Pipe-borne,Yes,Open defecation,Good,Poor electricity
+R0481,25-34,Secondary,Yes,Other,Retired,"₦60,000-₦99,999",Other,No,Pipe-borne,No,Flush toilet,Poor,Unemployment
+R0482,55-64,Secondary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Other,Yes,Borehole,Yes,Pit latrine,Fair,Unemployment
+R0483,18-24,None,Yes,Farming,Employed,"₦30,000-₦59,999",Remittance,Yes,Well,Yes,Pit latrine,Good,Insecurity
+R0484,25-34,Primary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Open defecation,Good,Insecurity
+R0485,35-44,Tertiary,Yes,Fishing,Unemployed,"₦60,000-₦99,999",Farming,Yes,Sachet/Bottled,Yes,Open defecation,Good,Poor roads
+R0486,18-24,Secondary,No,Unemployed,Unemployed,Prefer not to say,Fishing,No,Borehole,Yes,Pit latrine,Good,Poor electricity
+R0487,45-54,Primary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,River/Stream,No,Flush toilet,Good,Poor electricity
+R0488,25-34,Primary,Yes,Trading,Self-employed,Prefer not to say,Farming,No,Well,No,Flush toilet,Good,Poor schools
+R0489,35-44,Secondary,Yes,Student,Self-employed,"₦60,000-₦99,999",Remittance,Yes,Borehole,Yes,Flush toilet,Fair,Poor healthcare
+R0490,35-44,Secondary,Yes,Trading,Student,"Below ₦30,000",Salary/Wages,Yes,Borehole,No,Open defecation,Poor,Unemployment
+R0491,55-64,Tertiary,Yes,Farming,Self-employed,"₦100,000+",Farming,Yes,Borehole,Yes,Pit latrine,Fair,Poor healthcare
+R0492,55-64,Secondary,Yes,Fishing,Employed,"₦100,000+",Salary/Wages,Yes,Borehole,No,Flush toilet,Poor,Poor roads
+R0493,18-24,Secondary,No,Student,Employed,"₦100,000+",Trading,Yes,Borehole,Yes,Open defecation,Poor,Unemployment
+R0494,25-34,Primary,Yes,Other,Self-employed,"₦100,000+",Remittance,Yes,Sachet/Bottled,Yes,Open defecation,Good,Insecurity
+R0495,35-44,Tertiary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Poor,Poor healthcare
+R0496,25-34,Secondary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,No,Pit latrine,Good,Unemployment
+R0497,25-34,Secondary,No,Farming,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,Yes,Open defecation,Good,Poor electricity
+R0498,65+,Primary,Yes,Trading,Employed,"₦60,000-₦99,999",Farming,No,River/Stream,Yes,Open defecation,Poor,Insecurity
+R0499,18-24,Secondary,Yes,Fishing,Self-employed,"₦30,000-₦59,999",Trading,No,Pipe-borne,Yes,Pit latrine,Good,Poor schools
+R0500,45-54,Primary,No,Unemployed,Self-employed,Prefer not to say,Remittance,Yes,Sachet/Bottled,No,Open defecation,Good,Other
+R0501,45-54,Primary,Yes,Farming,Employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Pit latrine,Poor,Poor roads
+R0502,25-34,Tertiary,Yes,Unemployed,Student,Prefer not to say,Fishing,Yes,River/Stream,No,Pit latrine,Fair,Poor electricity
+R0503,55-64,Tertiary,Yes,Fishing,Employed,"₦60,000-₦99,999",Remittance,No,Borehole,No,Open defecation,Good,Other
+R0504,35-44,Tertiary,Yes,Trading,Employed,Prefer not to say,Trading,Yes,Well,No,Open defecation,Good,Poor electricity
+R0505,45-54,Secondary,Yes,Civil Servant,Student,"₦30,000-₦59,999",Fishing,Yes,Pipe-borne,Yes,Flush toilet,Fair,Water shortage
+R0506,18-24,Tertiary,No,Farming,Student,"Below ₦30,000",Salary/Wages,No,River/Stream,Yes,Flush toilet,Good,Poor roads
+R0507,18-24,Primary,Yes,Civil Servant,Unemployed,"₦60,000-₦99,999",Farming,Yes,Other,Yes,Pit latrine,Good,Water shortage
+R0508,18-24,Primary,Yes,Fishing,Employed,Prefer not to say,Fishing,Yes,Borehole,Yes,Pit latrine,Good,Poor roads
+R0509,45-54,Tertiary,Yes,Trading,Retired,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Pit latrine,Good,Poor schools
+R0510,25-34,Tertiary,Yes,Trading,Unemployed,"Below ₦30,000",Salary/Wages,No,Well,Yes,Flush toilet,Fair,Poor electricity
+R0511,45-54,Primary,Yes,Unemployed,Self-employed,Prefer not to say,Salary/Wages,Yes,Pipe-borne,Yes,Other,Poor,Unemployment
+R0512,18-24,Primary,No,Farming,Employed,Prefer not to say,Salary/Wages,Yes,Pipe-borne,Yes,Open defecation,Fair,Poor healthcare
+R0513,35-44,Tertiary,Yes,Artisan,Self-employed,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Open defecation,Fair,Insecurity
+R0514,18-24,Tertiary,Yes,Farming,Employed,"₦100,000+",Fishing,Yes,Borehole,No,Open defecation,Good,Unemployment
+R0515,35-44,Secondary,Yes,Unemployed,Self-employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Fair,Unemployment
+R0516,35-44,Secondary,Yes,Artisan,Employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,No,Flush toilet,Good,Poor electricity
+R0517,35-44,Primary,Yes,Unemployed,Unemployed,"₦100,000+",Trading,Yes,Well,Yes,Pit latrine,Fair,Water shortage
+R0518,55-64,Tertiary,No,Trading,Self-employed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Fair,Poor healthcare
+R0519,25-34,Secondary,Yes,Farming,Unemployed,"₦30,000-₦59,999",Trading,No,Pipe-borne,Yes,Flush toilet,Fair,Poor roads
+R0520,18-24,Primary,Yes,Farming,Unemployed,"₦60,000-₦99,999",Trading,No,Well,No,Flush toilet,Fair,Unemployment
+R0521,35-44,Secondary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Pit latrine,Good,Water shortage
+R0522,35-44,Tertiary,No,Unemployed,Self-employed,"₦60,000-₦99,999",Salary/Wages,No,River/Stream,Yes,Pit latrine,Good,Poor healthcare
+R0523,55-64,Primary,Yes,Farming,Unemployed,"₦30,000-₦59,999",Farming,No,Borehole,Yes,Pit latrine,Good,Poor electricity
+R0524,35-44,None,Yes,Farming,Unemployed,"₦30,000-₦59,999",Fishing,Yes,Sachet/Bottled,Yes,Flush toilet,Good,Poor roads
+R0525,25-34,Tertiary,Yes,Farming,Employed,"₦60,000-₦99,999",Farming,Yes,Borehole,No,Pit latrine,Fair,Poor roads
+R0526,35-44,Primary,No,Farming,Self-employed,"Below ₦30,000",Farming,Yes,Sachet/Bottled,Yes,Pit latrine,Good,Poor roads
+R0527,35-44,Primary,Yes,Unemployed,Self-employed,"₦60,000-₦99,999",Trading,No,Sachet/Bottled,Yes,Pit latrine,Good,Poor healthcare
+R0528,18-24,Secondary,Yes,Trading,Retired,"₦100,000+",Remittance,Yes,Borehole,No,Open defecation,Good,Poor roads
+R0529,45-54,None,Yes,Farming,Self-employed,"₦60,000-₦99,999",Salary/Wages,Yes,Pipe-borne,Yes,Other,Good,Unemployment
+R0530,25-34,Secondary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Remittance,No,Sachet/Bottled,Yes,Open defecation,Good,Poor healthcare
+R0531,25-34,Primary,No,Unemployed,Unemployed,"₦30,000-₦59,999",Farming,Yes,River/Stream,Yes,Flush toilet,Fair,Other
+R0532,55-64,Primary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Other,Fair,Unemployment
+R0533,35-44,Secondary,Yes,Fishing,Employed,Prefer not to say,Farming,No,Borehole,No,Pit latrine,Good,Water shortage
+R0534,35-44,None,Yes,Farming,Self-employed,"₦60,000-₦99,999",Trading,No,Borehole,No,Pit latrine,Fair,Other
+R0535,35-44,Secondary,Yes,Student,Self-employed,Prefer not to say,Farming,Yes,Borehole,Yes,Other,Fair,Insecurity
+R0536,35-44,Secondary,No,Civil Servant,Self-employed,"₦30,000-₦59,999",Remittance,Yes,Pipe-borne,Yes,Pit latrine,Poor,Poor roads
+R0537,25-34,Secondary,No,Trading,Self-employed,"₦60,000-₦99,999",Remittance,Yes,Sachet/Bottled,Yes,Other,Good,Insecurity
+R0538,55-64,Tertiary,Yes,Student,Retired,"₦30,000-₦59,999",Trading,No,River/Stream,Yes,Flush toilet,Fair,Poor roads
+R0539,45-54,Secondary,Yes,Civil Servant,Unemployed,"Below ₦30,000",Fishing,Yes,Borehole,Yes,Pit latrine,Fair,Insecurity
+R0540,18-24,Secondary,Yes,Student,Student,Prefer not to say,Other,No,Pipe-borne,No,Flush toilet,Good,Poor electricity
+R0541,35-44,None,Yes,Artisan,Student,"₦100,000+",Remittance,Yes,River/Stream,Yes,Pit latrine,Fair,Insecurity
+R0542,35-44,Tertiary,Yes,Artisan,Employed,"₦30,000-₦59,999",Remittance,Yes,River/Stream,No,Flush toilet,Good,Poor healthcare
+R0543,18-24,Primary,Yes,Other,Employed,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Open defecation,Good,Unemployment
+R0544,45-54,Primary,No,Farming,Unemployed,"Below ₦30,000",Remittance,Yes,Pipe-borne,No,Flush toilet,Good,Poor roads
+R0545,55-64,Secondary,Yes,Farming,Employed,"₦30,000-₦59,999",Other,Yes,Borehole,Yes,Open defecation,Fair,Insecurity
+R0546,55-64,Tertiary,No,Fishing,Student,"Below ₦30,000",Farming,No,Well,No,Pit latrine,Poor,Poor schools
+R0547,25-34,Primary,Yes,Trading,Self-employed,"₦60,000-₦99,999",Fishing,No,Borehole,Yes,Flush toilet,Good,Water shortage
+R0548,55-64,Secondary,Yes,Artisan,Employed,"Below ₦30,000",Remittance,Yes,Pipe-borne,No,Flush toilet,Good,Water shortage
+R0549,18-24,Secondary,Yes,Civil Servant,Self-employed,"Below ₦30,000",Other,Yes,Borehole,Yes,Pit latrine,Fair,Unemployment
+R0550,18-24,Primary,No,Fishing,Student,"Below ₦30,000",Trading,No,Borehole,Yes,Open defecation,Fair,Unemployment
+R0551,18-24,Secondary,Yes,Other,Unemployed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Fair,Water shortage
+R0552,35-44,Primary,Yes,Trading,Employed,"₦30,000-₦59,999",Fishing,No,River/Stream,Yes,Pit latrine,Fair,Water shortage
+R0553,55-64,Tertiary,Yes,Trading,Employed,"₦30,000-₦59,999",Fishing,Yes,Borehole,No,Other,Poor,Insecurity
+R0554,45-54,Secondary,Yes,Artisan,Unemployed,"Below ₦30,000",Remittance,Yes,Borehole,Yes,Pit latrine,Poor,Poor healthcare
+R0555,45-54,Tertiary,Yes,Farming,Self-employed,"Below ₦30,000",Salary/Wages,Yes,Sachet/Bottled,No,Pit latrine,Fair,Poor schools
+R0556,55-64,Secondary,Yes,Farming,Retired,Prefer not to say,Other,No,Sachet/Bottled,Yes,Pit latrine,Fair,Unemployment
+R0557,25-34,Secondary,Yes,Civil Servant,Unemployed,Prefer not to say,Trading,No,Pipe-borne,Yes,Open defecation,Fair,Insecurity
+R0558,65+,Tertiary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Sachet/Bottled,No,Flush toilet,Good,Insecurity
+R0559,25-34,Primary,Yes,Farming,Unemployed,"Below ₦30,000",Farming,Yes,Pipe-borne,Yes,Open defecation,Good,Water shortage
+R0560,55-64,Tertiary,Yes,Fishing,Unemployed,"₦100,000+",Salary/Wages,No,Pipe-borne,Yes,Other,Fair,Poor electricity
+R0561,35-44,Secondary,No,Other,Employed,"₦60,000-₦99,999",Farming,No,River/Stream,No,Open defecation,Fair,Unemployment
+R0562,18-24,Primary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Trading,No,Pipe-borne,Yes,Pit latrine,Good,Poor roads
+R0563,18-24,Tertiary,Yes,Fishing,Employed,"Below ₦30,000",Fishing,No,Pipe-borne,Yes,Flush toilet,Fair,Insecurity
+R0564,18-24,Primary,Yes,Trading,Unemployed,Prefer not to say,Remittance,Yes,Pipe-borne,Yes,Flush toilet,Good,Insecurity
+R0565,65+,Secondary,Yes,Unemployed,Self-employed,Prefer not to say,Farming,No,Borehole,Yes,Pit latrine,Good,Water shortage
+R0566,25-34,Secondary,Yes,Student,Unemployed,"Below ₦30,000",Farming,Yes,Well,No,Flush toilet,Fair,Insecurity
+R0567,35-44,Tertiary,Yes,Farming,Unemployed,"Below ₦30,000",Salary/Wages,Yes,Well,Yes,Pit latrine,Fair,Unemployment
+R0568,45-54,Secondary,No,Artisan,Unemployed,"₦60,000-₦99,999",Remittance,No,Well,Yes,Pit latrine,Good,Poor electricity
+R0569,45-54,Secondary,Yes,Student,Self-employed,Prefer not to say,Other,No,Borehole,No,Other,Good,Unemployment
+R0570,45-54,Tertiary,Yes,Civil Servant,Employed,"₦60,000-₦99,999",Salary/Wages,No,Borehole,Yes,Other,Fair,Unemployment
+R0571,35-44,Primary,No,Farming,Student,"₦30,000-₦59,999",Trading,Yes,Sachet/Bottled,Yes,Pit latrine,Poor,Poor schools
+R0572,25-34,Primary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor schools
+R0573,35-44,None,No,Student,Employed,"₦100,000+",Farming,Yes,River/Stream,Yes,Flush toilet,Good,Water shortage
+R0574,45-54,None,Yes,Farming,Self-employed,"₦100,000+",Trading,Yes,Sachet/Bottled,Yes,Flush toilet,Good,Poor healthcare
+R0575,25-34,Tertiary,Yes,Unemployed,Self-employed,"₦60,000-₦99,999",Salary/Wages,Yes,Sachet/Bottled,Yes,Flush toilet,Poor,Unemployment
+R0576,65+,Secondary,Yes,Farming,Self-employed,"Below ₦30,000",Trading,Yes,Borehole,No,Pit latrine,Good,Poor healthcare
+R0577,25-34,Tertiary,Yes,Artisan,Self-employed,Prefer not to say,Salary/Wages,Yes,Well,Yes,Pit latrine,Poor,Poor electricity
+R0578,55-64,Primary,Yes,Other,Employed,"₦100,000+",Farming,No,Pipe-borne,Yes,Flush toilet,Fair,Poor roads
+R0579,55-64,Secondary,No,Farming,Employed,Prefer not to say,Farming,No,River/Stream,Yes,Pit latrine,Fair,Poor electricity
+R0580,25-34,None,Yes,Fishing,Employed,"₦60,000-₦99,999",Salary/Wages,No,Sachet/Bottled,Yes,Flush toilet,Good,Water shortage
+R0581,18-24,None,Yes,Student,Employed,"Below ₦30,000",Trading,Yes,Borehole,Yes,Flush toilet,Good,Poor roads
+R0582,55-64,Tertiary,Yes,Farming,Unemployed,"₦60,000-₦99,999",Fishing,Yes,Sachet/Bottled,Yes,Pit latrine,Fair,Poor electricity
+R0583,25-34,Secondary,Yes,Farming,Employed,"Below ₦30,000",Trading,Yes,Borehole,No,Pit latrine,Fair,Unemployment
+R0584,45-54,Secondary,Yes,Farming,Employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Pit latrine,Poor,Water shortage
+R0585,55-64,Primary,Yes,Farming,Student,"₦100,000+",Other,No,Well,Yes,Pit latrine,Poor,Poor roads
+R0586,25-34,Secondary,Yes,Trading,Unemployed,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Flush toilet,Good,Poor electricity
+R0587,25-34,Primary,No,Trading,Self-employed,"Below ₦30,000",Trading,Yes,Borehole,No,Pit latrine,Fair,Poor electricity
+R0588,25-34,Secondary,Yes,Artisan,Self-employed,Prefer not to say,Farming,No,River/Stream,Yes,Flush toilet,Fair,Other
+R0589,65+,Tertiary,Yes,Other,Unemployed,"₦30,000-₦59,999",Fishing,Yes,Pipe-borne,Yes,Open defecation,Good,Poor roads
+R0590,45-54,Primary,No,Farming,Student,"₦30,000-₦59,999",Remittance,Yes,Borehole,Yes,Pit latrine,Fair,Water shortage
+R0591,25-34,Tertiary,Yes,Artisan,Retired,"₦60,000-₦99,999",Trading,No,Pipe-borne,Yes,Open defecation,Fair,Water shortage
+R0592,45-54,Secondary,Yes,Artisan,Self-employed,"₦100,000+",Salary/Wages,No,River/Stream,No,Pit latrine,Poor,Insecurity
+R0593,25-34,Primary,No,Farming,Self-employed,"₦60,000-₦99,999",Farming,Yes,Well,Yes,Other,Poor,Poor schools
+R0594,55-64,Tertiary,Yes,Civil Servant,Unemployed,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Pit latrine,Poor,Poor healthcare
+R0595,55-64,Primary,Yes,Student,Self-employed,"₦60,000-₦99,999",Other,No,Pipe-borne,No,Open defecation,Fair,Poor roads
+R0596,25-34,Tertiary,No,Unemployed,Employed,"₦60,000-₦99,999",Farming,Yes,Well,No,Pit latrine,Poor,Insecurity
+R0597,55-64,Secondary,Yes,Other,Self-employed,"₦60,000-₦99,999",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Poor,Unemployment
+R0598,35-44,Tertiary,Yes,Civil Servant,Retired,"₦30,000-₦59,999",Trading,Yes,Borehole,No,Pit latrine,Fair,Water shortage
+R0599,25-34,Primary,Yes,Trading,Self-employed,"Below ₦30,000",Farming,Yes,Well,No,Open defecation,Good,Poor roads
+R0600,45-54,Tertiary,No,Artisan,Unemployed,Prefer not to say,Farming,No,Pipe-borne,No,Flush toilet,Good,Poor schools
+R0601,65+,Primary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Salary/Wages,No,Well,Yes,Flush toilet,Good,Poor roads
+R0602,25-34,Secondary,Yes,Trading,Employed,Prefer not to say,Fishing,No,Borehole,Yes,Other,Good,Poor schools
+R0603,25-34,Primary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Trading,Yes,Well,Yes,Pit latrine,Good,Water shortage
+R0604,35-44,Secondary,Yes,Civil Servant,Retired,"₦30,000-₦59,999",Salary/Wages,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor schools
+R0605,45-54,Primary,Yes,Other,Employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Pit latrine,Good,Unemployment
+R0606,55-64,Primary,Yes,Farming,Unemployed,"₦100,000+",Farming,Yes,River/Stream,Yes,Flush toilet,Good,Poor roads
+R0607,55-64,None,Yes,Other,Self-employed,"₦30,000-₦59,999",Farming,No,Borehole,Yes,Flush toilet,Fair,Insecurity
+R0608,25-34,Secondary,No,Farming,Unemployed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,No,Other,Fair,Poor healthcare
+R0609,35-44,Secondary,Yes,Farming,Employed,"Below ₦30,000",Farming,Yes,Pipe-borne,Yes,Flush toilet,Good,Insecurity
+R0610,18-24,Secondary,Yes,Farming,Unemployed,"Below ₦30,000",Trading,Yes,River/Stream,Yes,Open defecation,Good,Poor roads
+R0611,25-34,Secondary,Yes,Civil Servant,Employed,"₦60,000-₦99,999",Farming,Yes,Borehole,Yes,Pit latrine,Good,Insecurity
+R0612,25-34,None,Yes,Artisan,Unemployed,"Below ₦30,000",Remittance,Yes,Borehole,Yes,Flush toilet,Good,Unemployment
+R0613,55-64,Secondary,Yes,Civil Servant,Employed,"₦100,000+",Trading,No,Other,No,Flush toilet,Good,Unemployment
+R0614,55-64,Secondary,Yes,Fishing,Student,"Below ₦30,000",Fishing,Yes,Borehole,Yes,Flush toilet,Fair,Unemployment
+R0615,35-44,Primary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Other,No,Borehole,Yes,Open defecation,Good,Insecurity
+R0616,55-64,Tertiary,Yes,Artisan,Student,"₦100,000+",Fishing,Yes,Well,Yes,Pit latrine,Fair,Poor healthcare
+R0617,45-54,Primary,Yes,Fishing,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,No,Pit latrine,Poor,Poor roads
+R0618,25-34,Tertiary,Yes,Farming,Employed,"Below ₦30,000",Other,Yes,Borehole,No,Open defecation,Good,Unemployment
+R0619,45-54,Secondary,Yes,Farming,Employed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Pit latrine,Good,Unemployment
+R0620,55-64,Primary,No,Farming,Self-employed,"₦60,000-₦99,999",Farming,Yes,Borehole,No,Pit latrine,Good,Poor roads
+R0621,18-24,Tertiary,Yes,Student,Unemployed,Prefer not to say,Trading,No,Borehole,Yes,Open defecation,Good,Water shortage
+R0622,35-44,Tertiary,Yes,Civil Servant,Retired,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Open defecation,Fair,Unemployment
+R0623,35-44,Primary,Yes,Trading,Student,"Below ₦30,000",Farming,No,Well,Yes,Open defecation,Good,Insecurity
+R0624,18-24,None,Yes,Fishing,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Pipe-borne,No,Pit latrine,Good,Unemployment
+R0625,35-44,None,Yes,Unemployed,Employed,"₦30,000-₦59,999",Fishing,Yes,Borehole,No,Flush toilet,Fair,Poor healthcare
+R0626,25-34,Secondary,Yes,Farming,Student,"Below ₦30,000",Farming,Yes,Borehole,Yes,Open defecation,Fair,Unemployment
+R0627,25-34,Tertiary,Yes,Fishing,Self-employed,"₦100,000+",Remittance,Yes,Pipe-borne,Yes,Open defecation,Poor,Poor roads
+R0628,25-34,Secondary,Yes,Trading,Employed,"Below ₦30,000",Remittance,No,Sachet/Bottled,Yes,Flush toilet,Good,Poor roads
+R0629,35-44,Tertiary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Fishing,No,Pipe-borne,Yes,Flush toilet,Fair,Water shortage
+R0630,35-44,Secondary,Yes,Farming,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor electricity
+R0631,25-34,Secondary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Salary/Wages,No,Pipe-borne,Yes,Flush toilet,Good,Poor healthcare
+R0632,25-34,Tertiary,Yes,Artisan,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Sachet/Bottled,No,Pit latrine,Fair,Water shortage
+R0633,55-64,Tertiary,Yes,Trading,Self-employed,"Below ₦30,000",Trading,Yes,Pipe-borne,Yes,Flush toilet,Fair,Poor roads
+R0634,45-54,Tertiary,Yes,Other,Student,"₦30,000-₦59,999",Farming,No,Borehole,Yes,Pit latrine,Fair,Poor roads
+R0635,55-64,Secondary,No,Fishing,Employed,Prefer not to say,Trading,No,Pipe-borne,No,Flush toilet,Fair,Poor roads
+R0636,45-54,Primary,No,Trading,Employed,"Below ₦30,000",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Good,Other
+R0637,45-54,Tertiary,Yes,Unemployed,Retired,"Below ₦30,000",Farming,Yes,Well,Yes,Open defecation,Good,Water shortage
+R0638,35-44,Primary,No,Student,Self-employed,"₦60,000-₦99,999",Salary/Wages,No,Borehole,Yes,Other,Good,Water shortage
+R0639,65+,Tertiary,Yes,Fishing,Employed,"₦60,000-₦99,999",Trading,No,Well,Yes,Open defecation,Good,Poor roads
+R0640,65+,Tertiary,No,Civil Servant,Employed,"₦100,000+",Other,Yes,Pipe-borne,Yes,Open defecation,Fair,Poor electricity
+R0641,25-34,Primary,No,Civil Servant,Unemployed,"Below ₦30,000",Fishing,Yes,Pipe-borne,Yes,Flush toilet,Good,Poor roads
+R0642,25-34,Primary,Yes,Artisan,Self-employed,Prefer not to say,Farming,No,Sachet/Bottled,Yes,Flush toilet,Poor,Unemployment
+R0643,25-34,None,No,Trading,Self-employed,"₦60,000-₦99,999",Fishing,No,Other,Yes,Flush toilet,Good,Poor electricity
+R0644,65+,Tertiary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Flush toilet,Good,Insecurity
+R0645,55-64,Primary,Yes,Fishing,Employed,"₦100,000+",Farming,Yes,Borehole,Yes,Pit latrine,Good,Insecurity
+R0646,35-44,Primary,Yes,Trading,Employed,"₦60,000-₦99,999",Other,Yes,Borehole,Yes,Flush toilet,Fair,Insecurity
+R0647,18-24,Primary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Fishing,Yes,Pipe-borne,Yes,Flush toilet,Good,Poor roads
+R0648,25-34,Secondary,Yes,Fishing,Employed,"Below ₦30,000",Salary/Wages,Yes,Other,No,Other,Fair,Poor schools
+R0649,55-64,None,No,Farming,Self-employed,"₦60,000-₦99,999",Fishing,Yes,River/Stream,Yes,Pit latrine,Fair,Unemployment
+R0650,45-54,Secondary,Yes,Unemployed,Employed,"Below ₦30,000",Remittance,No,Sachet/Bottled,Yes,Pit latrine,Good,Insecurity
+R0651,35-44,Secondary,No,Civil Servant,Employed,"₦30,000-₦59,999",Trading,Yes,Sachet/Bottled,Yes,Flush toilet,Poor,Water shortage
+R0652,45-54,Tertiary,No,Student,Self-employed,"Below ₦30,000",Trading,Yes,Well,Yes,Open defecation,Fair,Other
+R0653,18-24,Primary,Yes,Farming,Unemployed,"₦100,000+",Trading,Yes,Borehole,Yes,Flush toilet,Good,Unemployment
+R0654,18-24,Secondary,Yes,Fishing,Retired,"Below ₦30,000",Farming,Yes,Other,No,Flush toilet,Good,Poor healthcare
+R0655,65+,Secondary,Yes,Trading,Unemployed,"Below ₦30,000",Salary/Wages,Yes,River/Stream,Yes,Flush toilet,Poor,Unemployment
+R0656,45-54,Primary,Yes,Student,Self-employed,"₦60,000-₦99,999",Farming,Yes,Borehole,Yes,Flush toilet,Fair,Water shortage
+R0657,18-24,Secondary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,Yes,Borehole,No,Flush toilet,Poor,Unemployment
+R0658,35-44,Tertiary,Yes,Farming,Unemployed,"Below ₦30,000",Farming,Yes,Borehole,Yes,Pit latrine,Good,Poor roads
+R0659,18-24,Secondary,No,Fishing,Employed,Prefer not to say,Salary/Wages,Yes,River/Stream,Yes,Pit latrine,Fair,Poor electricity
+R0660,25-34,Secondary,Yes,Trading,Employed,"Below ₦30,000",Remittance,Yes,Borehole,Yes,Flush toilet,Good,Unemployment
+R0661,45-54,Secondary,Yes,Civil Servant,Unemployed,"Below ₦30,000",Farming,Yes,Sachet/Bottled,Yes,Pit latrine,Poor,Insecurity
+R0662,55-64,None,No,Unemployed,Employed,"Below ₦30,000",Fishing,No,Borehole,Yes,Pit latrine,Good,Other
+R0663,35-44,Tertiary,Yes,Trading,Employed,"₦100,000+",Trading,Yes,Pipe-borne,No,Open defecation,Good,Water shortage
+R0664,25-34,Secondary,Yes,Artisan,Employed,"Below ₦30,000",Trading,Yes,Well,Yes,Flush toilet,Good,Water shortage
+R0665,25-34,None,Yes,Trading,Unemployed,"₦60,000-₦99,999",Farming,Yes,Sachet/Bottled,Yes,Pit latrine,Good,Poor healthcare
+R0666,35-44,Tertiary,Yes,Farming,Retired,Prefer not to say,Remittance,No,Well,Yes,Pit latrine,Good,Poor roads
+R0667,55-64,Secondary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Salary/Wages,No,Pipe-borne,Yes,Pit latrine,Good,Poor roads
+R0668,18-24,None,Yes,Trading,Employed,"₦100,000+",Other,Yes,Borehole,Yes,Pit latrine,Good,Water shortage
+R0669,25-34,None,Yes,Trading,Self-employed,"₦30,000-₦59,999",Fishing,Yes,Well,Yes,Open defecation,Fair,Insecurity
+R0670,45-54,Secondary,Yes,Trading,Employed,"₦60,000-₦99,999",Trading,Yes,River/Stream,Yes,Pit latrine,Fair,Insecurity
+R0671,35-44,Tertiary,Yes,Other,Employed,Prefer not to say,Salary/Wages,No,River/Stream,Yes,Open defecation,Fair,Insecurity
+R0672,18-24,Secondary,Yes,Civil Servant,Employed,"₦60,000-₦99,999",Farming,No,River/Stream,Yes,Pit latrine,Good,Insecurity
+R0673,35-44,Primary,No,Trading,Self-employed,"₦30,000-₦59,999",Farming,Yes,Borehole,No,Flush toilet,Fair,Poor electricity
+R0674,25-34,Tertiary,No,Artisan,Student,"Below ₦30,000",Farming,Yes,Well,Yes,Pit latrine,Fair,Poor electricity
+R0675,35-44,Primary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,No,Pit latrine,Good,Unemployment
+R0676,25-34,Secondary,Yes,Civil Servant,Self-employed,Prefer not to say,Farming,No,Well,No,Flush toilet,Good,Unemployment
+R0677,45-54,None,Yes,Artisan,Self-employed,"₦30,000-₦59,999",Salary/Wages,No,Pipe-borne,No,Flush toilet,Fair,Poor electricity
+R0678,18-24,Primary,Yes,Farming,Employed,"₦60,000-₦99,999",Salary/Wages,Yes,Borehole,No,Other,Good,Insecurity
+R0679,55-64,Secondary,Yes,Farming,Student,"Below ₦30,000",Salary/Wages,Yes,Well,No,Pit latrine,Fair,Unemployment
+R0680,55-64,Tertiary,Yes,Trading,Student,"Below ₦30,000",Farming,Yes,Borehole,Yes,Flush toilet,Good,Unemployment
+R0681,35-44,Primary,Yes,Unemployed,Unemployed,Prefer not to say,Salary/Wages,Yes,Borehole,Yes,Flush toilet,Fair,Insecurity
+R0682,35-44,Primary,Yes,Trading,Employed,"₦30,000-₦59,999",Fishing,Yes,Pipe-borne,No,Flush toilet,Good,Poor electricity
+R0683,25-34,None,Yes,Artisan,Self-employed,Prefer not to say,Farming,Yes,Borehole,No,Other,Good,Poor healthcare
+R0684,25-34,Tertiary,Yes,Civil Servant,Self-employed,"Below ₦30,000",Farming,Yes,Pipe-borne,Yes,Other,Fair,Water shortage
+R0685,35-44,Primary,Yes,Unemployed,Employed,"Below ₦30,000",Trading,Yes,Pipe-borne,Yes,Pit latrine,Fair,Poor roads
+R0686,25-34,None,Yes,Civil Servant,Student,Prefer not to say,Trading,No,Borehole,Yes,Flush toilet,Fair,Poor roads
+R0687,18-24,Tertiary,Yes,Trading,Self-employed,"Below ₦30,000",Farming,Yes,Borehole,Yes,Pit latrine,Fair,Poor roads
+R0688,35-44,Secondary,Yes,Trading,Self-employed,"₦60,000-₦99,999",Trading,Yes,Well,No,Pit latrine,Poor,Poor roads
+R0689,65+,Secondary,Yes,Trading,Employed,"₦30,000-₦59,999",Fishing,Yes,Borehole,Yes,Open defecation,Fair,Unemployment
+R0690,45-54,Primary,Yes,Other,Self-employed,"₦60,000-₦99,999",Farming,Yes,Well,No,Other,Fair,Poor electricity
+R0691,18-24,Primary,Yes,Fishing,Employed,"Below ₦30,000",Salary/Wages,No,Sachet/Bottled,No,Other,Fair,Water shortage
+R0692,35-44,Primary,Yes,Trading,Student,"₦60,000-₦99,999",Fishing,Yes,Sachet/Bottled,Yes,Pit latrine,Fair,Poor roads
+R0693,65+,Primary,Yes,Farming,Self-employed,"Below ₦30,000",Salary/Wages,No,Well,No,Flush toilet,Poor,Poor roads
+R0694,18-24,Secondary,No,Unemployed,Unemployed,"Below ₦30,000",Salary/Wages,Yes,Borehole,Yes,Flush toilet,Fair,Insecurity
+R0695,55-64,Secondary,Yes,Trading,Employed,"₦30,000-₦59,999",Trading,Yes,Pipe-borne,Yes,Flush toilet,Fair,Unemployment
+R0696,65+,Primary,Yes,Civil Servant,Unemployed,"₦30,000-₦59,999",Farming,Yes,Other,Yes,Pit latrine,Fair,Poor electricity
+R0697,18-24,Primary,Yes,Farming,Unemployed,"Below ₦30,000",Salary/Wages,Yes,River/Stream,No,Flush toilet,Good,Insecurity
+R0698,25-34,Secondary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Remittance,No,Pipe-borne,Yes,Flush toilet,Good,Poor schools
+R0699,35-44,Secondary,Yes,Farming,Unemployed,"₦100,000+",Farming,Yes,Pipe-borne,No,Flush toilet,Good,Poor electricity
+R0700,25-34,Primary,Yes,Farming,Employed,"₦60,000-₦99,999",Salary/Wages,No,River/Stream,Yes,Open defecation,Poor,Poor roads
+R0701,45-54,Secondary,Yes,Student,Self-employed,"₦30,000-₦59,999",Farming,Yes,Sachet/Bottled,No,Pit latrine,Good,Insecurity
+R0702,25-34,Secondary,Yes,Farming,Student,"Below ₦30,000",Farming,Yes,River/Stream,No,Pit latrine,Fair,Other
+R0703,55-64,Secondary,No,Other,Unemployed,"₦30,000-₦59,999",Remittance,No,Sachet/Bottled,Yes,Pit latrine,Fair,Poor healthcare
+R0704,65+,Secondary,Yes,Farming,Employed,"₦30,000-₦59,999",Other,Yes,Well,Yes,Pit latrine,Fair,Poor roads
+R0705,55-64,Primary,No,Farming,Self-employed,"Below ₦30,000",Farming,Yes,River/Stream,Yes,Pit latrine,Good,Water shortage
+R0706,65+,Secondary,Yes,Farming,Employed,"Below ₦30,000",Trading,No,Other,Yes,Pit latrine,Good,Water shortage
+R0707,25-34,Secondary,Yes,Fishing,Employed,"₦60,000-₦99,999",Other,Yes,Well,Yes,Open defecation,Good,Insecurity
+R0708,45-54,Secondary,Yes,Trading,Employed,"Below ₦30,000",Remittance,Yes,Borehole,Yes,Flush toilet,Fair,Poor healthcare
+R0709,35-44,Primary,Yes,Trading,Unemployed,"₦60,000-₦99,999",Salary/Wages,Yes,Well,Yes,Pit latrine,Good,Poor electricity
+R0710,35-44,Secondary,Yes,Farming,Student,"₦30,000-₦59,999",Salary/Wages,No,Pipe-borne,No,Open defecation,Good,Unemployment
+R0711,65+,Secondary,No,Artisan,Employed,"Below ₦30,000",Farming,Yes,Well,Yes,Flush toilet,Fair,Poor roads
+R0712,35-44,Tertiary,Yes,Farming,Unemployed,"Below ₦30,000",Salary/Wages,No,Pipe-borne,Yes,Flush toilet,Fair,Unemployment
+R0713,25-34,Primary,No,Unemployed,Self-employed,"₦30,000-₦59,999",Fishing,Yes,River/Stream,Yes,Flush toilet,Good,Water shortage
+R0714,35-44,Secondary,Yes,Civil Servant,Student,Prefer not to say,Fishing,No,Sachet/Bottled,No,Flush toilet,Good,Unemployment
+R0715,45-54,Primary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Trading,No,Pipe-borne,Yes,Open defecation,Fair,Unemployment
+R0716,65+,Primary,Yes,Unemployed,Self-employed,"₦60,000-₦99,999",Farming,No,Sachet/Bottled,No,Other,Good,Poor roads
+R0717,25-34,Primary,No,Artisan,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor healthcare
+R0718,45-54,Tertiary,No,Other,Self-employed,"₦60,000-₦99,999",Trading,Yes,Borehole,Yes,Flush toilet,Fair,Poor roads
+R0719,55-64,Tertiary,Yes,Other,Employed,Prefer not to say,Trading,No,Sachet/Bottled,Yes,Pit latrine,Fair,Poor healthcare
+R0720,18-24,None,No,Other,Student,"Below ₦30,000",Salary/Wages,Yes,Pipe-borne,Yes,Flush toilet,Poor,Insecurity
+R0721,35-44,Secondary,Yes,Farming,Unemployed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Other,Good,Poor electricity
+R0722,25-34,Primary,Yes,Trading,Self-employed,Prefer not to say,Farming,Yes,Sachet/Bottled,No,Other,Fair,Insecurity
+R0723,65+,Primary,Yes,Artisan,Unemployed,"₦60,000-₦99,999",Farming,Yes,Borehole,Yes,Pit latrine,Good,Water shortage
+R0724,45-54,None,Yes,Trading,Employed,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Flush toilet,Poor,Unemployment
+R0725,25-34,Primary,No,Trading,Unemployed,"₦100,000+",Salary/Wages,No,Borehole,No,Open defecation,Good,Water shortage
+R0726,25-34,None,Yes,Unemployed,Self-employed,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Pit latrine,Poor,Poor electricity
+R0727,45-54,Primary,Yes,Unemployed,Unemployed,"₦60,000-₦99,999",Salary/Wages,Yes,Well,Yes,Flush toilet,Fair,Poor roads
+R0728,35-44,None,Yes,Fishing,Self-employed,"₦100,000+",Fishing,Yes,Pipe-borne,Yes,Pit latrine,Fair,Insecurity
+R0729,45-54,Tertiary,Yes,Trading,Self-employed,"Below ₦30,000",Farming,Yes,Sachet/Bottled,Yes,Pit latrine,Good,Poor healthcare
+R0730,45-54,Tertiary,No,Farming,Self-employed,"₦30,000-₦59,999",Trading,No,River/Stream,Yes,Pit latrine,Good,Unemployment
+R0731,35-44,Tertiary,Yes,Trading,Self-employed,"Below ₦30,000",Farming,Yes,Borehole,No,Other,Fair,Poor schools
+R0732,35-44,Tertiary,Yes,Unemployed,Unemployed,Prefer not to say,Fishing,Yes,Pipe-borne,Yes,Flush toilet,Good,Water shortage
+R0733,35-44,Secondary,Yes,Fishing,Student,"₦30,000-₦59,999",Fishing,Yes,Pipe-borne,Yes,Pit latrine,Fair,Poor roads
+R0734,55-64,Primary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Salary/Wages,No,Sachet/Bottled,Yes,Pit latrine,Good,Unemployment
+R0735,35-44,Primary,Yes,Trading,Self-employed,Prefer not to say,Fishing,Yes,Sachet/Bottled,Yes,Flush toilet,Good,Poor roads
+R0736,35-44,None,Yes,Fishing,Unemployed,Prefer not to say,Other,Yes,Sachet/Bottled,Yes,Pit latrine,Good,Water shortage
+R0737,35-44,Secondary,Yes,Unemployed,Employed,"₦100,000+",Farming,Yes,Borehole,Yes,Pit latrine,Poor,Unemployment
+R0738,18-24,Tertiary,Yes,Civil Servant,Unemployed,Prefer not to say,Salary/Wages,No,Borehole,Yes,Open defecation,Fair,Poor schools
+R0739,45-54,Secondary,Yes,Fishing,Self-employed,"₦60,000-₦99,999",Farming,Yes,Borehole,Yes,Pit latrine,Good,Insecurity
+R0740,65+,None,Yes,Civil Servant,Unemployed,"₦30,000-₦59,999",Fishing,No,Pipe-borne,Yes,Pit latrine,Good,Other
+R0741,18-24,Primary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Remittance,Yes,Well,Yes,Flush toilet,Good,Poor healthcare
+R0742,25-34,None,Yes,Farming,Retired,"₦30,000-₦59,999",Remittance,Yes,River/Stream,Yes,Other,Fair,Unemployment
+R0743,25-34,Tertiary,No,Other,Employed,"₦60,000-₦99,999",Fishing,No,River/Stream,Yes,Pit latrine,Fair,Poor schools
+R0744,65+,Secondary,No,Farming,Self-employed,"₦60,000-₦99,999",Farming,Yes,Borehole,Yes,Pit latrine,Fair,Water shortage
+R0745,18-24,Tertiary,No,Civil Servant,Employed,"₦100,000+",Farming,Yes,Borehole,Yes,Other,Good,Unemployment
+R0746,45-54,Primary,No,Trading,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,Yes,Other,Good,Unemployment
+R0747,65+,Primary,Yes,Other,Employed,"₦30,000-₦59,999",Farming,Yes,River/Stream,Yes,Flush toilet,Good,Unemployment
+R0748,65+,Primary,Yes,Artisan,Employed,"₦30,000-₦59,999",Salary/Wages,No,River/Stream,Yes,Pit latrine,Good,Water shortage
+R0749,35-44,Primary,Yes,Trading,Employed,"₦30,000-₦59,999",Remittance,Yes,Borehole,Yes,Pit latrine,Poor,Poor schools
+R0750,35-44,Primary,Yes,Artisan,Retired,"Below ₦30,000",Fishing,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor schools
+R0751,35-44,Tertiary,No,Farming,Self-employed,"₦100,000+",Salary/Wages,No,Borehole,No,Pit latrine,Good,Poor schools
+R0752,25-34,Primary,Yes,Student,Self-employed,"₦30,000-₦59,999",Fishing,No,Borehole,No,Flush toilet,Good,Poor roads
+R0753,55-64,None,Yes,Trading,Unemployed,"₦100,000+",Salary/Wages,Yes,Pipe-borne,Yes,Pit latrine,Fair,Poor electricity
+R0754,25-34,Primary,Yes,Farming,Employed,"₦30,000-₦59,999",Trading,No,Borehole,No,Pit latrine,Good,Insecurity
+R0755,25-34,Tertiary,Yes,Farming,Self-employed,"₦100,000+",Farming,No,Borehole,Yes,Flush toilet,Good,Water shortage
+R0756,45-54,Primary,Yes,Unemployed,Unemployed,"Below ₦30,000",Trading,Yes,Sachet/Bottled,No,Pit latrine,Good,Unemployment
+R0757,25-34,None,Yes,Farming,Self-employed,"₦30,000-₦59,999",Trading,No,Borehole,No,Flush toilet,Poor,Poor healthcare
+R0758,25-34,Tertiary,No,Civil Servant,Employed,"₦100,000+",Fishing,Yes,River/Stream,Yes,Flush toilet,Poor,Insecurity
+R0759,25-34,Secondary,Yes,Unemployed,Unemployed,"₦60,000-₦99,999",Remittance,Yes,Borehole,Yes,Flush toilet,Good,Insecurity
+R0760,25-34,Secondary,Yes,Other,Unemployed,Prefer not to say,Farming,Yes,Pipe-borne,Yes,Pit latrine,Fair,Insecurity
+R0761,25-34,Tertiary,Yes,Civil Servant,Unemployed,"₦30,000-₦59,999",Salary/Wages,Yes,Well,Yes,Flush toilet,Good,Poor schools
+R0762,18-24,Primary,No,Student,Retired,Prefer not to say,Farming,No,Borehole,Yes,Flush toilet,Good,Poor roads
+R0763,25-34,Secondary,No,Fishing,Self-employed,"Below ₦30,000",Farming,Yes,Pipe-borne,No,Pit latrine,Good,Poor roads
+R0764,45-54,Tertiary,Yes,Civil Servant,Unemployed,"₦60,000-₦99,999",Trading,Yes,Pipe-borne,Yes,Other,Fair,Poor schools
+R0765,65+,Secondary,Yes,Fishing,Self-employed,Prefer not to say,Farming,No,Pipe-borne,Yes,Open defecation,Good,Poor schools
+R0766,55-64,Secondary,Yes,Other,Self-employed,"Below ₦30,000",Remittance,No,Pipe-borne,Yes,Open defecation,Good,Poor electricity
+R0767,25-34,Tertiary,No,Fishing,Retired,"Below ₦30,000",Farming,Yes,Well,No,Pit latrine,Good,Poor schools
+R0768,35-44,Tertiary,Yes,Farming,Student,"₦100,000+",Trading,Yes,Borehole,No,Pit latrine,Fair,Unemployment
+R0769,55-64,Tertiary,Yes,Farming,Student,"₦30,000-₦59,999",Trading,No,Pipe-borne,Yes,Other,Good,Unemployment
+R0770,45-54,Secondary,Yes,Student,Unemployed,"₦100,000+",Trading,Yes,Pipe-borne,No,Pit latrine,Good,Water shortage
+R0771,35-44,Tertiary,Yes,Fishing,Employed,"₦100,000+",Fishing,Yes,Borehole,Yes,Pit latrine,Good,Poor electricity
+R0772,65+,Secondary,No,Trading,Self-employed,"₦30,000-₦59,999",Farming,No,Borehole,No,Pit latrine,Good,Insecurity
+R0773,55-64,Primary,Yes,Farming,Employed,"₦100,000+",Farming,Yes,Pipe-borne,Yes,Open defecation,Fair,Insecurity
+R0774,25-34,Secondary,Yes,Unemployed,Self-employed,Prefer not to say,Trading,Yes,Well,No,Flush toilet,Fair,Water shortage
+R0775,25-34,None,Yes,Trading,Unemployed,"₦60,000-₦99,999",Other,Yes,Pipe-borne,No,Other,Good,Water shortage
+R0776,18-24,Tertiary,No,Fishing,Self-employed,"₦30,000-₦59,999",Remittance,Yes,Sachet/Bottled,Yes,Flush toilet,Fair,Unemployment
+R0777,45-54,Tertiary,Yes,Artisan,Employed,"₦60,000-₦99,999",Salary/Wages,No,Borehole,No,Pit latrine,Good,Poor healthcare
+R0778,35-44,Primary,No,Civil Servant,Employed,"₦60,000-₦99,999",Salary/Wages,No,Other,Yes,Pit latrine,Fair,Poor roads
+R0779,35-44,Tertiary,Yes,Unemployed,Employed,"Below ₦30,000",Remittance,Yes,Borehole,Yes,Flush toilet,Poor,Poor roads
+R0780,65+,Primary,Yes,Student,Student,"₦30,000-₦59,999",Farming,Yes,Borehole,No,Pit latrine,Fair,Insecurity
+R0781,55-64,Tertiary,Yes,Civil Servant,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Well,Yes,Flush toilet,Good,Poor electricity
+R0782,55-64,Tertiary,Yes,Trading,Unemployed,"₦100,000+",Fishing,Yes,Well,Yes,Flush toilet,Poor,Unemployment
+R0783,35-44,None,Yes,Farming,Self-employed,"Below ₦30,000",Other,Yes,Other,Yes,Pit latrine,Poor,Poor healthcare
+R0784,25-34,Secondary,Yes,Farming,Self-employed,"₦100,000+",Trading,Yes,Borehole,No,Flush toilet,Good,Water shortage
+R0785,45-54,Secondary,Yes,Trading,Self-employed,"Below ₦30,000",Farming,Yes,Borehole,No,Pit latrine,Good,Poor healthcare
+R0786,65+,Secondary,No,Trading,Retired,"₦30,000-₦59,999",Farming,Yes,River/Stream,Yes,Flush toilet,Fair,Insecurity
+R0787,25-34,Secondary,Yes,Other,Self-employed,"₦30,000-₦59,999",Fishing,No,Borehole,Yes,Pit latrine,Fair,Insecurity
+R0788,65+,Tertiary,Yes,Other,Employed,"Below ₦30,000",Farming,Yes,Pipe-borne,Yes,Open defecation,Fair,Poor roads
+R0789,18-24,Secondary,Yes,Trading,Employed,"₦100,000+",Farming,No,Borehole,No,Other,Poor,Insecurity
+R0790,55-64,Tertiary,Yes,Civil Servant,Unemployed,Prefer not to say,Trading,No,Other,No,Pit latrine,Good,Unemployment
+R0791,18-24,Secondary,Yes,Trading,Unemployed,"₦60,000-₦99,999",Farming,Yes,Well,Yes,Pit latrine,Fair,Poor roads
+R0792,35-44,Secondary,Yes,Farming,Self-employed,"₦100,000+",Salary/Wages,No,Well,Yes,Pit latrine,Fair,Poor electricity
+R0793,18-24,Secondary,Yes,Unemployed,Self-employed,"₦100,000+",Trading,Yes,River/Stream,No,Open defecation,Fair,Poor roads
+R0794,35-44,Secondary,Yes,Unemployed,Self-employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,No,Flush toilet,Fair,Unemployment
+R0795,35-44,Primary,Yes,Farming,Unemployed,"₦60,000-₦99,999",Salary/Wages,Yes,Pipe-borne,Yes,Pit latrine,Fair,Poor electricity
+R0796,18-24,Tertiary,Yes,Unemployed,Retired,"Below ₦30,000",Remittance,No,River/Stream,Yes,Flush toilet,Good,Poor roads
+R0797,45-54,Primary,Yes,Trading,Employed,"₦60,000-₦99,999",Farming,Yes,River/Stream,No,Flush toilet,Fair,Poor roads
+R0798,55-64,Tertiary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Trading,No,Pipe-borne,Yes,Pit latrine,Fair,Insecurity
+R0799,35-44,None,Yes,Other,Unemployed,"₦60,000-₦99,999",Farming,Yes,River/Stream,Yes,Pit latrine,Good,Poor roads
+R0800,35-44,Secondary,Yes,Unemployed,Student,"Below ₦30,000",Farming,Yes,Borehole,Yes,Other,Fair,Poor healthcare
+R0801,35-44,Primary,Yes,Farming,Employed,"₦60,000-₦99,999",Salary/Wages,No,Pipe-borne,Yes,Pit latrine,Good,Poor roads
+R0802,35-44,Secondary,No,Civil Servant,Self-employed,"₦30,000-₦59,999",Remittance,No,Pipe-borne,Yes,Pit latrine,Poor,Insecurity
+R0803,35-44,Secondary,Yes,Unemployed,Employed,"Below ₦30,000",Trading,No,Borehole,Yes,Pit latrine,Fair,Unemployment
+R0804,55-64,Secondary,Yes,Artisan,Self-employed,"₦100,000+",Fishing,No,Pipe-borne,No,Pit latrine,Good,Water shortage
+R0805,25-34,Tertiary,No,Trading,Student,"Below ₦30,000",Fishing,No,Sachet/Bottled,Yes,Flush toilet,Fair,Poor electricity
+R0806,45-54,Primary,Yes,Artisan,Self-employed,"₦100,000+",Trading,No,Well,No,Pit latrine,Fair,Poor electricity
+R0807,25-34,Primary,Yes,Fishing,Self-employed,"₦100,000+",Trading,No,Sachet/Bottled,Yes,Flush toilet,Good,Unemployment
+R0808,25-34,Primary,Yes,Farming,Retired,"Below ₦30,000",Farming,Yes,Borehole,No,Flush toilet,Poor,Poor roads
+R0809,45-54,Primary,No,Civil Servant,Self-employed,"₦30,000-₦59,999",Salary/Wages,No,Well,Yes,Flush toilet,Fair,Poor roads
+R0810,18-24,Secondary,Yes,Fishing,Unemployed,"₦60,000-₦99,999",Farming,No,Pipe-borne,Yes,Pit latrine,Poor,Poor roads
+R0811,45-54,Secondary,Yes,Fishing,Employed,"₦100,000+",Trading,Yes,Borehole,Yes,Other,Good,Poor electricity
+R0812,45-54,Primary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,Yes,River/Stream,Yes,Flush toilet,Poor,Unemployment
+R0813,35-44,Secondary,Yes,Fishing,Employed,"₦30,000-₦59,999",Remittance,Yes,Pipe-borne,Yes,Pit latrine,Good,Unemployment
+R0814,25-34,Tertiary,No,Trading,Self-employed,Prefer not to say,Farming,No,Borehole,No,Pit latrine,Good,Poor schools
+R0815,65+,Secondary,Yes,Student,Self-employed,"Below ₦30,000",Farming,Yes,Well,Yes,Pit latrine,Good,Poor roads
+R0816,25-34,Primary,No,Farming,Employed,"₦30,000-₦59,999",Remittance,Yes,Borehole,Yes,Pit latrine,Fair,Poor roads
+R0817,35-44,Tertiary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Other,Poor,Insecurity
+R0818,25-34,Primary,Yes,Farming,Employed,"₦60,000-₦99,999",Fishing,No,Borehole,Yes,Flush toilet,Good,Poor electricity
+R0819,25-34,Primary,No,Other,Self-employed,"₦60,000-₦99,999",Fishing,No,Borehole,Yes,Flush toilet,Poor,Water shortage
+R0820,25-34,Tertiary,Yes,Trading,Employed,"Below ₦30,000",Remittance,Yes,Other,Yes,Pit latrine,Fair,Water shortage
+R0821,35-44,Secondary,Yes,Farming,Unemployed,"₦60,000-₦99,999",Remittance,Yes,Well,Yes,Open defecation,Fair,Poor roads
+R0822,25-34,Secondary,Yes,Unemployed,Self-employed,Prefer not to say,Farming,Yes,Sachet/Bottled,Yes,Other,Good,Other
+R0823,35-44,Secondary,No,Student,Self-employed,Prefer not to say,Remittance,No,Well,Yes,Flush toilet,Good,Poor roads
+R0824,25-34,Tertiary,No,Farming,Unemployed,"₦30,000-₦59,999",Fishing,Yes,Other,No,Other,Fair,Poor electricity
+R0825,65+,Tertiary,Yes,Farming,Employed,"₦60,000-₦99,999",Trading,Yes,River/Stream,Yes,Pit latrine,Fair,Poor roads
+R0826,55-64,Secondary,No,Unemployed,Unemployed,"Below ₦30,000",Farming,No,Pipe-borne,Yes,Open defecation,Fair,Poor schools
+R0827,35-44,Secondary,Yes,Trading,Retired,"Below ₦30,000",Fishing,Yes,Borehole,No,Pit latrine,Fair,Poor electricity
+R0828,18-24,Tertiary,Yes,Farming,Employed,"Below ₦30,000",Remittance,Yes,Pipe-borne,Yes,Flush toilet,Good,Unemployment
+R0829,55-64,None,Yes,Trading,Self-employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Open defecation,Good,Unemployment
+R0830,35-44,Secondary,Yes,Farming,Employed,"Below ₦30,000",Trading,No,Borehole,Yes,Pit latrine,Good,Poor roads
+R0831,25-34,Secondary,No,Trading,Unemployed,"₦60,000-₦99,999",Farming,No,Well,No,Other,Poor,Unemployment
+R0832,35-44,Secondary,Yes,Fishing,Employed,"Below ₦30,000",Remittance,Yes,Borehole,Yes,Pit latrine,Good,Unemployment
+R0833,25-34,Tertiary,Yes,Student,Employed,"₦60,000-₦99,999",Remittance,Yes,Borehole,Yes,Pit latrine,Poor,Poor roads
+R0834,55-64,Primary,Yes,Artisan,Employed,"Below ₦30,000",Salary/Wages,No,Borehole,Yes,Pit latrine,Good,Poor electricity
+R0835,18-24,Secondary,Yes,Artisan,Self-employed,"₦100,000+",Farming,No,Borehole,No,Open defecation,Good,Water shortage
+R0836,25-34,Primary,Yes,Fishing,Self-employed,"₦60,000-₦99,999",Salary/Wages,Yes,Pipe-borne,Yes,Pit latrine,Good,Insecurity
+R0837,35-44,Secondary,Yes,Other,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,River/Stream,No,Pit latrine,Good,Poor schools
+R0838,35-44,Primary,Yes,Trading,Student,"Below ₦30,000",Trading,Yes,Borehole,No,Pit latrine,Poor,Unemployment
+R0839,35-44,Tertiary,No,Trading,Self-employed,"₦100,000+",Trading,No,Sachet/Bottled,Yes,Pit latrine,Good,Water shortage
+R0840,25-34,Primary,Yes,Farming,Student,"₦30,000-₦59,999",Other,No,Pipe-borne,Yes,Pit latrine,Fair,Poor healthcare
+R0841,25-34,Tertiary,Yes,Unemployed,Retired,"₦30,000-₦59,999",Trading,Yes,Pipe-borne,Yes,Flush toilet,Fair,Insecurity
+R0842,35-44,Tertiary,No,Trading,Employed,"₦60,000-₦99,999",Fishing,Yes,Well,Yes,Pit latrine,Good,Poor roads
+R0843,25-34,Secondary,No,Trading,Employed,"₦100,000+",Farming,Yes,Borehole,Yes,Other,Fair,Poor roads
+R0844,55-64,Secondary,Yes,Other,Unemployed,"Below ₦30,000",Salary/Wages,Yes,Borehole,No,Pit latrine,Good,Water shortage
+R0845,65+,Secondary,No,Unemployed,Employed,"₦60,000-₦99,999",Fishing,Yes,Borehole,Yes,Pit latrine,Fair,Water shortage
+R0846,18-24,Primary,No,Fishing,Self-employed,"₦30,000-₦59,999",Farming,No,Well,No,Pit latrine,Fair,Insecurity
+R0847,45-54,Secondary,Yes,Trading,Employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Flush toilet,Good,Poor electricity
+R0848,35-44,Primary,Yes,Artisan,Student,"₦30,000-₦59,999",Farming,Yes,River/Stream,Yes,Flush toilet,Fair,Poor healthcare
+R0849,25-34,Primary,No,Trading,Employed,Prefer not to say,Salary/Wages,Yes,Pipe-borne,No,Pit latrine,Poor,Other
+R0850,25-34,Primary,No,Farming,Employed,"₦100,000+",Fishing,Yes,Pipe-borne,Yes,Flush toilet,Fair,Insecurity
+R0851,25-34,Secondary,No,Civil Servant,Self-employed,"₦60,000-₦99,999",Farming,No,Well,Yes,Pit latrine,Good,Water shortage
+R0852,18-24,Secondary,Yes,Other,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Borehole,No,Pit latrine,Good,Poor healthcare
+R0853,45-54,Secondary,No,Civil Servant,Self-employed,"₦30,000-₦59,999",Fishing,No,Well,Yes,Pit latrine,Good,Poor electricity
+R0854,45-54,Tertiary,Yes,Artisan,Self-employed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Other,Good,Poor healthcare
+R0855,25-34,Primary,Yes,Artisan,Self-employed,"₦30,000-₦59,999",Farming,No,Sachet/Bottled,No,Pit latrine,Fair,Unemployment
+R0856,35-44,Secondary,Yes,Unemployed,Employed,"₦100,000+",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Poor,Poor electricity
+R0857,25-34,Primary,Yes,Unemployed,Employed,"₦100,000+",Farming,Yes,Borehole,Yes,Open defecation,Fair,Poor roads
+R0858,55-64,Secondary,Yes,Unemployed,Employed,"₦60,000-₦99,999",Trading,No,River/Stream,Yes,Pit latrine,Poor,Poor electricity
+R0859,18-24,Secondary,No,Student,Self-employed,"₦60,000-₦99,999",Farming,Yes,Sachet/Bottled,No,Other,Good,Other
+R0860,25-34,Primary,Yes,Farming,Self-employed,"Below ₦30,000",Farming,Yes,Borehole,Yes,Flush toilet,Poor,Poor healthcare
+R0861,25-34,Secondary,No,Farming,Self-employed,"Below ₦30,000",Farming,No,Sachet/Bottled,Yes,Open defecation,Good,Poor schools
+R0862,45-54,Tertiary,Yes,Trading,Self-employed,"₦60,000-₦99,999",Farming,Yes,Sachet/Bottled,No,Pit latrine,Good,Unemployment
+R0863,55-64,Primary,No,Student,Self-employed,"₦30,000-₦59,999",Trading,No,Borehole,Yes,Pit latrine,Fair,Unemployment
+R0864,18-24,Tertiary,No,Trading,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,Well,Yes,Flush toilet,Good,Poor electricity
+R0865,25-34,Primary,Yes,Trading,Self-employed,"Below ₦30,000",Trading,Yes,Pipe-borne,No,Flush toilet,Good,Poor healthcare
+R0866,35-44,Primary,No,Fishing,Student,"₦60,000-₦99,999",Salary/Wages,Yes,Pipe-borne,Yes,Flush toilet,Fair,Unemployment
+R0867,35-44,Secondary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Good,Other
+R0868,35-44,None,Yes,Unemployed,Employed,"Below ₦30,000",Other,No,Well,Yes,Pit latrine,Good,Poor healthcare
+R0869,25-34,Primary,Yes,Artisan,Employed,"Below ₦30,000",Farming,Yes,Pipe-borne,Yes,Other,Good,Unemployment
+R0870,45-54,Primary,Yes,Civil Servant,Self-employed,"₦100,000+",Farming,Yes,Well,No,Pit latrine,Fair,Other
+R0871,65+,Tertiary,Yes,Trading,Employed,"₦30,000-₦59,999",Other,Yes,Borehole,No,Pit latrine,Fair,Poor electricity
+R0872,35-44,Secondary,Yes,Fishing,Employed,"Below ₦30,000",Trading,No,River/Stream,No,Pit latrine,Fair,Poor healthcare
+R0873,18-24,Secondary,Yes,Civil Servant,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Borehole,Yes,Flush toilet,Fair,Poor electricity
+R0874,25-34,Primary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Pit latrine,Fair,Water shortage
+R0875,35-44,Secondary,Yes,Unemployed,Employed,"₦60,000-₦99,999",Farming,No,Well,Yes,Flush toilet,Good,Insecurity
+R0876,55-64,Tertiary,Yes,Farming,Employed,"Below ₦30,000",Trading,No,Borehole,No,Flush toilet,Good,Other
+R0877,45-54,Primary,Yes,Farming,Employed,"₦30,000-₦59,999",Trading,Yes,Pipe-borne,Yes,Flush toilet,Good,Unemployment
+R0878,45-54,Primary,Yes,Trading,Self-employed,"₦60,000-₦99,999",Farming,Yes,River/Stream,No,Pit latrine,Fair,Insecurity
+R0879,55-64,Tertiary,Yes,Trading,Self-employed,"Below ₦30,000",Farming,Yes,Borehole,Yes,Pit latrine,Fair,Poor electricity
+R0880,35-44,Secondary,No,Other,Self-employed,"₦100,000+",Fishing,Yes,Borehole,Yes,Pit latrine,Fair,Poor roads
+R0881,45-54,Secondary,Yes,Trading,Employed,"Below ₦30,000",Farming,No,Sachet/Bottled,No,Open defecation,Poor,Water shortage
+R0882,65+,Tertiary,Yes,Fishing,Employed,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Flush toilet,Good,Insecurity
+R0883,35-44,Primary,Yes,Trading,Self-employed,"₦100,000+",Remittance,Yes,River/Stream,No,Flush toilet,Fair,Poor electricity
+R0884,65+,Secondary,Yes,Farming,Retired,"₦60,000-₦99,999",Farming,No,Borehole,Yes,Open defecation,Poor,Unemployment
+R0885,25-34,Tertiary,No,Trading,Student,"₦30,000-₦59,999",Salary/Wages,Yes,River/Stream,No,Flush toilet,Good,Poor schools
+R0886,35-44,Primary,Yes,Farming,Self-employed,"₦100,000+",Farming,No,Borehole,Yes,Flush toilet,Good,Poor healthcare
+R0887,25-34,Secondary,Yes,Farming,Student,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Pit latrine,Fair,Poor roads
+R0888,18-24,Secondary,Yes,Artisan,Self-employed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Fair,Insecurity
+R0889,65+,Primary,Yes,Farming,Unemployed,"₦60,000-₦99,999",Remittance,Yes,Other,Yes,Flush toilet,Fair,Water shortage
+R0890,35-44,Primary,Yes,Fishing,Self-employed,"₦60,000-₦99,999",Remittance,Yes,Well,No,Flush toilet,Good,Unemployment
+R0891,18-24,None,Yes,Trading,Unemployed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Good,Poor roads
+R0892,35-44,None,Yes,Fishing,Employed,"₦60,000-₦99,999",Fishing,No,Well,No,Pit latrine,Good,Unemployment
+R0893,35-44,Tertiary,No,Student,Self-employed,"₦100,000+",Salary/Wages,Yes,Well,Yes,Flush toilet,Fair,Water shortage
+R0894,65+,Primary,Yes,Trading,Employed,"₦30,000-₦59,999",Fishing,No,Well,Yes,Flush toilet,Good,Insecurity
+R0895,45-54,Tertiary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Farming,No,Pipe-borne,Yes,Pit latrine,Fair,Water shortage
+R0896,18-24,Secondary,Yes,Farming,Employed,"Below ₦30,000",Fishing,No,Sachet/Bottled,Yes,Pit latrine,Fair,Insecurity
+R0897,45-54,Secondary,No,Trading,Unemployed,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Pit latrine,Good,Insecurity
+R0898,45-54,Secondary,No,Civil Servant,Retired,"Below ₦30,000",Salary/Wages,Yes,Sachet/Bottled,Yes,Open defecation,Good,Poor schools
+R0899,25-34,Secondary,Yes,Unemployed,Employed,"₦60,000-₦99,999",Remittance,No,Borehole,No,Flush toilet,Fair,Other
+R0900,18-24,Tertiary,Yes,Other,Unemployed,"Below ₦30,000",Farming,No,River/Stream,Yes,Pit latrine,Good,Poor electricity
+R0901,18-24,Secondary,No,Unemployed,Retired,"Below ₦30,000",Fishing,No,River/Stream,No,Pit latrine,Good,Water shortage
+R0902,25-34,Secondary,Yes,Farming,Self-employed,"Below ₦30,000",Trading,Yes,Borehole,No,Flush toilet,Poor,Water shortage
+R0903,35-44,Secondary,Yes,Trading,Employed,Prefer not to say,Salary/Wages,No,Sachet/Bottled,No,Pit latrine,Good,Water shortage
+R0904,25-34,Tertiary,Yes,Unemployed,Unemployed,"₦30,000-₦59,999",Trading,Yes,Other,Yes,Open defecation,Good,Other
+R0905,25-34,Secondary,Yes,Farming,Employed,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Open defecation,Fair,Insecurity
+R0906,55-64,Primary,Yes,Artisan,Unemployed,"Below ₦30,000",Farming,Yes,Borehole,Yes,Pit latrine,Good,Water shortage
+R0907,45-54,Primary,No,Unemployed,Retired,"Below ₦30,000",Remittance,Yes,River/Stream,Yes,Open defecation,Good,Poor roads
+R0908,45-54,Primary,Yes,Other,Unemployed,"₦100,000+",Farming,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor electricity
+R0909,55-64,Primary,Yes,Artisan,Self-employed,"₦60,000-₦99,999",Salary/Wages,No,Pipe-borne,Yes,Open defecation,Good,Poor healthcare
+R0910,45-54,Primary,Yes,Farming,Student,"₦100,000+",Salary/Wages,No,Borehole,No,Open defecation,Good,Poor healthcare
+R0911,45-54,Secondary,Yes,Farming,Unemployed,"₦60,000-₦99,999",Fishing,Yes,Borehole,No,Pit latrine,Good,Poor electricity
+R0912,25-34,Secondary,Yes,Trading,Retired,"₦30,000-₦59,999",Fishing,Yes,Borehole,No,Open defecation,Poor,Poor healthcare
+R0913,35-44,Secondary,Yes,Civil Servant,Student,"₦60,000-₦99,999",Trading,No,Well,Yes,Flush toilet,Good,Insecurity
+R0914,18-24,Primary,Yes,Unemployed,Student,Prefer not to say,Trading,Yes,Other,Yes,Other,Good,Unemployment
+R0915,35-44,Secondary,Yes,Farming,Self-employed,Prefer not to say,Trading,Yes,Pipe-borne,No,Open defecation,Good,Poor roads
+R0916,35-44,Secondary,No,Other,Employed,"Below ₦30,000",Fishing,Yes,Well,Yes,Pit latrine,Good,Insecurity
+R0917,25-34,None,Yes,Trading,Employed,"Below ₦30,000",Fishing,Yes,Sachet/Bottled,Yes,Flush toilet,Good,Insecurity
+R0918,35-44,Primary,Yes,Other,Self-employed,"₦60,000-₦99,999",Fishing,No,Well,Yes,Pit latrine,Fair,Water shortage
+R0919,65+,Tertiary,Yes,Student,Unemployed,"₦30,000-₦59,999",Other,Yes,River/Stream,Yes,Open defecation,Fair,Poor healthcare
+R0920,65+,Secondary,Yes,Artisan,Unemployed,Prefer not to say,Fishing,Yes,Well,Yes,Open defecation,Poor,Poor electricity
+R0921,55-64,Tertiary,Yes,Fishing,Employed,"₦30,000-₦59,999",Trading,No,Well,Yes,Flush toilet,Fair,Other
+R0922,25-34,Primary,No,Farming,Student,"₦60,000-₦99,999",Salary/Wages,Yes,Pipe-borne,Yes,Flush toilet,Good,Poor schools
+R0923,25-34,Primary,Yes,Artisan,Retired,"₦30,000-₦59,999",Trading,No,Pipe-borne,Yes,Pit latrine,Poor,Poor electricity
+R0924,45-54,None,Yes,Other,Employed,"₦60,000-₦99,999",Remittance,Yes,Borehole,No,Flush toilet,Good,Water shortage
+R0925,35-44,Primary,Yes,Civil Servant,Employed,Prefer not to say,Fishing,No,Pipe-borne,No,Other,Fair,Poor schools
+R0926,65+,Tertiary,Yes,Farming,Employed,"₦60,000-₦99,999",Trading,No,Borehole,Yes,Flush toilet,Good,Other
+R0927,45-54,Secondary,No,Fishing,Employed,"₦30,000-₦59,999",Fishing,No,River/Stream,Yes,Flush toilet,Poor,Unemployment
+R0928,18-24,Primary,Yes,Artisan,Self-employed,"₦30,000-₦59,999",Trading,Yes,Sachet/Bottled,No,Flush toilet,Good,Poor schools
+R0929,25-34,Secondary,Yes,Student,Self-employed,Prefer not to say,Other,Yes,Pipe-borne,Yes,Pit latrine,Fair,Water shortage
+R0930,25-34,Primary,Yes,Trading,Employed,"₦30,000-₦59,999",Farming,No,Other,Yes,Pit latrine,Good,Poor healthcare
+R0931,45-54,Tertiary,Yes,Farming,Self-employed,Prefer not to say,Other,No,Borehole,Yes,Flush toilet,Fair,Insecurity
+R0932,65+,Secondary,Yes,Unemployed,Self-employed,"₦100,000+",Salary/Wages,Yes,Borehole,Yes,Flush toilet,Poor,Unemployment
+R0933,25-34,Secondary,No,Artisan,Self-employed,Prefer not to say,Remittance,Yes,Well,Yes,Flush toilet,Fair,Insecurity
+R0934,35-44,Tertiary,No,Unemployed,Retired,Prefer not to say,Farming,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor electricity
+R0935,35-44,Primary,Yes,Farming,Retired,"Below ₦30,000",Farming,No,Pipe-borne,Yes,Flush toilet,Fair,Poor schools
+R0936,45-54,Secondary,Yes,Civil Servant,Unemployed,"₦30,000-₦59,999",Fishing,Yes,Sachet/Bottled,Yes,Pit latrine,Poor,Unemployment
+R0937,65+,Secondary,Yes,Farming,Employed,Prefer not to say,Farming,Yes,Borehole,No,Pit latrine,Fair,Unemployment
+R0938,35-44,Tertiary,No,Civil Servant,Self-employed,"₦60,000-₦99,999",Farming,Yes,Well,Yes,Pit latrine,Good,Poor roads
+R0939,25-34,Primary,Yes,Other,Unemployed,"₦30,000-₦59,999",Remittance,Yes,Pipe-borne,Yes,Pit latrine,Fair,Poor roads
+R0940,35-44,Primary,Yes,Unemployed,Unemployed,"₦30,000-₦59,999",Farming,Yes,Borehole,No,Flush toilet,Fair,Poor electricity
+R0941,25-34,Secondary,Yes,Trading,Unemployed,"Below ₦30,000",Trading,No,Pipe-borne,Yes,Flush toilet,Poor,Poor electricity
+R0942,65+,Secondary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor healthcare
+R0943,25-34,Secondary,Yes,Trading,Employed,"Below ₦30,000",Fishing,Yes,Well,Yes,Flush toilet,Good,Unemployment
+R0944,45-54,Secondary,Yes,Artisan,Employed,"₦60,000-₦99,999",Farming,Yes,Well,Yes,Pit latrine,Poor,Insecurity
+R0945,65+,None,Yes,Trading,Self-employed,"₦60,000-₦99,999",Trading,Yes,Well,No,Pit latrine,Good,Unemployment
+R0946,45-54,Secondary,Yes,Artisan,Student,"₦60,000-₦99,999",Trading,No,River/Stream,No,Open defecation,Fair,Poor electricity
+R0947,45-54,Secondary,Yes,Farming,Unemployed,"₦30,000-₦59,999",Farming,No,Well,Yes,Flush toilet,Poor,Poor roads
+R0948,35-44,Primary,Yes,Unemployed,Self-employed,"₦100,000+",Trading,Yes,Sachet/Bottled,Yes,Pit latrine,Poor,Insecurity
+R0949,25-34,Tertiary,Yes,Civil Servant,Employed,"Below ₦30,000",Fishing,No,Borehole,No,Flush toilet,Good,Poor roads
+R0950,25-34,Primary,Yes,Other,Self-employed,"Below ₦30,000",Fishing,No,Sachet/Bottled,Yes,Pit latrine,Fair,Poor electricity
+R0951,55-64,Secondary,Yes,Student,Unemployed,"₦30,000-₦59,999",Trading,No,Pipe-borne,No,Pit latrine,Good,Other
+R0952,45-54,Primary,Yes,Farming,Retired,"Below ₦30,000",Salary/Wages,No,Pipe-borne,No,Flush toilet,Good,Unemployment
+R0953,45-54,Primary,No,Fishing,Unemployed,"Below ₦30,000",Remittance,Yes,Well,Yes,Other,Good,Poor roads
+R0954,25-34,Secondary,No,Other,Self-employed,"₦30,000-₦59,999",Other,Yes,Borehole,No,Pit latrine,Poor,Other
+R0955,25-34,Primary,Yes,Trading,Unemployed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Open defecation,Fair,Poor roads
+R0956,35-44,None,No,Student,Self-employed,"₦60,000-₦99,999",Farming,Yes,Borehole,Yes,Pit latrine,Poor,Poor roads
+R0957,65+,Primary,No,Trading,Self-employed,"₦100,000+",Trading,Yes,Sachet/Bottled,No,Pit latrine,Poor,Poor roads
+R0958,25-34,Tertiary,Yes,Student,Self-employed,Prefer not to say,Salary/Wages,Yes,Sachet/Bottled,No,Open defecation,Good,Unemployment
+R0959,25-34,Secondary,Yes,Student,Self-employed,"Below ₦30,000",Fishing,Yes,Borehole,Yes,Pit latrine,Fair,Poor schools
+R0960,18-24,Secondary,Yes,Farming,Self-employed,"Below ₦30,000",Farming,Yes,Sachet/Bottled,Yes,Other,Fair,Insecurity
+R0961,45-54,Primary,No,Civil Servant,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,Sachet/Bottled,Yes,Pit latrine,Fair,Unemployment
+R0962,35-44,Secondary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Other,Poor,Poor roads
+R0963,35-44,Tertiary,Yes,Student,Employed,"₦100,000+",Trading,No,Pipe-borne,Yes,Open defecation,Good,Unemployment
+R0964,25-34,Secondary,Yes,Civil Servant,Employed,"Below ₦30,000",Fishing,No,Sachet/Bottled,No,Flush toilet,Good,Unemployment
+R0965,45-54,Tertiary,Yes,Unemployed,Self-employed,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Pit latrine,Good,Unemployment
+R0966,25-34,Secondary,No,Civil Servant,Student,"₦100,000+",Salary/Wages,Yes,Pipe-borne,Yes,Other,Fair,Poor electricity
+R0967,18-24,None,No,Student,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Sachet/Bottled,No,Flush toilet,Good,Poor healthcare
+R0968,25-34,Secondary,No,Fishing,Employed,"₦100,000+",Farming,Yes,Well,No,Pit latrine,Fair,Poor healthcare
+R0969,35-44,Secondary,Yes,Farming,Self-employed,"₦100,000+",Trading,No,Sachet/Bottled,No,Open defecation,Fair,Insecurity
+R0970,25-34,Secondary,Yes,Other,Self-employed,"₦30,000-₦59,999",Farming,No,Sachet/Bottled,Yes,Pit latrine,Fair,Poor healthcare
+R0971,25-34,Secondary,Yes,Farming,Self-employed,"Below ₦30,000",Trading,Yes,Borehole,Yes,Other,Fair,Poor roads
+R0972,45-54,Primary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,Yes,Other,Good,Poor electricity
+R0973,18-24,Tertiary,Yes,Farming,Employed,"₦30,000-₦59,999",Other,Yes,Pipe-borne,Yes,Other,Fair,Poor healthcare
+R0974,35-44,Primary,Yes,Student,Retired,"₦100,000+",Salary/Wages,Yes,Borehole,Yes,Open defecation,Good,Insecurity
+R0975,18-24,Secondary,Yes,Farming,Employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Other,Good,Poor schools
+R0976,55-64,Secondary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Farming,Yes,River/Stream,Yes,Pit latrine,Good,Poor schools
+R0977,25-34,Tertiary,Yes,Unemployed,Student,"Below ₦30,000",Farming,No,Borehole,Yes,Flush toilet,Good,Insecurity
+R0978,25-34,Tertiary,Yes,Unemployed,Self-employed,Prefer not to say,Trading,Yes,Pipe-borne,Yes,Flush toilet,Fair,Poor roads
+R0979,25-34,Primary,Yes,Trading,Retired,"Below ₦30,000",Farming,Yes,Well,No,Other,Good,Poor roads
+R0980,35-44,Secondary,Yes,Farming,Student,"₦60,000-₦99,999",Trading,No,River/Stream,No,Pit latrine,Fair,Unemployment
+R0981,18-24,Secondary,Yes,Artisan,Self-employed,"₦60,000-₦99,999",Salary/Wages,No,Borehole,No,Flush toilet,Fair,Water shortage
+R0982,45-54,Primary,Yes,Farming,Unemployed,"₦60,000-₦99,999",Trading,No,Borehole,Yes,Other,Fair,Water shortage
+R0983,25-34,Tertiary,Yes,Unemployed,Employed,"₦60,000-₦99,999",Remittance,Yes,Borehole,Yes,Flush toilet,Good,Poor healthcare
+R0984,55-64,Secondary,Yes,Trading,Employed,Prefer not to say,Fishing,Yes,Other,No,Other,Fair,Poor electricity
+R0985,35-44,Primary,Yes,Trading,Employed,"₦30,000-₦59,999",Trading,No,Well,No,Other,Good,Poor healthcare
+R0986,65+,Tertiary,Yes,Trading,Employed,"₦30,000-₦59,999",Remittance,No,Well,No,Open defecation,Good,Insecurity
+R0987,25-34,Secondary,Yes,Farming,Employed,Prefer not to say,Trading,Yes,Pipe-borne,Yes,Flush toilet,Good,Poor roads
+R0988,35-44,Secondary,Yes,Unemployed,Unemployed,"₦30,000-₦59,999",Farming,Yes,River/Stream,Yes,Open defecation,Good,Poor roads
+R0989,35-44,Tertiary,Yes,Fishing,Self-employed,"Below ₦30,000",Trading,Yes,Well,No,Pit latrine,Poor,Poor schools
+R0990,35-44,Secondary,No,Farming,Self-employed,"Below ₦30,000",Remittance,Yes,Well,No,Other,Poor,Insecurity
+R0991,65+,Primary,Yes,Student,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,Pipe-borne,Yes,Flush toilet,Fair,Unemployment
+R0992,35-44,Primary,No,Student,Unemployed,"₦30,000-₦59,999",Farming,Yes,Sachet/Bottled,No,Flush toilet,Good,Insecurity
+R0993,25-34,Primary,Yes,Farming,Employed,Prefer not to say,Farming,Yes,Borehole,Yes,Open defecation,Good,Poor roads
+R0994,25-34,Secondary,Yes,Trading,Self-employed,"₦60,000-₦99,999",Trading,No,Sachet/Bottled,Yes,Other,Good,Poor healthcare
+R0995,35-44,Tertiary,Yes,Other,Unemployed,Prefer not to say,Other,Yes,Sachet/Bottled,No,Other,Fair,Insecurity
+R0996,25-34,Secondary,Yes,Farming,Employed,"₦60,000-₦99,999",Trading,Yes,Pipe-borne,Yes,Open defecation,Poor,Poor roads
+R0997,18-24,Tertiary,Yes,Artisan,Employed,Prefer not to say,Remittance,Yes,Borehole,Yes,Open defecation,Good,Insecurity
+R0998,18-24,Primary,Yes,Farming,Employed,"₦30,000-₦59,999",Remittance,Yes,Borehole,Yes,Flush toilet,Poor,Unemployment
+R0999,25-34,Tertiary,Yes,Other,Retired,"₦60,000-₦99,999",Trading,Yes,Pipe-borne,No,Pit latrine,Good,Poor electricity
+R1000,55-64,Tertiary,Yes,Unemployed,Unemployed,"Below ₦30,000",Trading,Yes,Pipe-borne,Yes,Open defecation,Good,Water shortage
+R1001,35-44,Primary,Yes,Trading,Employed,"₦60,000-₦99,999",Salary/Wages,No,Pipe-borne,Yes,Pit latrine,Poor,Unemployment
+R1002,35-44,Secondary,No,Artisan,Self-employed,Prefer not to say,Farming,Yes,Pipe-borne,Yes,Flush toilet,Fair,Water shortage
+R1003,25-34,Secondary,Yes,Student,Employed,"₦100,000+",Trading,Yes,Borehole,No,Flush toilet,Poor,Poor healthcare
+R1004,25-34,Secondary,Yes,Trading,Self-employed,"₦60,000-₦99,999",Trading,No,Well,Yes,Pit latrine,Poor,Water shortage
+R1005,18-24,Secondary,Yes,Unemployed,Student,"₦60,000-₦99,999",Remittance,No,Borehole,No,Flush toilet,Good,Insecurity
+R1006,25-34,Primary,Yes,Artisan,Self-employed,"₦60,000-₦99,999",Fishing,No,Borehole,No,Other,Fair,Poor electricity
+R1007,35-44,Secondary,Yes,Fishing,Unemployed,"Below ₦30,000",Fishing,Yes,Borehole,Yes,Flush toilet,Fair,Water shortage
+R1008,35-44,Primary,Yes,Farming,Employed,"Below ₦30,000",Salary/Wages,Yes,Borehole,No,Other,Good,Insecurity
+R1009,45-54,Primary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Fishing,Yes,Sachet/Bottled,Yes,Flush toilet,Good,Poor roads
+R1010,18-24,None,No,Civil Servant,Student,Prefer not to say,Farming,Yes,Pipe-borne,Yes,Open defecation,Poor,Poor schools
+R1011,45-54,Secondary,No,Farming,Student,"₦60,000-₦99,999",Farming,Yes,Sachet/Bottled,Yes,Other,Good,Insecurity
+R1012,18-24,Primary,Yes,Other,Employed,"₦60,000-₦99,999",Farming,No,Borehole,Yes,Pit latrine,Good,Insecurity
+R1013,45-54,Tertiary,Yes,Fishing,Self-employed,"₦100,000+",Fishing,Yes,Borehole,Yes,Open defecation,Fair,Insecurity
+R1014,18-24,Primary,Yes,Trading,Student,"₦100,000+",Fishing,Yes,Borehole,No,Flush toilet,Good,Poor roads
+R1015,45-54,Tertiary,Yes,Civil Servant,Self-employed,"Below ₦30,000",Farming,Yes,Sachet/Bottled,Yes,Pit latrine,Fair,Water shortage
+R1016,45-54,Primary,Yes,Trading,Student,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Poor,Poor electricity
+R1017,25-34,Secondary,No,Fishing,Unemployed,"₦30,000-₦59,999",Farming,No,Well,No,Pit latrine,Good,Poor electricity
+R1018,25-34,Secondary,Yes,Trading,Employed,"₦100,000+",Remittance,No,Borehole,No,Pit latrine,Fair,Water shortage
+R1019,55-64,Secondary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Farming,Yes,Sachet/Bottled,Yes,Flush toilet,Good,Poor schools
+R1020,18-24,Secondary,Yes,Trading,Employed,"₦30,000-₦59,999",Fishing,No,Borehole,Yes,Flush toilet,Good,Poor electricity
+R1021,35-44,Secondary,No,Student,Unemployed,Prefer not to say,Trading,Yes,Borehole,No,Flush toilet,Fair,Insecurity
+R1022,55-64,Tertiary,Yes,Other,Self-employed,"Below ₦30,000",Remittance,No,Borehole,Yes,Pit latrine,Good,Poor electricity
+R1023,65+,Tertiary,Yes,Civil Servant,Self-employed,"₦60,000-₦99,999",Farming,Yes,Sachet/Bottled,Yes,Flush toilet,Good,Poor roads
+R1024,35-44,None,No,Fishing,Self-employed,"₦100,000+",Fishing,Yes,Other,No,Flush toilet,Fair,Insecurity
+R1025,55-64,None,Yes,Farming,Unemployed,"Below ₦30,000",Fishing,No,Borehole,Yes,Flush toilet,Good,Poor electricity
+R1026,45-54,Tertiary,Yes,Fishing,Self-employed,"₦30,000-₦59,999",Other,Yes,Borehole,Yes,Flush toilet,Good,Unemployment
+R1027,45-54,Secondary,Yes,Trading,Employed,"Below ₦30,000",Trading,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor schools
+R1028,18-24,Primary,No,Farming,Employed,"Below ₦30,000",Trading,No,Borehole,Yes,Flush toilet,Good,Poor roads
+R1029,18-24,Primary,Yes,Unemployed,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Pipe-borne,No,Open defecation,Fair,Insecurity
+R1030,65+,Secondary,Yes,Unemployed,Self-employed,"Below ₦30,000",Salary/Wages,Yes,River/Stream,Yes,Pit latrine,Good,Poor healthcare
+R1031,55-64,Primary,Yes,Farming,Self-employed,"₦100,000+",Remittance,Yes,Borehole,Yes,Flush toilet,Good,Water shortage
+R1032,25-34,Tertiary,Yes,Other,Self-employed,"Below ₦30,000",Farming,Yes,Pipe-borne,Yes,Pit latrine,Fair,Insecurity
+R1033,25-34,Secondary,Yes,Farming,Employed,"₦60,000-₦99,999",Fishing,No,Borehole,Yes,Pit latrine,Good,Insecurity
+R1034,25-34,None,Yes,Farming,Unemployed,Prefer not to say,Remittance,Yes,Borehole,Yes,Pit latrine,Good,Poor roads
+R1035,65+,Secondary,Yes,Trading,Unemployed,"Below ₦30,000",Salary/Wages,Yes,Borehole,No,Pit latrine,Good,Water shortage
+R1036,65+,Secondary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Pit latrine,Fair,Water shortage
+R1037,18-24,Secondary,No,Farming,Self-employed,"₦30,000-₦59,999",Farming,No,Pipe-borne,Yes,Flush toilet,Good,Unemployment
+R1038,35-44,Primary,Yes,Farming,Employed,"₦30,000-₦59,999",Salary/Wages,No,Sachet/Bottled,Yes,Pit latrine,Poor,Poor roads
+R1039,55-64,Secondary,Yes,Farming,Self-employed,"₦100,000+",Salary/Wages,No,Borehole,Yes,Pit latrine,Fair,Poor roads
+R1040,18-24,Primary,Yes,Farming,Self-employed,"Below ₦30,000",Trading,Yes,Borehole,Yes,Flush toilet,Poor,Insecurity
+R1041,18-24,Primary,Yes,Civil Servant,Unemployed,"₦30,000-₦59,999",Fishing,No,Borehole,Yes,Pit latrine,Fair,Poor roads
+R1042,35-44,Tertiary,Yes,Trading,Retired,"₦60,000-₦99,999",Fishing,No,Pipe-borne,Yes,Pit latrine,Good,Poor roads
+R1043,45-54,Secondary,No,Farming,Self-employed,"₦30,000-₦59,999",Trading,Yes,Other,Yes,Pit latrine,Poor,Poor electricity
+R1044,45-54,Primary,Yes,Other,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,Yes,Other,Good,Unemployment
+R1045,18-24,Primary,Yes,Artisan,Employed,Prefer not to say,Salary/Wages,No,Pipe-borne,No,Pit latrine,Good,Poor roads
+R1046,18-24,Tertiary,No,Trading,Employed,"Below ₦30,000",Fishing,Yes,Sachet/Bottled,Yes,Open defecation,Fair,Water shortage
+R1047,18-24,Tertiary,Yes,Unemployed,Self-employed,"₦60,000-₦99,999",Trading,Yes,Sachet/Bottled,Yes,Flush toilet,Good,Poor schools
+R1048,35-44,Tertiary,No,Trading,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,River/Stream,Yes,Open defecation,Fair,Poor healthcare
+R1049,35-44,Tertiary,Yes,Trading,Student,"₦30,000-₦59,999",Remittance,No,Borehole,Yes,Flush toilet,Fair,Poor electricity
+R1050,45-54,Primary,Yes,Unemployed,Employed,"₦30,000-₦59,999",Remittance,Yes,Borehole,No,Pit latrine,Fair,Insecurity
+R1051,45-54,Tertiary,Yes,Civil Servant,Employed,"₦100,000+",Fishing,No,Borehole,Yes,Pit latrine,Good,Insecurity
+R1052,55-64,Secondary,Yes,Student,Employed,Prefer not to say,Salary/Wages,No,Sachet/Bottled,Yes,Flush toilet,Fair,Poor healthcare
+R1053,18-24,Tertiary,Yes,Trading,Retired,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Pit latrine,Poor,Poor roads
+R1054,18-24,Primary,Yes,Farming,Self-employed,"₦100,000+",Other,Yes,Other,Yes,Pit latrine,Poor,Insecurity
+R1055,25-34,None,No,Artisan,Student,"₦60,000-₦99,999",Salary/Wages,Yes,Other,Yes,Pit latrine,Poor,Unemployment
+R1056,25-34,Secondary,Yes,Farming,Employed,"₦30,000-₦59,999",Farming,No,Well,Yes,Pit latrine,Poor,Insecurity
+R1057,25-34,Secondary,Yes,Unemployed,Unemployed,"₦60,000-₦99,999",Farming,Yes,River/Stream,No,Pit latrine,Good,Poor electricity
+R1058,45-54,Tertiary,Yes,Fishing,Employed,"₦100,000+",Remittance,Yes,Borehole,Yes,Open defecation,Good,Unemployment
+R1059,65+,Primary,No,Farming,Self-employed,"₦100,000+",Other,Yes,Pipe-borne,No,Pit latrine,Good,Poor roads
+R1060,65+,Tertiary,Yes,Farming,Self-employed,Prefer not to say,Salary/Wages,Yes,River/Stream,No,Flush toilet,Good,Insecurity
+R1061,18-24,Secondary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Fishing,Yes,Pipe-borne,Yes,Pit latrine,Fair,Poor healthcare
+R1062,25-34,Secondary,Yes,Unemployed,Employed,"Below ₦30,000",Trading,Yes,Borehole,Yes,Flush toilet,Good,Insecurity
+R1063,45-54,Secondary,Yes,Student,Employed,"Below ₦30,000",Salary/Wages,Yes,Borehole,Yes,Other,Fair,Other
+R1064,18-24,Primary,Yes,Unemployed,Employed,"₦100,000+",Remittance,No,Borehole,Yes,Pit latrine,Good,Other
+R1065,25-34,Tertiary,Yes,Civil Servant,Employed,"₦100,000+",Fishing,Yes,Sachet/Bottled,Yes,Flush toilet,Poor,Unemployment
+R1066,35-44,Secondary,Yes,Unemployed,Self-employed,Prefer not to say,Trading,No,Well,No,Flush toilet,Good,Poor electricity
+R1067,18-24,Tertiary,No,Fishing,Student,"Below ₦30,000",Trading,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor roads
+R1068,65+,Secondary,Yes,Farming,Employed,"₦60,000-₦99,999",Fishing,No,River/Stream,Yes,Flush toilet,Good,Unemployment
+R1069,25-34,Secondary,No,Fishing,Self-employed,Prefer not to say,Trading,Yes,Borehole,Yes,Pit latrine,Good,Poor healthcare
+R1070,25-34,Secondary,Yes,Farming,Student,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Other,Good,Poor schools
+R1071,25-34,Tertiary,Yes,Farming,Retired,"₦30,000-₦59,999",Trading,Yes,Pipe-borne,Yes,Flush toilet,Good,Insecurity
+R1072,25-34,Tertiary,Yes,Fishing,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,No,Flush toilet,Good,Water shortage
+R1073,25-34,Primary,Yes,Other,Unemployed,"Below ₦30,000",Salary/Wages,Yes,Pipe-borne,Yes,Pit latrine,Fair,Water shortage
+R1074,35-44,Tertiary,Yes,Fishing,Unemployed,"₦60,000-₦99,999",Fishing,Yes,Borehole,Yes,Pit latrine,Fair,Insecurity
+R1075,35-44,Secondary,Yes,Unemployed,Retired,"₦100,000+",Remittance,Yes,Other,Yes,Flush toilet,Good,Poor healthcare
+R1076,25-34,Tertiary,Yes,Farming,Employed,"₦100,000+",Fishing,Yes,Borehole,Yes,Flush toilet,Good,Poor healthcare
+R1077,18-24,Tertiary,Yes,Trading,Self-employed,"₦60,000-₦99,999",Salary/Wages,Yes,Borehole,Yes,Flush toilet,Good,Poor roads
+R1078,65+,Secondary,No,Other,Unemployed,"Below ₦30,000",Remittance,Yes,Sachet/Bottled,No,Flush toilet,Good,Insecurity
+R1079,65+,Secondary,Yes,Student,Student,"₦60,000-₦99,999",Other,Yes,Other,No,Flush toilet,Good,Insecurity
+R1080,35-44,Tertiary,Yes,Fishing,Employed,"₦30,000-₦59,999",Fishing,No,Borehole,Yes,Pit latrine,Fair,Poor healthcare
+R1081,45-54,Secondary,Yes,Unemployed,Self-employed,"₦30,000-₦59,999",Farming,No,Borehole,Yes,Pit latrine,Poor,Insecurity
+R1082,35-44,Secondary,Yes,Artisan,Self-employed,Prefer not to say,Trading,No,Pipe-borne,Yes,Flush toilet,Good,Poor roads
+R1083,35-44,None,No,Unemployed,Unemployed,"₦60,000-₦99,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Fair,Poor healthcare
+R1084,55-64,None,Yes,Fishing,Retired,"₦60,000-₦99,999",Farming,No,Well,Yes,Pit latrine,Good,Poor roads
+R1085,18-24,Primary,Yes,Farming,Self-employed,Prefer not to say,Salary/Wages,Yes,Well,Yes,Open defecation,Poor,Unemployment
+R1086,25-34,Secondary,Yes,Trading,Employed,"₦30,000-₦59,999",Salary/Wages,No,Borehole,Yes,Flush toilet,Poor,Poor healthcare
+R1087,25-34,Secondary,Yes,Civil Servant,Student,"₦60,000-₦99,999",Farming,Yes,Other,No,Flush toilet,Good,Insecurity
+R1088,65+,Tertiary,No,Farming,Self-employed,"₦60,000-₦99,999",Other,Yes,Pipe-borne,Yes,Flush toilet,Good,Unemployment
+R1089,18-24,Primary,Yes,Civil Servant,Retired,"₦30,000-₦59,999",Trading,No,Borehole,Yes,Open defecation,Fair,Unemployment
+R1090,65+,Secondary,No,Artisan,Self-employed,"Below ₦30,000",Fishing,Yes,Pipe-borne,Yes,Pit latrine,Good,Poor roads
+R1091,45-54,Primary,Yes,Trading,Self-employed,Prefer not to say,Farming,Yes,Borehole,Yes,Other,Good,Poor healthcare
+R1092,18-24,Tertiary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Fair,Insecurity
+R1093,25-34,Secondary,Yes,Farming,Self-employed,"Below ₦30,000",Remittance,Yes,Pipe-borne,Yes,Flush toilet,Good,Insecurity
+R1094,25-34,None,Yes,Artisan,Self-employed,Prefer not to say,Farming,No,Borehole,Yes,Open defecation,Fair,Poor roads
+R1095,25-34,Tertiary,Yes,Other,Self-employed,"₦60,000-₦99,999",Salary/Wages,No,Borehole,No,Flush toilet,Fair,Poor roads
+R1096,25-34,Primary,Yes,Farming,Self-employed,"₦100,000+",Salary/Wages,Yes,Borehole,Yes,Flush toilet,Good,Poor schools
+R1097,25-34,Secondary,Yes,Farming,Employed,"₦100,000+",Trading,Yes,Other,Yes,Pit latrine,Poor,Water shortage
+R1098,35-44,Primary,No,Trading,Employed,"₦60,000-₦99,999",Farming,Yes,Borehole,No,Flush toilet,Good,Water shortage
+R1099,25-34,Tertiary,Yes,Trading,Employed,"₦60,000-₦99,999",Trading,Yes,Sachet/Bottled,Yes,Open defecation,Good,Poor schools
+R1100,55-64,Secondary,No,Trading,Employed,"₦30,000-₦59,999",Farming,No,Borehole,Yes,Flush toilet,Fair,Water shortage
+R1101,65+,Primary,Yes,Civil Servant,Self-employed,"₦100,000+",Other,Yes,River/Stream,Yes,Flush toilet,Fair,Unemployment
+R1102,25-34,None,No,Farming,Employed,"₦30,000-₦59,999",Salary/Wages,No,Pipe-borne,No,Flush toilet,Good,Poor roads
+R1103,25-34,Secondary,No,Trading,Self-employed,Prefer not to say,Trading,Yes,Well,Yes,Flush toilet,Good,Poor roads
+R1104,18-24,Tertiary,No,Fishing,Unemployed,"Below ₦30,000",Trading,No,Sachet/Bottled,Yes,Other,Fair,Poor electricity
+R1105,65+,Secondary,Yes,Unemployed,Unemployed,"Below ₦30,000",Other,No,Well,Yes,Flush toilet,Good,Insecurity
+R1106,55-64,Secondary,Yes,Fishing,Unemployed,"₦60,000-₦99,999",Trading,Yes,Other,No,Pit latrine,Good,Unemployment
+R1107,25-34,Tertiary,Yes,Civil Servant,Unemployed,"₦60,000-₦99,999",Salary/Wages,Yes,Well,No,Pit latrine,Fair,Unemployment
+R1108,45-54,Secondary,Yes,Civil Servant,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,Well,Yes,Open defecation,Good,Unemployment
+R1109,35-44,Tertiary,Yes,Civil Servant,Employed,"₦60,000-₦99,999",Farming,Yes,Well,Yes,Open defecation,Good,Poor healthcare
+R1110,18-24,Secondary,Yes,Civil Servant,Retired,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Pit latrine,Good,Insecurity
+R1111,45-54,Primary,No,Other,Retired,"₦60,000-₦99,999",Salary/Wages,Yes,Pipe-borne,No,Flush toilet,Good,Water shortage
+R1112,35-44,Secondary,Yes,Fishing,Retired,"Below ₦30,000",Farming,Yes,Other,Yes,Flush toilet,Good,Water shortage
+R1113,18-24,Secondary,No,Fishing,Self-employed,"₦60,000-₦99,999",Salary/Wages,Yes,River/Stream,Yes,Flush toilet,Good,Unemployment
+R1114,45-54,Tertiary,Yes,Fishing,Student,"Below ₦30,000",Trading,Yes,Borehole,Yes,Flush toilet,Fair,Poor roads
+R1115,35-44,Primary,Yes,Farming,Unemployed,"₦60,000-₦99,999",Trading,Yes,Pipe-borne,Yes,Flush toilet,Good,Poor schools
+R1116,45-54,None,No,Unemployed,Self-employed,"₦60,000-₦99,999",Farming,Yes,Well,Yes,Flush toilet,Good,Poor roads
+R1117,55-64,Secondary,Yes,Trading,Self-employed,Prefer not to say,Trading,Yes,Borehole,No,Open defecation,Fair,Unemployment
+R1118,65+,Tertiary,Yes,Other,Employed,"₦30,000-₦59,999",Farming,No,River/Stream,Yes,Open defecation,Good,Poor healthcare
+R1119,35-44,Tertiary,Yes,Civil Servant,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Well,No,Pit latrine,Good,Unemployment
+R1120,45-54,Tertiary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Well,Yes,Pit latrine,Fair,Unemployment
+R1121,35-44,Primary,No,Unemployed,Employed,Prefer not to say,Fishing,No,Borehole,Yes,Flush toilet,Fair,Insecurity
+R1122,45-54,Secondary,Yes,Civil Servant,Self-employed,"₦60,000-₦99,999",Fishing,No,Sachet/Bottled,Yes,Other,Poor,Insecurity
+R1123,45-54,Secondary,Yes,Farming,Employed,"₦30,000-₦59,999",Fishing,Yes,Borehole,Yes,Pit latrine,Good,Unemployment
+R1124,55-64,Secondary,No,Farming,Student,"₦60,000-₦99,999",Salary/Wages,Yes,Borehole,No,Pit latrine,Poor,Poor healthcare
+R1125,25-34,Secondary,No,Unemployed,Self-employed,"₦30,000-₦59,999",Salary/Wages,No,Borehole,No,Flush toilet,Fair,Poor electricity
+R1126,55-64,Tertiary,Yes,Fishing,Unemployed,"₦60,000-₦99,999",Other,No,Well,Yes,Pit latrine,Good,Insecurity
+R1127,35-44,Tertiary,Yes,Farming,Unemployed,"₦100,000+",Salary/Wages,Yes,Borehole,Yes,Other,Good,Insecurity
+R1128,55-64,Tertiary,Yes,Other,Student,"Below ₦30,000",Salary/Wages,Yes,Borehole,Yes,Other,Fair,Poor roads
+R1129,55-64,None,Yes,Other,Retired,"Below ₦30,000",Salary/Wages,Yes,River/Stream,No,Pit latrine,Good,Poor roads
+R1130,25-34,Secondary,No,Other,Unemployed,"₦60,000-₦99,999",Trading,Yes,Borehole,Yes,Pit latrine,Poor,Poor electricity
+R1131,35-44,Secondary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Trading,Yes,Pipe-borne,Yes,Flush toilet,Fair,Poor electricity
+R1132,35-44,Secondary,Yes,Other,Unemployed,"₦30,000-₦59,999",Salary/Wages,Yes,Sachet/Bottled,Yes,Pit latrine,Good,Poor roads
+R1133,35-44,Primary,Yes,Civil Servant,Student,"Below ₦30,000",Trading,Yes,Borehole,Yes,Pit latrine,Poor,Water shortage
+R1134,18-24,Secondary,Yes,Fishing,Self-employed,"₦100,000+",Farming,Yes,Well,No,Pit latrine,Poor,Poor roads
+R1135,35-44,Tertiary,Yes,Trading,Self-employed,"₦100,000+",Trading,No,Borehole,No,Pit latrine,Poor,Insecurity
+R1136,25-34,Primary,Yes,Fishing,Self-employed,"Below ₦30,000",Salary/Wages,No,Borehole,Yes,Flush toilet,Fair,Other
+R1137,18-24,Tertiary,Yes,Fishing,Employed,"₦30,000-₦59,999",Trading,Yes,Pipe-borne,Yes,Open defecation,Fair,Unemployment
+R1138,18-24,Tertiary,Yes,Farming,Self-employed,Prefer not to say,Trading,No,Sachet/Bottled,Yes,Flush toilet,Fair,Poor healthcare
+R1139,18-24,Secondary,Yes,Farming,Self-employed,Prefer not to say,Salary/Wages,Yes,Sachet/Bottled,No,Flush toilet,Good,Poor healthcare
+R1140,35-44,Primary,Yes,Farming,Employed,"₦60,000-₦99,999",Trading,No,Pipe-borne,Yes,Flush toilet,Fair,Water shortage
+R1141,45-54,Secondary,No,Trading,Self-employed,"₦60,000-₦99,999",Farming,No,Pipe-borne,No,Open defecation,Good,Unemployment
+R1142,55-64,Primary,Yes,Fishing,Self-employed,"₦100,000+",Fishing,Yes,Well,Yes,Open defecation,Fair,Unemployment
+R1143,18-24,Secondary,Yes,Farming,Self-employed,"₦100,000+",Remittance,Yes,Pipe-borne,Yes,Pit latrine,Fair,Water shortage
+R1144,35-44,Secondary,Yes,Artisan,Student,"₦60,000-₦99,999",Trading,Yes,Pipe-borne,No,Pit latrine,Poor,Poor schools
+R1145,35-44,Secondary,Yes,Farming,Employed,"Below ₦30,000",Farming,Yes,Pipe-borne,Yes,Flush toilet,Good,Insecurity
+R1146,25-34,Secondary,Yes,Student,Employed,"₦100,000+",Trading,No,Borehole,No,Pit latrine,Poor,Poor electricity
+R1147,35-44,Primary,Yes,Farming,Unemployed,"Below ₦30,000",Other,Yes,Borehole,Yes,Open defecation,Good,Unemployment
+R1148,55-64,Primary,No,Trading,Unemployed,"₦100,000+",Fishing,No,Borehole,Yes,Flush toilet,Poor,Poor roads
+R1149,35-44,Secondary,Yes,Other,Self-employed,"₦60,000-₦99,999",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Fair,Unemployment
+R1150,25-34,Secondary,Yes,Farming,Student,"₦100,000+",Remittance,No,Other,Yes,Other,Poor,Insecurity
+R1151,35-44,Primary,Yes,Other,Self-employed,"₦30,000-₦59,999",Trading,Yes,Pipe-borne,Yes,Pit latrine,Poor,Insecurity
+R1152,45-54,Primary,Yes,Farming,Employed,Prefer not to say,Trading,Yes,River/Stream,Yes,Flush toilet,Good,Unemployment
+R1153,35-44,Secondary,Yes,Farming,Employed,Prefer not to say,Salary/Wages,Yes,Well,Yes,Open defecation,Fair,Water shortage
+R1154,35-44,Tertiary,No,Unemployed,Student,"₦60,000-₦99,999",Farming,No,Other,Yes,Open defecation,Fair,Insecurity
+R1155,35-44,Tertiary,Yes,Fishing,Self-employed,"₦60,000-₦99,999",Farming,Yes,Well,Yes,Flush toilet,Good,Insecurity
+R1156,65+,None,Yes,Other,Self-employed,"₦60,000-₦99,999",Farming,No,Borehole,Yes,Pit latrine,Good,Poor roads
+R1157,18-24,Primary,Yes,Student,Self-employed,"₦30,000-₦59,999",Remittance,Yes,Sachet/Bottled,Yes,Pit latrine,Good,Unemployment
+R1158,55-64,Secondary,Yes,Trading,Employed,"Below ₦30,000",Salary/Wages,Yes,Well,No,Flush toilet,Fair,Insecurity
+R1159,65+,Primary,Yes,Unemployed,Self-employed,"₦100,000+",Trading,Yes,Borehole,Yes,Flush toilet,Fair,Water shortage
+R1160,45-54,Primary,Yes,Trading,Employed,"₦60,000-₦99,999",Farming,No,Borehole,Yes,Pit latrine,Fair,Poor healthcare
+R1161,18-24,Tertiary,Yes,Trading,Unemployed,"Below ₦30,000",Fishing,Yes,Borehole,Yes,Pit latrine,Good,Insecurity
+R1162,25-34,None,Yes,Trading,Self-employed,"Below ₦30,000",Farming,Yes,Pipe-borne,Yes,Pit latrine,Fair,Insecurity
+R1163,25-34,Secondary,Yes,Farming,Employed,Prefer not to say,Fishing,Yes,River/Stream,Yes,Flush toilet,Good,Water shortage
+R1164,35-44,Secondary,Yes,Artisan,Employed,"₦30,000-₦59,999",Remittance,Yes,Pipe-borne,Yes,Flush toilet,Poor,Insecurity
+R1165,18-24,Secondary,No,Other,Student,Prefer not to say,Trading,Yes,Pipe-borne,No,Pit latrine,Fair,Poor healthcare
+R1166,35-44,Primary,No,Farming,Unemployed,"₦60,000-₦99,999",Trading,No,Pipe-borne,Yes,Other,Good,Poor electricity
+R1167,45-54,Tertiary,Yes,Fishing,Self-employed,"₦60,000-₦99,999",Trading,Yes,Sachet/Bottled,Yes,Pit latrine,Good,Unemployment
+R1168,18-24,Secondary,Yes,Civil Servant,Unemployed,"₦100,000+",Farming,No,Pipe-borne,Yes,Pit latrine,Fair,Unemployment
+R1169,18-24,Tertiary,Yes,Trading,Employed,"Below ₦30,000",Salary/Wages,No,Pipe-borne,Yes,Other,Good,Unemployment
+R1170,35-44,Secondary,No,Farming,Self-employed,"₦30,000-₦59,999",Remittance,Yes,Borehole,Yes,Flush toilet,Fair,Unemployment
+R1171,25-34,Secondary,Yes,Unemployed,Student,"₦100,000+",Farming,Yes,Well,Yes,Flush toilet,Good,Insecurity
+R1172,35-44,Primary,Yes,Unemployed,Unemployed,"Below ₦30,000",Salary/Wages,Yes,River/Stream,Yes,Other,Fair,Insecurity
+R1173,65+,Tertiary,No,Unemployed,Employed,"₦30,000-₦59,999",Fishing,No,Pipe-borne,No,Other,Good,Poor roads
+R1174,45-54,Tertiary,Yes,Farming,Employed,"₦100,000+",Farming,Yes,Borehole,Yes,Open defecation,Fair,Poor healthcare
+R1175,35-44,Tertiary,Yes,Farming,Unemployed,"₦30,000-₦59,999",Trading,Yes,Borehole,No,Flush toilet,Good,Water shortage
+R1176,35-44,Secondary,No,Artisan,Unemployed,"₦30,000-₦59,999",Farming,Yes,Borehole,Yes,Pit latrine,Good,Unemployment
+R1177,35-44,Secondary,Yes,Trading,Retired,"Below ₦30,000",Remittance,Yes,Pipe-borne,No,Open defecation,Good,Water shortage
+R1178,45-54,Tertiary,Yes,Artisan,Self-employed,"Below ₦30,000",Trading,Yes,Borehole,No,Flush toilet,Fair,Poor healthcare
+R1179,45-54,Tertiary,Yes,Unemployed,Retired,"₦60,000-₦99,999",Fishing,Yes,Pipe-borne,No,Flush toilet,Poor,Poor healthcare
+R1180,55-64,Tertiary,No,Student,Self-employed,"₦60,000-₦99,999",Trading,No,Borehole,Yes,Open defecation,Good,Poor roads
+R1181,45-54,Tertiary,Yes,Civil Servant,Retired,"₦30,000-₦59,999",Farming,No,Borehole,No,Open defecation,Fair,Poor roads
+R1182,55-64,Primary,Yes,Farming,Unemployed,"₦100,000+",Fishing,Yes,Well,Yes,Flush toilet,Good,Insecurity
+R1183,65+,Primary,Yes,Trading,Unemployed,"₦100,000+",Fishing,Yes,Pipe-borne,Yes,Pit latrine,Poor,Unemployment
+R1184,45-54,Secondary,Yes,Unemployed,Student,"₦100,000+",Farming,Yes,Pipe-borne,Yes,Pit latrine,Poor,Insecurity
+R1185,25-34,Secondary,Yes,Fishing,Unemployed,"₦60,000-₦99,999",Farming,No,Well,Yes,Other,Fair,Other
+R1186,25-34,None,Yes,Unemployed,Employed,"₦30,000-₦59,999",Trading,Yes,Borehole,Yes,Pit latrine,Fair,Poor roads
+R1187,25-34,Secondary,Yes,Farming,Employed,"₦60,000-₦99,999",Farming,Yes,Borehole,Yes,Pit latrine,Good,Water shortage
+R1188,25-34,Tertiary,Yes,Artisan,Retired,"Below ₦30,000",Farming,Yes,Borehole,Yes,Pit latrine,Good,Water shortage
+R1189,25-34,Tertiary,Yes,Fishing,Unemployed,Prefer not to say,Farming,No,Other,Yes,Open defecation,Poor,Insecurity
+R1190,18-24,Secondary,Yes,Trading,Employed,"₦60,000-₦99,999",Salary/Wages,Yes,Pipe-borne,No,Flush toilet,Good,Unemployment
+R1191,55-64,Secondary,Yes,Farming,Self-employed,"₦60,000-₦99,999",Trading,Yes,Pipe-borne,Yes,Other,Good,Poor electricity
+R1192,35-44,Secondary,Yes,Farming,Employed,"Below ₦30,000",Farming,Yes,Pipe-borne,Yes,Pit latrine,Fair,Insecurity
+R1193,55-64,Tertiary,Yes,Civil Servant,Self-employed,"Below ₦30,000",Salary/Wages,No,Sachet/Bottled,Yes,Pit latrine,Good,Poor electricity
+R1194,45-54,None,Yes,Unemployed,Unemployed,"₦30,000-₦59,999",Fishing,No,Borehole,Yes,Flush toilet,Good,Unemployment
+R1195,18-24,Secondary,Yes,Farming,Employed,"Below ₦30,000",Farming,Yes,River/Stream,Yes,Other,Good,Poor healthcare
+R1196,45-54,Secondary,Yes,Fishing,Self-employed,"₦100,000+",Farming,Yes,Pipe-borne,Yes,Pit latrine,Good,Insecurity
+R1197,55-64,Secondary,Yes,Farming,Unemployed,"Below ₦30,000",Farming,No,River/Stream,Yes,Flush toilet,Fair,Poor electricity
+R1198,65+,Tertiary,Yes,Fishing,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Well,No,Pit latrine,Good,Poor electricity
+R1199,35-44,Tertiary,Yes,Other,Employed,"₦30,000-₦59,999",Farming,No,Borehole,No,Other,Good,Insecurity
+R1200,45-54,Tertiary,Yes,Trading,Employed,"₦30,000-₦59,999",Farming,Yes,Pipe-borne,Yes,Flush toilet,Good,Unemployment
+R1201,25-34,Primary,No,Trading,Self-employed,"₦60,000-₦99,999",Remittance,No,Well,Yes,Open defecation,Good,Water shortage
+R1202,35-44,Secondary,Yes,Student,Employed,"Below ₦30,000",Salary/Wages,Yes,Other,No,Flush toilet,Good,Poor roads
+R1203,35-44,None,Yes,Trading,Self-employed,"₦30,000-₦59,999",Trading,Yes,Borehole,No,Flush toilet,Good,Unemployment
+R1204,45-54,Secondary,Yes,Other,Employed,"₦30,000-₦59,999",Fishing,No,Borehole,No,Open defecation,Good,Unemployment
+R1205,25-34,Primary,Yes,Trading,Self-employed,"Below ₦30,000",Trading,Yes,Sachet/Bottled,No,Other,Poor,Unemployment
+R1206,18-24,None,Yes,Fishing,Self-employed,"₦60,000-₦99,999",Fishing,Yes,River/Stream,Yes,Pit latrine,Good,Poor healthcare
+R1207,18-24,None,Yes,Unemployed,Retired,Prefer not to say,Fishing,Yes,Borehole,Yes,Other,Poor,Water shortage
+R1208,25-34,Secondary,Yes,Student,Self-employed,"₦100,000+",Salary/Wages,No,Borehole,Yes,Flush toilet,Good,Poor schools
+R1209,35-44,Tertiary,Yes,Fishing,Employed,"₦100,000+",Farming,No,Sachet/Bottled,Yes,Other,Fair,Unemployment
+R1210,45-54,Primary,Yes,Farming,Self-employed,"₦30,000-₦59,999",Salary/Wages,Yes,Borehole,No,Pit latrine,Fair,Insecurity
+R1211,65+,Secondary,Yes,Other,Employed,"Below ₦30,000",Salary/Wages,Yes,Borehole,Yes,Pit latrine,Fair,Poor roads
+R1212,35-44,Secondary,Yes,Farming,Employed,Prefer not to say,Farming,Yes,Sachet/Bottled,No,Flush toilet,Fair,Poor healthcare
+R1213,18-24,None,Yes,Trading,Self-employed,"Below ₦30,000",Salary/Wages,Yes,Borehole,Yes,Other,Good,Unemployment
+R1214,55-64,Tertiary,Yes,Unemployed,Employed,"₦100,000+",Farming,Yes,Borehole,Yes,Open defecation,Good,Insecurity
+R1215,45-54,Primary,Yes,Fishing,Self-employed,"₦60,000-₦99,999",Remittance,Yes,Pipe-borne,No,Open defecation,Good,Unemployment
+R1216,35-44,Tertiary,Yes,Unemployed,Self-employed,"₦30,000-₦59,999",Farming,No,Pipe-borne,No,Pit latrine,Fair,Poor electricity
+R1217,45-54,Tertiary,Yes,Student,Unemployed,Prefer not to say,Fishing,Yes,Well,Yes,Other,Fair,Insecurity
+R1218,25-34,Secondary,Yes,Trading,Student,"Below ₦30,000",Trading,Yes,Well,Yes,Pit latrine,Good,Water shortage
+R1219,25-34,Secondary,No,Trading,Employed,"₦30,000-₦59,999",Other,Yes,Pipe-borne,Yes,Pit latrine,Fair,Poor roads
+R1220,55-64,None,Yes,Artisan,Employed,"₦30,000-₦59,999",Farming,Yes,Well,Yes,Pit latrine,Fair,Poor roads
+R1221,35-44,Secondary,Yes,Other,Self-employed,"₦60,000-₦99,999",Trading,Yes,Borehole,Yes,Flush toilet,Good,Poor roads
+R1222,18-24,Secondary,Yes,Unemployed,Self-employed,"₦60,000-₦99,999",Farming,No,River/Stream,Yes,Pit latrine,Good,Unemployment
+R1223,18-24,Primary,Yes,Trading,Employed,"Below ₦30,000",Farming,Yes,Borehole,Yes,Pit latrine,Good,Other
+R1224,35-44,Primary,Yes,Farming,Student,"Below ₦30,000",Trading,Yes,Well,No,Open defecation,Fair,Poor schools
+R1225,25-34,Secondary,Yes,Unemployed,Employed,"₦60,000-₦99,999",Salary/Wages,Yes,River/Stream,Yes,Flush toilet,Fair,Poor roads
+R1226,25-34,Primary,Yes,Artisan,Self-employed,"Below ₦30,000",Fishing,Yes,Sachet/Bottled,No,Pit latrine,Good,Poor schools
+R1227,25-34,Tertiary,No,Civil Servant,Self-employed,Prefer not to say,Farming,Yes,Borehole,Yes,Pit latrine,Fair,Poor schools
+R1228,65+,Tertiary,Yes,Trading,Employed,"₦100,000+",Other,Yes,Pipe-borne,No,Pit latrine,Poor,Poor electricity
+R1229,25-34,Primary,Yes,Civil Servant,Self-employed,Prefer not to say,Fishing,No,Borehole,Yes,Pit latrine,Good,Insecurity
+R1230,65+,Tertiary,No,Student,Unemployed,"₦30,000-₦59,999",Fishing,Yes,Borehole,Yes,Pit latrine,Good,Other
+R1231,55-64,Secondary,No,Other,Employed,"₦100,000+",Fishing,No,Pipe-borne,Yes,Flush toilet,Good,Water shortage
+R1232,25-34,Secondary,Yes,Trading,Employed,"₦60,000-₦99,999",Salary/Wages,No,Pipe-borne,Yes,Open defecation,Poor,Poor roads
+R1233,65+,Secondary,No,Other,Self-employed,"₦30,000-₦59,999",Fishing,No,Borehole,Yes,Pit latrine,Good,Poor schools
+R1234,45-54,Primary,Yes,Farming,Self-employed,"₦100,000+",Farming,No,Borehole,No,Open defecation,Fair,Insecurity
+R1235,25-34,Primary,Yes,Trading,Self-employed,"Below ₦30,000",Fishing,No,Well,No,Open defecation,Good,Unemployment
+R1236,45-54,Tertiary,No,Civil Servant,Student,"₦60,000-₦99,999",Salary/Wages,Yes,Pipe-borne,Yes,Flush toilet,Good,Poor electricity
+R1237,18-24,Tertiary,Yes,Other,Employed,"₦30,000-₦59,999",Salary/Wages,Yes,River/Stream,Yes,Flush toilet,Fair,Unemployment
+R1238,45-54,Tertiary,Yes,Trading,Self-employed,"₦30,000-₦59,999",Remittance,Yes,Borehole,No,Flush toilet,Poor,Unemployment
+R1239,25-34,Secondary,No,Other,Self-employed,Prefer not to say,Trading,No,Other,Yes,Pit latrine,Good,Poor healthcare
+R1240,25-34,Primary,No,Farming,Self-employed,"₦60,000-₦99,999",Salary/Wages,Yes,Borehole,No,Flush toilet,Good,Insecurity
+R1241,25-34,None,Yes,Fishing,Self-employed,Prefer not to say,Farming,No,Borehole,No,Pit latrine,Fair,Water shortage
+R1242,45-54,None,Yes,Civil Servant,Employed,"₦60,000-₦99,999",Trading,No,Borehole,Yes,Flush toilet,Good,Insecurity
+R1243,18-24,Secondary,Yes,Civil Servant,Retired,"Below ₦30,000",Salary/Wages,Yes,Pipe-borne,No,Flush toilet,Good,Poor electricity
+R1244,25-34,Secondary,No,Farming,Unemployed,"₦100,000+",Farming,Yes,River/Stream,Yes,Other,Good,Unemployment
+R1245,18-24,Primary,Yes,Other,Self-employed,"Below ₦30,000",Trading,Yes,Pipe-borne,Yes,Flush toilet,Good,Insecurity
+R1246,65+,Secondary,Yes,Trading,Employed,"₦30,000-₦59,999",Fishing,Yes,Well,Yes,Open defecation,Good,Water shortage
+R1247,35-44,None,Yes,Fishing,Self-employed,"₦30,000-₦59,999",Other,Yes,Well,No,Flush toilet,Good,Poor roads
+R1248,35-44,Primary,No,Unemployed,Employed,Prefer not to say,Remittance,No,Borehole,Yes,Open defecation,Fair,Other
+R1249,45-54,Primary,Yes,Farming,Unemployed,"Below ₦30,000",Trading,No,Borehole,Yes,Other,Fair,Poor healthcare
+R1250,18-24,Secondary,Yes,Artisan,Self-employed,"Below ₦30,000",Farming,No,Borehole,Yes,Pit latrine,Good,Poor roads
