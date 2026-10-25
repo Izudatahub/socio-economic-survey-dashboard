@@ -96,8 +96,6 @@ Microsoft Power BI
 | `dashboard-page-3.jpg` | Employment, health, and community challenges |
 | `simulated-community-socioeconomic-data.csv` | Synthetic practice dataset |
 
-If available, the original editable Power BI report (`.pbix`) can be added separately. Do not upload confidential information or real respondents' personal data.
-
 ## How to Use
 
 1. Open or download `simulated-community-socioeconomic-data.csv`.
@@ -114,5 +112,5 @@ If available, the original editable Power BI report (`.pbix`) can be added separ
 
 ## Author
 
-**Ogbodo Nehemiah Izuchukwu**  
+# Ogbodo Nehemiah Izuchukwu
 Data Analysis | Data Visualisation | Statistics | Power BI | Excel
