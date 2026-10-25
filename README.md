@@ -1,8 +1,8 @@
 # Socio-Economic Survey Dashboard
 
-**A three-page community socio-economic profile dashboard built with a simulated dataset.
+A three-page community socio-economic profile dashboard built with a simulated dataset.
 
-**This portfolio project presents an overview of community demographics, education, employment, income, access to basic infrastructure, health status, and perceived community challenges.> 
+This portfolio project presents an overview of community demographics, education, employment, income, access to basic infrastructure, health status, and perceived community challenges.> 
 
 **Data disclaimer:** 
 
